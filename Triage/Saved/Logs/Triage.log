@@ -1226,3 +1226,507 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.04-02.46.09:786][745]LogContentValidation: Display: Validating Material /Game/Triage/Blueprints/Camera1_Mat.Camera1_Mat
 [2022.07.04-02.46.09:786][745]LogContentValidation: Display: Validating TextureRenderTarget2D /Game/Triage/Blueprints/Camera2RenderTarget.Camera2RenderTarget
 [2022.07.04-02.46.09:786][745]LogContentValidation: Display: Validating Material /Game/Triage/Blueprints/Camera2_Mat.Camera2_Mat
+[2022.07.04-02.46.39:485][996]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.04-02.46.41:038][996]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.04-02.46.41:046][996]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.04-02.46.41:060][996]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.04-02.46.51:203][187]LogContentBrowser: Attempting asset rename: NewBlueprint -> PatientPaperBP
+[2022.07.04-02.46.51:207][187]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.04-02.46.52:634][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/PatientPaperBP.PatientPaperBP
+[2022.07.04-02.47.19:391][338]LogTexture: Display: Building textures: T_PolygonCity_Texture_Roughness (OODLE_AutoDXT, 1024X1024)
+[2022.07.04-02.47.19:391][338]LogTexture: Display: Building textures: T_PolygonCity_Emissive_01 (OODLE_AutoDXT, 1024X1024)
+[2022.07.04-02.47.19:391][338]LogTexture: Display: Building textures: T_PolygonCity_Texture_Normal_01 (OODLE_BC5, 1024X1024)
+[2022.07.04-02.47.19:391][338]LogTexture: Display: Building textures: T_PolygonCity_Texture_Metallic (OODLE_AutoDXT, 1024X1024)
+[2022.07.04-02.47.19:391][338]LogTexture: Display: Building textures: T_PolygonCity_Texture_01_A (OODLE_AutoDXT, 1024X1024)
+[2022.07.04-02.47.19:391][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.04-02.47.19:391][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.04-02.47.19:391][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.07.04-02.47.19:391][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.07.04-02.47.19:391][338]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.07.04-02.47.19:391][338]LogMaterial: Display: Missing cached shadermap for Mat_PolygonCity_Texture_01_A in PCD3D_SM5, Default, SM5 (DDC key hash: 9A2B9B1D6BACAF55BDABEFE9B1C4590785CD96C4), compiling. 
+[2022.07.04-02.47.19:476][338]LogShaderCompilers: Display: Submitted 66 shader compile jobs with 'Low' priority
+[2022.07.04-02.47.19:477][338]LogStaticMesh: Building static mesh SM_Prop_Paper_01...
+[2022.07.04-02.47.19:498][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2022.07.04-02.47.19:498][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2022.07.04-02.47.19:499][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2022.07.04-02.47.19:499][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2022.07.04-02.47.19:499][338]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.07.04-02.47.19:507][338]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_01.SM_Prop_Paper_01
+[2022.07.04-02.47.24:133][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2022.07.04-02.47.24:133][569]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.24:142][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.04-02.47.24:142][569]LogShaderCompilers: Display: Total job queries 112, among them cache hits 14 (12.50%)
+[2022.07.04-02.47.24:142][569]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 22 distinct outputs (52.38%)
+[2022.07.04-02.47.24:142][569]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.07.04-02.47.24:142][569]LogShaderCompilers: Display: ================================================
+[2022.07.04-02.47.25:207][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2022.07.04-02.47.25:207][625]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.25:490][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.07.04-02.47.25:490][640]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.26:884][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.07.04-02.47.26:884][714]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.27:366][739]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.07.04-02.47.27:366][739]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.27:678][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.07.04-02.47.27:678][756]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.28:364][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.07.04-02.47.28:365][793]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.28:479][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.07.04-02.47.28:479][799]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.28:598][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.07.04-02.47.28:598][805]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.04-02.47.45:892][922]LogStaticMesh: Building static mesh SM_Prop_Paper_01...
+[2022.07.04-02.47.45:910][922]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_01.SM_Prop_Paper_01
+[2022.07.04-02.47.51:396][217]LogStaticMesh: Building static mesh SM_Prop_Paper_02...
+[2022.07.04-02.47.51:429][217]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02
+[2022.07.04-02.47.53:563][323]LogStaticMesh: Building static mesh SM_Prop_Paper_03...
+[2022.07.04-02.47.53:592][323]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_03.SM_Prop_Paper_03
+[2022.07.04-02.47.55:714][434]LogStaticMesh: Building static mesh SM_Prop_Paper_04...
+[2022.07.04-02.47.55:742][434]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_04.SM_Prop_Paper_04
+[2022.07.04-02.47.58:247][568]LogStaticMesh: Building static mesh SM_Prop_Paper_05...
+[2022.07.04-02.47.58:277][568]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_05.SM_Prop_Paper_05
+[2022.07.04-02.48.00:199][667]LogStaticMesh: Building static mesh SM_Prop_Paper_06...
+[2022.07.04-02.48.00:226][667]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_06.SM_Prop_Paper_06
+[2022.07.04-02.48.02:578][787]LogStaticMesh: Building static mesh SM_Prop_Paper_Lewd_Copy_01...
+[2022.07.04-02.48.02:592][787]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Lewd_Copy_01.SM_Prop_Paper_Lewd_Copy_01
+[2022.07.04-02.49.55:258][357]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.07.04-02.49.55:259][357]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.07.04-02.50.00:171][733]LogEditorTransaction: Undo Add Component
+[2022.07.04-02.50.50:311][452]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.04-02.50.50:333][452]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.04-02.50.52:802][745]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2022.07.04-02.50.52:803][745]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.04-02.51.03:572][834]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.07.04-02.51.03:583][834]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.07.04-02.51.07:954][353]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PatientWidget
+[2022.07.04-02.51.07:958][353]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.07.04-02.51.09:172][490]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-02.51.28:567][864]LogEditorTransaction: Undo Edit Y
+[2022.07.04-02.51.53:543][773]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-02.51.53:543][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-02.51.53:552][773]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-02.51.53:552][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-02.52.02:364][458]BlueprintLog: New page: Compile PatientPaperBP
+[2022.07.04-02.52.02:443][458]LogSlate: Slate User Unregistered.  User Index 8
+[2022.07.04-02.52.02:443][458]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.07.04-02.52.02:462][458]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.07.04-02.52.03:014][492]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientPaperBP3EED49DB416323EE82B37A8582A517C1.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Blueprints/PatientPaperBP.uasset'
+[2022.07.04-02.52.03:027][492]AssetCheck: New page: Asset Save: PatientPaperBP
+[2022.07.04-02.52.03:027][492]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/PatientPaperBP.PatientPaperBP
+[2022.07.04-02.57.23:155][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-02.58.13:253][857]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 48857
+[2022.07.04-02.58.13:253][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-02.58.13:262][858]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.04-02.58.13:268][858]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.04-02.58.13:269][858]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.04-02.58.13:279][858]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.04-02.58.13:282][858]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.04-02.58.13:557][878]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 21
+[2022.07.04-02.58.13:558][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-02.58.13:564][879]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.04-02.58.13:570][879]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.04-02.58.13:571][879]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.04-02.58.13:582][879]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.04-02.58.13:585][879]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.04-02.58.17:618][133]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-02.58.17:690][133]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2022.07.04-02.58.17:792][133]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.04-02.58.17:945][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/PatientWidget" FILE="../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset" SILENT=true
+[2022.07.04-02.58.17:948][143]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientWidget6D21204D4344D3B9EA469481E903D653.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset'
+[2022.07.04-02.58.17:966][143]AssetCheck: New page: Asset Save: PatientWidget
+[2022.07.04-02.58.17:966][143]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-02.58.20:836][345]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.04-02.58.20:857][345]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.04-02.58.39:588][646]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:589][646]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:604][647]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:618][648]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:631][649]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:645][650]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:659][651]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:677][652]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:691][653]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:705][654]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:718][655]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:733][656]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:747][657]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:762][658]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:777][659]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:789][660]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:804][661]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:817][662]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:830][663]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:845][664]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:859][665]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:873][666]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:886][667]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:902][668]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:915][669]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:928][670]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:942][671]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:955][672]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:970][673]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:983][674]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.39:997][675]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.40:010][676]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.40:023][677]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.58.40:038][678]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.PatientDetailsWidget has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.400 Z=0.000
+[2022.07.04-02.59.21:516][752]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-02.59.23:657][874]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-02.59.23:802][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.07.04-02.59.24:064][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/PatientWidget" FILE="../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset" SILENT=true
+[2022.07.04-02.59.24:069][886]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientWidgetC579CBAC4C6A7985BACB6599A35853C9.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset'
+[2022.07.04-02.59.24:082][886]AssetCheck: New page: Asset Save: PatientWidget
+[2022.07.04-02.59.24:082][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-02.59.29:689][261]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.04-02.59.30:474][310]BlueprintLog: New page: Compile PatientPaperBP
+[2022.07.04-02.59.30:553][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.07.04-02.59.36:721][769]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.04-02.59.55:071][116]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-02.59.55:163][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.07.04-03.00.02:322][715]LogEditorTransaction: Undo Edit Size
+[2022.07.04-03.00.12:577][571]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-03.00.12:577][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.00.12:587][571]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-03.00.12:588][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.00.15:605][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.07.04-03.00.16:535][854]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.04-03.00.16:675][854]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-03.00.18:926][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.04-03.00.18:965][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.07.04-03.00.18:998][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.07.04-03.00.20:227][974]LogActorFactory: Actor Factory created Plane
+[2022.07.04-03.00.20:923][ 50]LogActorFactory: Actor Factory created Plane
+[2022.07.04-03.00.25:416][559]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.07.04-03.00.25:699][587]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.04-03.00.25:704][587]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.04-03.00.25:705][587]LogPlayLevel: [PlayLevel] Compiling PatientPaperBP before play...
+[2022.07.04-03.00.25:767][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.07.04-03.00.25:770][587]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2022.07.04-03.00.25:771][587]PIE: New page: PIE session: TestingMap (4 Jul 2022, 11:00:25 pm)
+[2022.07.04-03.00.25:804][587]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMap
+[2022.07.04-03.00.25:806][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002149s)
+[2022.07.04-03.00.25:807][587]LogAIModule: Creating AISystem for world TestingMap
+[2022.07.04-03.00.25:807][587]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2022.07.04-03.00.25:807][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMap.TestingMap to /Game/Triage/Levels/UEDPIE_0_TestingMap.TestingMap (0.003398s)
+[2022.07.04-03.00.25:843][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.07.04-03.00.25:844][587]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-03.00.25:844][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-03.00.25:844][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-03.00.25:844][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-03.00.25:844][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-03.00.25:844][587]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.04-03.00.25:848][587]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-03.00.25:848][587]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-03.00.25:857][587]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.07.04-03.00.25:857][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-03.00.25:857][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-03.00.25:857][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-03.00.25:857][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.04-03.00.25:857][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.04-03.00.25:857][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.04-03.00.25:859][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.04-03.00.25:859][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.04-03.00.25:859][587]LogInit: FAudioDevice initialized.
+[2022.07.04-03.00.25:859][587]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestingMap'.
+[2022.07.04-03.00.25:865][587]LogLoad: Game class is 'TriageGM_C'
+[2022.07.04-03.00.25:868][587]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2022.07.04-13.00.25
+[2022.07.04-03.00.25:868][587]LogWorld: Bringing up level for play took: 0.000609
+[2022.07.04-03.00.25:868][587]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.07.04-03.00.25:870][587]PIE: Server logged in
+[2022.07.04-03.00.25:871][587]PIE: Play in editor total start time 0.166 seconds.
+[2022.07.04-03.00.27:505][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-03.00.27:505][779]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMap
+[2022.07.04-03.00.27:505][779]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-03.00.27:505][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.00.27:512][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-03.00.27:524][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.00.27:559][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-03.00.27:559][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-03.00.27:560][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-03.00.27:562][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-03.00.27:567][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.07.04-03.00.27:611][780]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.07.04-03.00.28:290][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.04-03.00.40:424][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.04-03.00.49:390][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.04-03.00.50:479][131]Cmd: DELETE
+[2022.07.04-03.00.50:480][131]Cmd: ACTOR DELETE
+[2022.07.04-03.00.50:481][131]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.04-03.00.50:517][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.04-03.00.50:523][131]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.07.04-03.00.52:633][336]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.04-03.00.52:638][336]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.07.04-03.00.54:236][336]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.04-03.00.57:444][656]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.07.04-03.00.57:457][656]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.07.04-03.01.01:694][165]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PatientWidget
+[2022.07.04-03.01.01:698][165]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.07.04-03.01.02:836][297]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-03.02.17:787][974]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.07.04-03.02.47:903][985]LogSlate: Took 0.011620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.07.04-03.03.12:647][199]LogEditorTransaction: Undo Set Vector Property
+[2022.07.04-03.03.49:297][621]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-03.03.49:349][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.07.04-03.03.49:630][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/PatientWidget" FILE="../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset" SILENT=true
+[2022.07.04-03.03.49:634][649]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientWidgetC809511A49CFF3D9FC0F4998F338AE96.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset'
+[2022.07.04-03.03.49:646][649]AssetCheck: New page: Asset Save: PatientWidget
+[2022.07.04-03.03.49:646][649]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-03.03.59:032][387]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.04-03.03.59:054][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.04-03.05.35:601][959]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.04-03.05.52:223][554]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-03.05.56:848][956]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-03.05.57:000][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.07.04-03.06.04:092][531]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:092][531]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:093][531]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:093][531]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:106][532]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:106][532]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:118][533]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:118][533]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:131][534]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:131][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:143][535]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:143][535]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:160][536]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:160][536]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:172][537]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:172][537]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:184][538]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:184][538]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:197][539]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:197][539]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:209][540]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:209][540]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:225][541]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:225][541]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:238][542]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:238][542]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:251][543]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:251][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:264][544]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:264][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:275][545]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:275][545]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:288][546]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:288][546]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:301][547]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:301][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:312][548]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:312][548]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:325][549]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:325][549]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:337][550]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:337][550]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:348][551]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:348][551]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:360][552]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:360][552]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:372][553]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:372][553]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:384][554]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:384][554]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:397][555]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:397][555]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:409][556]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:409][556]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:421][557]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:421][557]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:433][558]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:433][558]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:444][559]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:444][559]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:457][560]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:458][560]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:470][561]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:470][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:481][562]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:481][562]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:494][563]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:494][563]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:506][564]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:506][564]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:519][565]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:519][565]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:531][566]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:531][566]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:544][567]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:544][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:561][568]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:561][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:573][569]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:573][569]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:586][570]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:586][570]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:598][571]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:598][571]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.04:611][572]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.04:611][572]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:487][732]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:488][732]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:501][733]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:501][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:513][734]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:513][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:527][735]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:527][735]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:540][736]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:540][736]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:553][737]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:553][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.06:566][738]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.06:566][738]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.11:621][152]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.04-03.06.12:071][163]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.04-03.06.12:073][163]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.12:073][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.12:074][163]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.12:074][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.12:074][163]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.12:074][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.12:142][163]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.12:142][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.12:142][163]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.07.04-03.06.12:142][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_5:PersistentLevel.PatientPaperBP_C_0.Details' 
+[2022.07.04-03.06.12:534][199]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.04-03.08.52:440][943]BlueprintLog: New page: Compile PatientPaperBP
+[2022.07.04-03.08.52:589][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.07.04-03.08.52:994][968]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientPaperBP9D34CB2844ED7F55B19566A2A1EFF9E7.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Blueprints/PatientPaperBP.uasset'
+[2022.07.04-03.08.53:008][968]AssetCheck: New page: Asset Save: PatientPaperBP
+[2022.07.04-03.08.53:008][968]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/PatientPaperBP.PatientPaperBP
+[2022.07.04-03.08.58:957][518]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-03.08.59:041][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.07.04-03.08.59:814][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/PatientWidget" FILE="../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset" SILENT=true
+[2022.07.04-03.08.59:821][598]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientWidgetB2593F9D458362292B80FD83251298C9.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset'
+[2022.07.04-03.08.59:833][598]AssetCheck: New page: Asset Save: PatientWidget
+[2022.07.04-03.08.59:833][598]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-03.09.12:278][653]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-03.09.16:976][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-03.09.19:463][255]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-03.09.20:612][352]BlueprintLog: New page: Compile PatientWidget
+[2022.07.04-03.09.20:698][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.07.04-03.09.20:983][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/PatientWidget" FILE="../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset" SILENT=true
+[2022.07.04-03.09.20:987][368]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/PatientWidget588F17844921D6D4876AA392EE16BE86.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Content/Triage/Widgets/PatientWidget.uasset'
+[2022.07.04-03.09.21:000][368]AssetCheck: New page: Asset Save: PatientWidget
+[2022.07.04-03.09.21:000][368]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/PatientWidget.PatientWidget
+[2022.07.04-03.09.34:638][574]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.07.04-03.09.35:859][703]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.04-03.09.35:866][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-03.09.35:866][703]PIE: New page: PIE session: TestingMap (4 Jul 2022, 11:09:35 pm)
+[2022.07.04-03.09.35:886][703]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMap
+[2022.07.04-03.09.35:889][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002583s)
+[2022.07.04-03.09.35:890][703]LogAIModule: Creating AISystem for world TestingMap
+[2022.07.04-03.09.35:890][703]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2022.07.04-03.09.35:890][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMap.TestingMap to /Game/Triage/Levels/UEDPIE_0_TestingMap.TestingMap (0.004060s)
+[2022.07.04-03.09.35:937][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.07.04-03.09.35:940][703]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-03.09.35:940][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-03.09.35:940][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-03.09.35:940][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-03.09.35:940][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-03.09.35:940][703]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.04-03.09.35:944][703]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-03.09.35:944][703]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-03.09.35:954][703]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.07.04-03.09.35:955][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-03.09.35:955][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-03.09.35:955][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-03.09.35:956][703]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.04-03.09.35:956][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.04-03.09.35:956][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.04-03.09.35:957][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.04-03.09.35:957][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.04-03.09.35:957][703]LogInit: FAudioDevice initialized.
+[2022.07.04-03.09.35:957][703]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestingMap'.
+[2022.07.04-03.09.35:963][703]LogLoad: Game class is 'TriageGM_C'
+[2022.07.04-03.09.35:965][703]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2022.07.04-13.09.35
+[2022.07.04-03.09.35:965][703]LogWorld: Bringing up level for play took: 0.000777
+[2022.07.04-03.09.35:965][703]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.07.04-03.09.35:968][703]PIE: Server logged in
+[2022.07.04-03.09.35:968][703]PIE: Play in editor total start time 0.105 seconds.
+[2022.07.04-03.09.38:287][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-03.09.38:287][975]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMap
+[2022.07.04-03.09.38:287][975]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-03.09.38:287][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.09.38:298][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-03.09.38:309][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.09.38:346][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-03.09.38:347][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-03.09.38:348][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-03.09.38:350][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-03.09.38:355][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.07.04-03.09.38:395][976]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.07.04-03.09.54:068][679]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.04-03.09.54:073][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-03.09.54:073][679]PIE: New page: PIE session: TestingMap (4 Jul 2022, 11:09:54 pm)
+[2022.07.04-03.09.54:106][679]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMap
+[2022.07.04-03.09.54:108][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002358s)
+[2022.07.04-03.09.54:109][679]LogAIModule: Creating AISystem for world TestingMap
+[2022.07.04-03.09.54:110][679]LogPlayLevel: PIE: World Init took: (0.001624s)
+[2022.07.04-03.09.54:110][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMap.TestingMap to /Game/Triage/Levels/UEDPIE_0_TestingMap.TestingMap (0.004112s)
+[2022.07.04-03.09.54:157][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.07.04-03.09.54:160][679]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.04-03.09.54:160][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-03.09.54:160][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-03.09.54:161][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-03.09.54:161][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-03.09.54:161][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-03.09.54:161][679]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.04-03.09.54:164][679]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.04-03.09.54:164][679]LogAudioMixer: Display: 1: FrontRight
+[2022.07.04-03.09.54:172][679]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.07.04-03.09.54:172][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-03.09.54:172][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-03.09.54:172][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-03.09.54:173][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.04-03.09.54:173][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.04-03.09.54:173][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.04-03.09.54:174][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.04-03.09.54:174][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.04-03.09.54:174][679]LogInit: FAudioDevice initialized.
+[2022.07.04-03.09.54:174][679]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestingMap'.
+[2022.07.04-03.09.54:179][679]LogLoad: Game class is 'TriageGM_C'
+[2022.07.04-03.09.54:181][679]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMap.TestingMap up for play (max tick rate 0) at 2022.07.04-13.09.54
+[2022.07.04-03.09.54:181][679]LogWorld: Bringing up level for play took: 0.000982
+[2022.07.04-03.09.54:182][679]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.07.04-03.09.54:184][679]PIE: Server logged in
+[2022.07.04-03.09.54:185][679]PIE: Play in editor total start time 0.112 seconds.
+[2022.07.04-03.10.23:757][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-03.10.23:757][221]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMap
+[2022.07.04-03.10.23:757][221]LogWorld: UWorld::CleanupWorld for TestingMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-03.10.23:757][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.10.23:769][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-03.10.23:780][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-03.10.23:815][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-03.10.23:816][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-03.10.23:817][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.04-03.10.23:819][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-03.10.23:823][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.07.04-03.10.23:866][222]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.07.04-03.10.50:597][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.07.04-03.10.50:607][565]LogSavePackage: Moving '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/TestingMap_Auto10B01AB3241CAC54BD43E01814A9CFBA4.tmp' to '../../../../../Users/bsandall2/Documents/Unreal Projects/Triage/Triage/Saved/Autosaves/Game/Triage/Levels/TestingMap_Auto1.umap'
+[2022.07.04-03.10.50:608][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Triage/Levels/TestingMap' took 0.051
+[2022.07.04-03.10.50:608][565]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
