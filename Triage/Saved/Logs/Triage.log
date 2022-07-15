@@ -10879,3 +10879,1028 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.15-00.57.07:132][826]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientDetailsWidgetE18650054FA91B899A4725847EB5DA75.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/PatientDetailsWidget.uasset'
 [2022.07.15-00.57.07:148][826]AssetCheck: New page: Asset Save: PatientDetailsWidget
 [2022.07.15-00.57.07:148][826]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/PatientDetailsWidget.PatientDetailsWidget
+[2022.07.15-00.58.00:459][165]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.15-00.58.00:468][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.15-00.58.00:468][165]PIE: New page: PIE session: TestingMapBryce (15 Jul 2022, 8:58:00 pm)
+[2022.07.15-00.58.00:468][165]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.07.15-00.58.00:504][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035914s)
+[2022.07.15-00.58.00:505][165]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.07.15-00.58.00:506][165]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2022.07.15-00.58.00:506][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.037538s)
+[2022.07.15-00.58.00:547][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.15-00.58.00:549][165]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.15-00.58.00:549][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.15-00.58.00:549][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.15-00.58.00:549][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.15-00.58.00:549][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.15-00.58.00:549][165]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.15-00.58.00:555][165]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.15-00.58.00:555][165]LogAudioMixer: Display: 1: FrontRight
+[2022.07.15-00.58.00:563][165]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.07.15-00.58.00:563][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.15-00.58.00:563][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.15-00.58.00:563][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.15-00.58.00:563][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.15-00.58.00:563][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.15-00.58.00:564][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.15-00.58.00:565][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.15-00.58.00:565][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.15-00.58.00:565][165]LogInit: FAudioDevice initialized.
+[2022.07.15-00.58.00:565][165]LogAudio: Display: Audio Device (ID: 84) registered with world 'TestingMapBryce'.
+[2022.07.15-00.58.00:572][165]LogLoad: Game class is 'TriageGM_C'
+[2022.07.15-00.58.00:575][165]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.07.15-10.58.00
+[2022.07.15-00.58.00:576][165]LogWorld: Bringing up level for play took: 0.003352
+[2022.07.15-00.58.00:576][165]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2022.07.15-00.58.00:579][165]PIE: Server logged in
+[2022.07.15-00.58.00:580][165]PIE: Play in editor total start time 0.113 seconds.
+[2022.07.15-00.58.00:581][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:581][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:581][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:596][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:596][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:596][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:710][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:711][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:711][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:738][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:739][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:739][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:770][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:770][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:770][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:804][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:804][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:804][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:835][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:835][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:835][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:872][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:872][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:872][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:902][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:902][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:902][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:930][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:930][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:930][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:961][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:961][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:961][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:998][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:998][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.00:998][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:027][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:027][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:027][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:060][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:060][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:060][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:085][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:085][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:085][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:112][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:112][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:112][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:143][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:143][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:143][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:172][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:172][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:172][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:202][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:202][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:202][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:233][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:233][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:234][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:263][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:263][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:264][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:291][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:292][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:292][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:321][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:321][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:321][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:354][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:355][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:355][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:387][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:387][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:387][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:420][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:421][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:421][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:457][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:457][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:458][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:490][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:490][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:490][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:522][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:523][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:523][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:551][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:552][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:552][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:582][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:582][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:582][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:614][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:614][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:614][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:643][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:644][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:644][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:673][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:673][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:673][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:709][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:709][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:709][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:738][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:738][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:738][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:769][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:769][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:769][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:801][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:801][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:801][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:832][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:832][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:832][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:861][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:861][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:861][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:891][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:891][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:891][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:920][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:920][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:920][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:950][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:951][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:951][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:981][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:981][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.01:981][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:013][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:013][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:013][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:045][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:045][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:045][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:075][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:075][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:076][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:104][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:104][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:104][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:132][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:132][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:132][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:160][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:160][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:160][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:194][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:194][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:194][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:222][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:223][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:223][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:253][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:253][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:253][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:281][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:281][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:281][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:312][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:312][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:312][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:342][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:342][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:342][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:370][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:371][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:371][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:399][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:399][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:400][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:430][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:430][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:430][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:466][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:466][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:466][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:495][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:495][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:495][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:522][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:522][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:522][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:552][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:552][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:552][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:582][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:583][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:583][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:613][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:613][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:613][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:643][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:643][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:643][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:674][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:674][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:674][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:703][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:703][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:703][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:732][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:732][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:732][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:760][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:761][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:761][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:790][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:791][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:791][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:821][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:821][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:821][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:849][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:849][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:849][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:878][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:878][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:878][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:910][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:910][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:910][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:942][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:942][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:942][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:971][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:971][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:971][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:999][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:999][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.02:999][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:027][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:027][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:028][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:060][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:060][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:060][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:088][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:088][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:088][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:116][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:116][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:116][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:145][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:145][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:146][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:176][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:176][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:177][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:203][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:203][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:203][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:233][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:233][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:233][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:264][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:264][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:264][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:294][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:294][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:294][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:326][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:326][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:326][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:357][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:357][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:357][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:386][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:386][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:386][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:416][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:416][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:416][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:446][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:446][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:446][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:477][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:477][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:477][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:507][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:507][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:507][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:536][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:536][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:536][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:570][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:571][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:571][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:599][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:599][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:599][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:632][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:632][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:632][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:663][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:663][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:663][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:697][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:697][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:697][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:728][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:728][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:729][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:760][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:761][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:761][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:789][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:789][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:789][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:819][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:820][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:820][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:849][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:849][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:849][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:881][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:881][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:881][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:910][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:910][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:910][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:939][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:940][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:940][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:969][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:969][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:969][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:999][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:999][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.03:999][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:028][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:028][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:028][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:060][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:060][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:060][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:089][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:089][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:089][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:117][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:117][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:117][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:147][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:147][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:147][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:178][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:178][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:178][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:209][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:209][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:209][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:239][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:239][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:240][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:272][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:272][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:272][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:304][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:304][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:305][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:336][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:336][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:336][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:365][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:365][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:365][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:396][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:396][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:396][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:426][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:426][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:426][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:456][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:456][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:456][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:483][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:483][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:484][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:513][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:513][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:513][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:543][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:544][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:544][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:572][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:573][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:573][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:601][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:601][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:601][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:631][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:631][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:631][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:660][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:660][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:660][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:689][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:689][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:689][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatientWidget". Blueprint:  PatientBaseBP Function:  Execute Ubergraph Patient Base BP Graph:  EventGraph Node:  Branch
+[2022.07.15-00.58.04:718][299]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.15-00.58.04:718][299]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.07.15-00.58.04:718][299]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.05:779][335]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.15-00.58.05:779][335]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.07.15-00.58.05:779][335]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.06:609][362]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.06:956][374]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.07:445][391]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.07:860][405]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.08:887][439]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.15-00.58.08:887][439]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.15-00.58.08:887][439]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.13:749][604]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.15-00.58.13:749][604]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.07.15-00.58.13:749][604]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.14:743][637]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.15-00.58.14:743][637]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.15-00.58.14:743][637]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.07.15-00.58.16:717][703]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.15-00.58.16:717][703]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.07.15-00.59.54:368][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.07.15-00.59.55:567][178]LogSlate: Window 'Save Content' being destroyed
+[2022.07.15-00.59.55:606][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.15-00.59.55:715][178]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryce41344DA24FB8370068AC0CAEEBEA9657.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/TestingMapBryce.umap'
+[2022.07.15-00.59.55:728][178]LogFileHelpers: Saving map 'TestingMapBryce' took 0.152
+[2022.07.15-00.59.55:746][178]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.55:746][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.55:809][178]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.15-00.59.55:809][178]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.55:809][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.55:863][178]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.55:863][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.55:873][178]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.55:873][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.55:914][178]LogSlate: Window 'PatientDetailsBP' being destroyed
+[2022.07.15-00.59.55:923][178]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.15-00.59.55:923][178]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.55:923][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.55:995][178]LogSlate: Window 'Triage - Unreal Editor' being destroyed
+[2022.07.15-00.59.56:053][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.15-00.59.56:053][178]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.07.15-00.59.56:053][178]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.56:054][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.56:060][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.15-00.59.56:066][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.15-00.59.56:083][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.15-00.59.56:084][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.15-00.59.56:085][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.15-00.59.56:129][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.07.15-00.59.56:220][178]AssetCheck: New page: Asset Save: TestingMapBryce
+[2022.07.15-00.59.56:220][178]LogContentValidation: Display: Validating World /Game/Triage/Levels/TestingMapBryce.TestingMapBryce
+[2022.07.15-00.59.56:234][179]Cmd: QUIT_EDITOR
+[2022.07.15-00.59.56:234][179]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.07.15-00.59.56:241][179]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.07.15-00.59.56:407][179]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.07.15-00.59.56:407][179]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.07.15-00.59.56:407][179]LogAudio: Display: Audio Device unregistered from world 'TestingMapBryce'.
+[2022.07.15-00.59.56:407][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.15-00.59.56:408][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.15-00.59.56:411][179]LogAudio: Display: Audio Device Manager Shutdown
+[2022.07.15-00.59.56:412][179]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.15-00.59.56:420][179]LogExit: Preparing to exit.
+[2022.07.15-00.59.56:466][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:460][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:462][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:463][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:464][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:465][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.07.15-00.59.57:466][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:487][179]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.07.15-00.59.57:492][179]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.15-00.59.57:492][179]LogExit: Editor shut down
+[2022.07.15-00.59.57:493][179]LogExit: Transaction tracking system shut down
+[2022.07.15-00.59.57:805][179]LogExit: Object subsystem successfully closed.
+[2022.07.15-00.59.57:823][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.15-00.59.57:823][179]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.15-00.59.57:823][179]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.15-00.59.57:823][179]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.15-00.59.57:823][179]LogShaderCompilers: Display: ================================================
+[2022.07.15-00.59.57:831][179]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module SequencerWidgets (880)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module BlueprintGraph (878)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (872)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.07.15-00.59.57:873][179]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (844)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (834)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (832)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (830)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (828)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (826)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module WebMMedia (824)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (822)
+[2022.07.15-00.59.57:874][179]LogModuleManager: Shutting down and abandoning module SequenceRecorder (821)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (818)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (816)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (814)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (812)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (810)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (808)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (806)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module PlanarCut (804)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (802)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (800)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (798)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (796)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module TextureAlignMode (792)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module BspMode (790)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module GeometryMode (788)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (786)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (784)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (782)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (778)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.07.15-00.59.57:875][179]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.07.15-00.59.57:876][179]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.07.15-00.59.57:877][179]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.07.15-00.59.58:823][179]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.07.15-00.59.58:823][179]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.07.15-00.59.58:823][179]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.07.15-00.59.58:823][179]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.07.15-00.59.58:823][179]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.07.15-00.59.58:823][179]MemoryProfiler: Shutdown
+[2022.07.15-00.59.58:823][179]NetworkingProfiler: Shutdown
+[2022.07.15-00.59.58:823][179]LoadingProfiler: Shutdown
+[2022.07.15-00.59.58:823][179]TimingProfiler: Shutdown
+[2022.07.15-00.59.58:824][179]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.07.15-00.59.58:824][179]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.07.15-00.59.58:825][179]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.07.15-00.59.58:856][179]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.07.15-00.59.58:856][179]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.07.15-00.59.58:856][179]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.07.15-00.59.58:857][179]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.07.15-00.59.58:872][179]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.07.15-00.59.58:872][179]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.07.15-00.59.58:872][179]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.07.15-00.59.58:872][179]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.07.15-00.59.58:873][179]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.07.15-00.59.58:873][179]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.07.15-00.59.58:873][179]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.07.15-00.59.58:877][179]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.07.15-00.59.58:877][179]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.07.15-00.59.58:877][179]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.07.15-00.59.58:878][179]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.07.15-00.59.58:882][179]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.07.15-00.59.59:029][179]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.07.15-00.59.59:029][179]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.07.15-00.59.59:029][179]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.07.15-00.59.59:029][179]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.07.15-00.59.59:029][179]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (590)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module SynthesisEditor (588)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module Synthesis (586)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (584)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (582)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module EditableMesh (576)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (572)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (570)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module AppleImageUtils (568)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module AndroidPermission (566)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module CableComponent (560)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module AssetTags (556)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (554)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (552)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module TakeSequencer (550)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module TakeMovieScene (548)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module MediaCompositing (546)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ImgMedia (544)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (542)
+[2022.07.15-00.59.59:030][179]LogOpenImageDenoise: OIDN shutting down
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (540)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module MotoSynth (538)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module MeshConversion (534)
+[2022.07.15-00.59.59:030][179]LogModuleManager: Shutting down and abandoning module DynamicMesh (532)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (530)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometricObjects (528)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module TemplateSequence (526)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (524)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (522)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (520)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (518)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (517)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (514)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (512)
+[2022.07.15-00.59.59:031][179]LogModuleManager: Shutting down and abandoning module FractureEditor (510)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module ChaosNiagara (508)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (506)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (505)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module BackChannel (502)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (500)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module AutomationUtils (498)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module PluginBrowser (496)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (486)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (484)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (482)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module CurveEditorTools (480)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (478)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module CryptoKeys (476)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (474)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module UObjectPlugin (472)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module PluginUtils (470)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (468)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (466)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (464)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (462)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (460)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (458)
+[2022.07.15-00.59.59:032][179]LogModuleManager: Shutting down and abandoning module GitSourceControl (456)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module SourceControl (455)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (452)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (450)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (448)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (446)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (444)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (442)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (440)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (438)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (436)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (434)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (432)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (430)
+[2022.07.15-00.59.59:033][179]LogModuleManager: Shutting down and abandoning module LiveLink (428)
+[2022.07.15-00.59.59:164][179]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (426)
+[2022.07.15-00.59.59:164][179]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (424)
+[2022.07.15-00.59.59:164][179]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (422)
+[2022.07.15-00.59.59:164][179]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.07.15-00.59.59:164][179]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.07.15-00.59.59:164][179]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (410)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (408)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module SoundFields (406)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module SignificanceManager (404)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (398)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (390)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (388)
+[2022.07.15-00.59.59:165][179]LogModuleManager: Shutting down and abandoning module UdpMessaging (386)
+[2022.07.15-00.59.59:265][179]LogModuleManager: Shutting down and abandoning module TcpMessaging (384)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module ActorSequence (382)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (380)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module DataValidation (378)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (376)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module FacialAnimation (374)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (372)
+[2022.07.15-00.59.59:366][179]LogModuleManager: Shutting down and abandoning module LevelEditor (371)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (370)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (368)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module MainFrame (366)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module HotReload (365)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module ToolMenus (361)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module TreeMap (359)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (356)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module AnimationSharing (354)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (352)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (350)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (348)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (346)
+[2022.07.15-00.59.59:367][179]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (344)
+[2022.07.15-00.59.59:368][179]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (342)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (340)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (338)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (336)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapController (334)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (332)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module MagicLeapAR (330)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (328)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module Niagara (326)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module SignalProcessing (325)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module NiagaraEditor (323)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module ContentBrowser (322)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module ContentBrowserData (321)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module NiagaraCore (316)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module GameplayCameras (310)
+[2022.07.15-00.59.59:368][179]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.07.15-00.59.59:369][179]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.07.15-00.59.59:370][179]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.07.15-00.59.59:371][179]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.07.15-00.59.59:372][179]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.07.15-00.59.59:372][179]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.07.15-00.59.59:372][179]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.07.15-00.59.59:372][179]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.07.15-00.59.59:373][179]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.07.15-00.59.59:374][179]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.07.15-00.59.59:375][179]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.07.15-00.59.59:376][179]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.07.15-00.59.59:378][179]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.07.15-00.59.59:378][179]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.07.15-00.59.59:378][179]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.07.15-00.59.59:378][179]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.07.15-00.59.59:378][179]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.07.15-00.59.59:379][179]LogHMD: Freeing OpenVRDLLHandle.
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.07.15-00.59.59:379][179]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.07.15-00.59.59:379][179]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.07.15-00.59.59:380][179]LogModuleManager: Shutting down and abandoning module WmfMedia (94)
+[2022.07.15-00.59.59:382][179]LogModuleManager: Shutting down and abandoning module Media (93)
+[2022.07.15-00.59.59:382][179]LogModuleManager: Shutting down and abandoning module MediaInfo (92)
+[2022.07.15-00.59.59:382][179]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (88)
+[2022.07.15-00.59.59:383][179]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2022.07.15-00.59.59:383][179]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2022.07.15-00.59.59:383][179]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2022.07.15-00.59.59:383][179]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2022.07.15-00.59.59:413][179]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2022.07.15-00.59.59:413][179]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.07.15-00.59.59:413][179]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2415651C-4E7F-CEE7-D835-4F976AC0C8F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1f840fea4e15b3fbbd799a89aeb1cfaf%7Cef9e5624d502454bbbfc379b9473c037%7C12325ca7-1ce3-41ce-9b06-dee69176f37c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.07.15-00.59.59:413][179]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.07.15-00.59.59:425][179]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.07.15-00.59.59:426][179]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.07.15-00.59.59:426][179]LogXGEController: Cleaning working directory: C:/Users/bgsan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.07.15-00.59.59:427][179]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.07.15-00.59.59:428][179]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.07.15-00.59.59:429][179]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.07.15-00.59.59:448][179]LogD3D11RHI: Shutdown
+[2022.07.15-00.59.59:448][179]LogD3D11RHI: CleanupD3DDevice
+[2022.07.15-00.59.59:451][179]LogExit: Exiting.
+[2022.07.15-00.59.59:463][179]Log file closed, 07/15/22 10:59:59
