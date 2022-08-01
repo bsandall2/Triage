@@ -14023,3 +14023,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.01-01.21.15:432][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.08.01-01.21.15:437][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2022.08.01-01.21.15:486][520]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.08.01-01.25.07:274][416]LogSlate: Took 0.005316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.01-01.25.16:675][692]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.01-01.25.16:732][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.08.01-01.25.17:193][704]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBPB99223AF48446E0B404F5AA796EA08B6.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.01-01.25.17:217][704]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.01-01.25.17:217][704]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.01-01.25.19:728][780]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.01-01.25.19:787][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.08.01-01.25.20:174][790]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP24F59E0547AF672B1452AAA94093013B.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.01-01.25.20:190][790]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.01-01.25.20:190][790]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.01-01.29.15:736][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.08.01-01.29.15:855][270]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryce_Auto446E6C0E0435BE4F7D95E16A4D68526AE.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Autosaves/Game/Triage/Levels/TestingMapBryce_Auto4.umap'
+[2022.08.01-01.29.15:861][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Triage/Levels/TestingMapBryce' took 0.152
+[2022.08.01-01.29.15:861][270]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2022.08.01-01.31.44:696][186]BlueprintLog: New page: Compile ScreenWidget
+[2022.08.01-01.31.44:766][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.08.01-01.31.45:086][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/ScreenWidget" FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/ScreenWidget.uasset" SILENT=true
+[2022.08.01-01.31.45:096][196]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/ScreenWidgetBC1604814DD74EFDBFA8B191BC62D7D6.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/ScreenWidget.uasset'
+[2022.08.01-01.31.45:113][196]AssetCheck: New page: Asset Save: ScreenWidget
+[2022.08.01-01.31.45:113][196]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/ScreenWidget.ScreenWidget
+[2022.08.01-01.32.04:012][826]BlueprintLog: New page: Compile ScreenWidget
+[2022.08.01-01.32.04:088][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.08.01-01.32.04:740][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/ScreenWidget" FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/ScreenWidget.uasset" SILENT=true
+[2022.08.01-01.32.04:751][847]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/ScreenWidgetEF6996304749DDC92B3A07AE7B45CF95.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/ScreenWidget.uasset'
+[2022.08.01-01.32.04:766][847]AssetCheck: New page: Asset Save: ScreenWidget
+[2022.08.01-01.32.04:766][847]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/ScreenWidget.ScreenWidget
+[2022.08.01-01.32.50:837][397]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.01-01.32.50:903][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.08.01-01.32.51:466][414]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP64E3265F417102571448BDAC8BAD3D4A.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.01-01.32.51:492][414]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.01-01.32.51:492][414]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.01-01.32.58:355][638]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.01-01.32.58:411][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.08.01-01.32.58:771][648]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP85EFA4D94FCE5164B9079781FE1A8065.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.01-01.32.58:792][648]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.01-01.32.58:792][648]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.01-01.33.00:354][700]BlueprintLog: New page: Compile ScreenWidget
+[2022.08.01-01.33.00:426][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.08.01-01.33.00:688][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/ScreenWidget" FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/ScreenWidget.uasset" SILENT=true
+[2022.08.01-01.33.00:699][708]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/ScreenWidget699CCDCC4957AB0946B0E0BBFCF87432.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/ScreenWidget.uasset'
+[2022.08.01-01.33.00:713][708]AssetCheck: New page: Asset Save: ScreenWidget
+[2022.08.01-01.33.00:713][708]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/ScreenWidget.ScreenWidget
+[2022.08.01-01.33.01:541][736]LogSlate: Window 'ScreenWidget' being destroyed
+[2022.08.01-01.33.01:566][736]LogSlate: Window 'ScreenWidget' being destroyed
+[2022.08.01-01.33.01:578][736]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-01.33.01:578][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-01.33.01:641][736]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-01.33.01:641][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-01.33.01:651][736]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-01.33.01:652][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-01.33.02:753][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.08.01-01.33.02:870][770]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryceCA1D57394D3616946C65CA82ABCFD965.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/TestingMapBryce.umap'
+[2022.08.01-01.33.02:919][770]AssetCheck: New page: Asset Save: TestingMapBryce
+[2022.08.01-01.33.02:919][770]LogContentValidation: Display: Validating World /Game/Triage/Levels/TestingMapBryce.TestingMapBryce
