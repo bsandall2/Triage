@@ -5033,3 +5033,454 @@ Make sure 'PatientBaseBP' has been compiled for  Get PatientWidget
 [2022.08.02-05.07.24:878][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.08.02-05.07.24:884][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
 [2022.08.02-05.07.24:949][785]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2022.08.02-05.07.53:093][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.08.02-05.07.53:207][ 73]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryce_Auto78526A08E4571D2AB620A97890ECECA1C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Autosaves/Game/Triage/Levels/TestingMapBryce_Auto7.umap'
+[2022.08.02-05.07.53:209][ 73]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Triage/Levels/TestingMapBryce' took 0.151
+[2022.08.02-05.07.53:209][ 73]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.151
+[2022.08.02-05.07.53:210][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Triage/Blueprints/AI/PatientBaseBP] ([4] browsable assets)...
+[2022.08.02-05.07.53:220][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Triage/Blueprints/AI/PatientBaseBP.PatientBaseBP]
+[2022.08.02-05.07.53:226][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Triage/Blueprints/AI/PatientBaseBP.PatientBaseBP]
+[2022.08.02-05.07.53:226][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triage/Blueprints/AI/PatientBaseBP]
+[2022.08.02-05.07.53:262][ 73]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBaseBP_Auto713CB66DB42FE5824575AA3AF714F7AE5.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Autosaves/Game/Triage/Blueprints/AI/PatientBaseBP_Auto7.uasset'
+[2022.08.02-05.07.53:263][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Triage/Widgets/PatientDetailsWidget] ([4] browsable assets)...
+[2022.08.02-05.07.53:263][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triage/Widgets/PatientDetailsWidget]
+[2022.08.02-05.07.53:276][ 73]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientDetailsWidget_Auto7BB360F0B4299B41BF82FFB821A6AA3BF.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Autosaves/Game/Triage/Widgets/PatientDetailsWidget_Auto7.uasset'
+[2022.08.02-05.07.53:277][ 73]LogFileHelpers: Auto-saving content packages took 0.068
+[2022.08.02-05.08.07:232][495]LogSlate: Window 'PatientBaseBP' being destroyed
+[2022.08.02-05.08.07:276][495]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.08.07:276][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.08.47:263][556]BlueprintLog: New page: Compile PatientBP
+[2022.08.02-05.08.47:403][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.08.02-05.08.47:755][563]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBPC207BE3B4204E4616004FFBD914287AD.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.02-05.08.47:776][563]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.02-05.08.47:776][563]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.02-05.09.05:092][117]LogEditorTransaction: Undo Move Node
+[2022.08.02-05.09.15:090][434]BlueprintLog: New page: Compile PatientBP
+[2022.08.02-05.09.15:226][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.08.02-05.09.15:549][440]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP5FE5CF9E475703A1B35196B116D08658.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.02-05.09.15:569][440]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.02-05.09.15:570][440]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.02-05.09.21:248][622]BlueprintLog: New page: Compile PatientBP
+[2022.08.02-05.09.21:386][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.08.02-05.11.08:984][114]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-05.11.08:984][114]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.11.08:984][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.11.13:147][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/PatientBaseBP.PatientBaseBP
+[2022.08.02-05.17.53:672][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.08.02-05.17.53:787][537]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryce_Auto85CC9B91846E50D4946F2529DD00E3A99.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Autosaves/Game/Triage/Levels/TestingMapBryce_Auto8.umap'
+[2022.08.02-05.17.53:789][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Triage/Levels/TestingMapBryce' took 0.156
+[2022.08.02-05.17.53:789][537]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.156
+[2022.08.02-05.17.53:789][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Triage/Blueprints/AI/PatientBP] ([4] browsable assets)...
+[2022.08.02-05.17.53:817][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP]
+[2022.08.02-05.17.53:835][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP]
+[2022.08.02-05.17.53:835][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triage/Blueprints/AI/PatientBP]
+[2022.08.02-05.17.53:861][537]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP_Auto8407295B94B5E93D184635A8F58298BD8.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Autosaves/Game/Triage/Blueprints/AI/PatientBP_Auto8.uasset'
+[2022.08.02-05.17.53:862][537]LogFileHelpers: Auto-saving content packages took 0.073
+[2022.08.02-05.23.08:001][475]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.23.08:001][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.23.36:581][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/PatientBaseBP.PatientBaseBP
+[2022.08.02-05.24.32:625][154]BlueprintLog: New page: Compile PatientBP
+[2022.08.02-05.24.32:766][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.08.02-05.24.33:023][158]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBPF82C0ABD4A41867731A2ACA086BBD8A4.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.02-05.24.33:039][158]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.02-05.24.33:039][158]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.02-05.24.44:873][532]BlueprintLog: New page: Compile PatientBP
+[2022.08.02-05.24.45:008][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.08.02-05.24.45:401][540]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP4132CB2A4AE808D66ABE8693485BC493.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.02-05.24.45:418][540]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.02-05.24.45:418][540]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.02-05.24.54:917][845]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.02-05.24.54:985][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.08.02-05.24.55:371][855]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP7BF447DC49D694C63E6FDC8E6CCA04B5.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.02-05.24.55:390][855]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.02-05.24.55:390][855]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.02-05.24.57:987][938]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.02-05.25.05:688][195]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.02-05.25.07:432][251]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.02-05.25.11:823][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.08.02-05.25.11:938][389]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryce23A8EF274AA2D020A366319B0BBAC997.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/TestingMapBryce.umap'
+[2022.08.02-05.25.11:973][389]AssetCheck: New page: Asset Save: TestingMapBryce
+[2022.08.02-05.25.11:973][389]LogContentValidation: Display: Validating World /Game/Triage/Levels/TestingMapBryce.TestingMapBryce
+[2022.08.02-05.25.56:457][754]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.02-05.25.56:530][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.08.02-05.25.56:840][761]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP2008FDFA465F073DF00879AE4711BCAD.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.02-05.25.56:858][761]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.02-05.25.56:858][761]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.02-05.26.05:350][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-05.26.05:366][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-05.26.05:366][ 28]PIE: New page: PIE session: TestingMapBryce (3 Aug 2022, 1:26:05 am)
+[2022.08.02-05.26.05:366][ 28]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.05:404][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038057s)
+[2022.08.02-05.26.05:405][ 28]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.08.02-05.26.05:405][ 28]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2022.08.02-05.26.05:405][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.039568s)
+[2022.08.02-05.26.05:441][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.08.02-05.26.05:444][ 28]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-05.26.05:444][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-05.26.05:444][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-05.26.05:444][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-05.26.05:444][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-05.26.05:444][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-05.26.05:449][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-05.26.05:449][ 28]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-05.26.05:458][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-05.26.05:459][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-05.26.05:459][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-05.26.05:459][ 28]LogInit: FAudioDevice initialized.
+[2022.08.02-05.26.05:459][ 28]LogAudio: Display: Audio Device (ID: 54) registered with world 'TestingMapBryce'.
+[2022.08.02-05.26.05:468][ 28]LogLoad: Game class is 'TriageGM_C'
+[2022.08.02-05.26.05:471][ 28]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.08.02-15.26.05
+[2022.08.02-05.26.05:471][ 28]LogWorld: Bringing up level for play took: 0.003255
+[2022.08.02-05.26.05:472][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2022.08.02-05.26.05:475][ 28]PIE: Server logged in
+[2022.08.02-05.26.05:475][ 28]PIE: Play in editor total start time 0.118 seconds.
+[2022.08.02-05.26.06:323][ 56]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-05.26.06:323][ 56]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-05.26.06:323][ 56]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.02-05.26.07:059][ 83]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Target_Location
+	PatientBP_C /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce:PersistentLevel.PatientBP_2
+	Function /Game/Triage/Blueprints/AI/PatientBP.PatientBP_C:ExecuteUbergraph_PatientBP:042F
+[2022.08.02-05.26.07:059][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Target_Location". Blueprint:  PatientBP Function:  Execute Ubergraph Patient BP Graph:  EventGraph Node:  AI MoveTo
+[2022.08.02-05.26.07:060][ 83]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.02-05.26.07:060][ 83]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.02-05.26.08:554][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.26.08:554][136]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.08:555][136]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.26.08:555][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.08:580][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-05.26.08:591][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.08:621][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-05.26.08:621][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.26.08:622][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.26.08:624][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.26.08:630][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.02-05.26.08:685][137]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2022.08.02-05.26.09:460][161]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-05.26.09:469][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-05.26.09:469][161]PIE: New page: PIE session: TestingMapBryce (3 Aug 2022, 1:26:09 am)
+[2022.08.02-05.26.09:469][161]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.09:508][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039251s)
+[2022.08.02-05.26.09:509][161]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.08.02-05.26.09:510][161]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2022.08.02-05.26.09:510][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.040833s)
+[2022.08.02-05.26.09:544][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.08.02-05.26.09:546][161]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-05.26.09:546][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-05.26.09:546][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-05.26.09:546][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-05.26.09:546][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-05.26.09:546][161]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-05.26.09:551][161]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-05.26.09:551][161]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-05.26.09:558][161]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.02-05.26.09:559][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-05.26.09:559][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-05.26.09:559][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-05.26.09:559][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-05.26.09:559][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-05.26.09:559][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-05.26.09:560][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-05.26.09:560][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-05.26.09:560][161]LogInit: FAudioDevice initialized.
+[2022.08.02-05.26.09:560][161]LogAudio: Display: Audio Device (ID: 55) registered with world 'TestingMapBryce'.
+[2022.08.02-05.26.09:565][161]LogLoad: Game class is 'TriageGM_C'
+[2022.08.02-05.26.09:568][161]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.08.02-15.26.09
+[2022.08.02-05.26.09:568][161]LogWorld: Bringing up level for play took: 0.003342
+[2022.08.02-05.26.09:569][161]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2022.08.02-05.26.09:571][161]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatientArray' of length 1 in '/Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP_C'!
+[2022.08.02-05.26.09:571][161]PIE: Server logged in
+[2022.08.02-05.26.09:572][161]PIE: Play in editor total start time 0.105 seconds.
+[2022.08.02-05.26.09:961][173]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-05.26.09:962][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-05.26.09:962][173]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.02-05.26.11:769][234]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.02-05.26.11:769][234]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.02-05.26.13:484][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.26.13:484][291]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.13:484][291]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.26.13:485][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.13:497][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-05.26.13:509][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.13:538][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.26.13:538][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.26.13:539][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.26.13:546][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.02-05.26.13:584][292]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.08.02-05.26.19:259][455]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.26.19:259][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.19:270][455]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.26.19:270][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.44:799][265]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.02-05.26.44:865][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.08.02-05.26.45:196][273]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBPB4EFBD154EEB622F86AEF6AEABF39605.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.02-05.26.45:218][273]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.02-05.26.45:218][273]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.02-05.26.52:271][501]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-05.26.52:279][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-05.26.52:279][501]PIE: New page: PIE session: TestingMapBryce (3 Aug 2022, 1:26:52 am)
+[2022.08.02-05.26.52:279][501]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.52:318][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038605s)
+[2022.08.02-05.26.52:319][501]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.08.02-05.26.52:320][501]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2022.08.02-05.26.52:320][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.040260s)
+[2022.08.02-05.26.52:353][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.08.02-05.26.52:356][501]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-05.26.52:356][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-05.26.52:356][501]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-05.26.52:356][501]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-05.26.52:356][501]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-05.26.52:356][501]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-05.26.52:361][501]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-05.26.52:361][501]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-05.26.52:368][501]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.02-05.26.52:369][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-05.26.52:369][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-05.26.52:369][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-05.26.52:369][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-05.26.52:369][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-05.26.52:369][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-05.26.52:370][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-05.26.52:370][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-05.26.52:370][501]LogInit: FAudioDevice initialized.
+[2022.08.02-05.26.52:370][501]LogAudio: Display: Audio Device (ID: 56) registered with world 'TestingMapBryce'.
+[2022.08.02-05.26.52:382][501]LogLoad: Game class is 'TriageGM_C'
+[2022.08.02-05.26.52:385][501]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.08.02-15.26.52
+[2022.08.02-05.26.52:385][501]LogWorld: Bringing up level for play took: 0.003239
+[2022.08.02-05.26.52:386][501]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2022.08.02-05.26.52:388][501]PIE: Server logged in
+[2022.08.02-05.26.52:389][501]PIE: Play in editor total start time 0.112 seconds.
+[2022.08.02-05.26.53:525][540]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-05.26.53:525][540]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-05.26.53:525][540]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.02-05.26.54:209][565]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.02-05.26.54:209][565]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.02-05.26.55:393][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.26.55:393][608]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.55:394][608]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.26.55:395][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.55:423][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-05.26.55:435][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.26.55:462][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-05.26.55:463][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.26.55:464][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.26.55:466][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.26.55:471][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.08.02-05.26.55:510][609]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2022.08.02-05.26.56:416][639]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-05.26.56:424][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-05.26.56:424][639]PIE: New page: PIE session: TestingMapBryce (3 Aug 2022, 1:26:56 am)
+[2022.08.02-05.26.56:425][639]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.26.56:464][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039216s)
+[2022.08.02-05.26.56:465][639]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.08.02-05.26.56:465][639]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2022.08.02-05.26.56:465][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.040791s)
+[2022.08.02-05.26.56:497][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.08.02-05.26.56:499][639]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-05.26.56:499][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-05.26.56:499][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-05.26.56:499][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-05.26.56:499][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-05.26.56:499][639]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-05.26.56:504][639]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-05.26.56:504][639]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-05.26.56:512][639]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.02-05.26.56:512][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-05.26.56:512][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-05.26.56:512][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-05.26.56:512][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-05.26.56:512][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-05.26.56:512][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-05.26.56:513][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-05.26.56:513][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-05.26.56:513][639]LogInit: FAudioDevice initialized.
+[2022.08.02-05.26.56:513][639]LogAudio: Display: Audio Device (ID: 57) registered with world 'TestingMapBryce'.
+[2022.08.02-05.26.56:519][639]LogLoad: Game class is 'TriageGM_C'
+[2022.08.02-05.26.56:523][639]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.08.02-15.26.56
+[2022.08.02-05.26.56:523][639]LogWorld: Bringing up level for play took: 0.003314
+[2022.08.02-05.26.56:523][639]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2022.08.02-05.26.56:526][639]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatientArray' of length 1 in '/Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP_C'!
+[2022.08.02-05.26.56:526][639]PIE: Server logged in
+[2022.08.02-05.26.56:527][639]PIE: Play in editor total start time 0.104 seconds.
+[2022.08.02-05.26.57:054][656]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-05.26.57:054][656]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-05.26.57:054][656]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.02-05.26.57:704][680]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Target_Location
+	PatientBP_C /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce:PersistentLevel.PatientBP_2
+	Function /Game/Triage/Blueprints/AI/PatientBP.PatientBP_C:ExecuteUbergraph_PatientBP:042F
+[2022.08.02-05.26.57:704][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Target_Location". Blueprint:  PatientBP Function:  Execute Ubergraph Patient BP Graph:  EventGraph Node:  AI MoveTo
+[2022.08.02-05.26.57:704][680]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.02-05.26.57:704][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.02-05.27.01:613][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.27.01:613][823]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.27.01:614][823]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.27.01:614][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.27.01:646][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-05.27.01:658][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.27.01:685][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.27.01:685][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.27.01:686][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.27.01:693][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.08.02-05.27.01:742][824]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2022.08.02-05.27.02:542][849]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-05.27.02:551][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-05.27.02:551][849]PIE: New page: PIE session: TestingMapBryce (3 Aug 2022, 1:27:02 am)
+[2022.08.02-05.27.02:551][849]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.27.02:590][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038623s)
+[2022.08.02-05.27.02:591][849]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.08.02-05.27.02:591][849]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2022.08.02-05.27.02:591][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.040132s)
+[2022.08.02-05.27.02:623][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.08.02-05.27.02:625][849]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-05.27.02:625][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-05.27.02:625][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-05.27.02:625][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-05.27.02:625][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-05.27.02:625][849]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-05.27.02:630][849]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-05.27.02:630][849]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-05.27.02:638][849]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.02-05.27.02:638][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-05.27.02:638][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-05.27.02:638][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-05.27.02:639][849]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-05.27.02:639][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-05.27.02:639][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-05.27.02:640][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-05.27.02:640][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-05.27.02:640][849]LogInit: FAudioDevice initialized.
+[2022.08.02-05.27.02:640][849]LogAudio: Display: Audio Device (ID: 58) registered with world 'TestingMapBryce'.
+[2022.08.02-05.27.02:646][849]LogLoad: Game class is 'TriageGM_C'
+[2022.08.02-05.27.02:649][849]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.08.02-15.27.02
+[2022.08.02-05.27.02:650][849]LogWorld: Bringing up level for play took: 0.003396
+[2022.08.02-05.27.02:650][849]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2022.08.02-05.27.02:653][849]PIE: Server logged in
+[2022.08.02-05.27.02:654][849]PIE: Play in editor total start time 0.105 seconds.
+[2022.08.02-05.27.03:293][869]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-05.27.03:293][869]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-05.27.03:293][869]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.02-05.27.03:916][891]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Target_Location
+	PatientBP_C /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce:PersistentLevel.PatientBP_2
+	Function /Game/Triage/Blueprints/AI/PatientBP.PatientBP_C:ExecuteUbergraph_PatientBP:042F
+[2022.08.02-05.27.03:916][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Target_Location". Blueprint:  PatientBP Function:  Execute Ubergraph Patient BP Graph:  EventGraph Node:  AI MoveTo
+[2022.08.02-05.27.03:916][891]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.02-05.27.03:916][891]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.02-05.27.06:694][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.27.06:694][988]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.27.06:694][988]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.27.06:695][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.27.06:728][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-05.27.06:741][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.27.06:770][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.27.06:771][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.27.06:772][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.27.06:778][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.02-05.27.06:828][989]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2022.08.02-05.27.08:574][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2022.08.02-05.27.09:479][ 69]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.02-05.27.18:079][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.08.02-05.27.18:191][318]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/TestingMapBryce6D63DAD145C3DFC9B6657A844D3FFAAC.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/TestingMapBryce.umap'
+[2022.08.02-05.27.18:221][318]AssetCheck: New page: Asset Save: TestingMapBryce
+[2022.08.02-05.27.18:221][318]LogContentValidation: Display: Validating World /Game/Triage/Levels/TestingMapBryce.TestingMapBryce
+[2022.08.02-05.27.20:649][398]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-05.27.20:658][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-05.27.20:658][398]PIE: New page: PIE session: TestingMapBryce (3 Aug 2022, 1:27:20 am)
+[2022.08.02-05.27.20:658][398]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.27.20:698][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039112s)
+[2022.08.02-05.27.20:699][398]LogAIModule: Creating AISystem for world TestingMapBryce
+[2022.08.02-05.27.20:700][398]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2022.08.02-05.27.20:700][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/TestingMapBryce.TestingMapBryce to /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce (0.040779s)
+[2022.08.02-05.27.20:731][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.02-05.27.20:733][398]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-05.27.20:733][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-05.27.20:733][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-05.27.20:733][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-05.27.20:733][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-05.27.20:733][398]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-05.27.20:738][398]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-05.27.20:738][398]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-05.27.20:746][398]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.02-05.27.20:746][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-05.27.20:746][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-05.27.20:746][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-05.27.20:747][398]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-05.27.20:747][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-05.27.20:747][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-05.27.20:747][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-05.27.20:747][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-05.27.20:747][398]LogInit: FAudioDevice initialized.
+[2022.08.02-05.27.20:747][398]LogAudio: Display: Audio Device (ID: 59) registered with world 'TestingMapBryce'.
+[2022.08.02-05.27.20:758][398]LogLoad: Game class is 'TriageGM_C'
+[2022.08.02-05.27.20:761][398]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_TestingMapBryce.TestingMapBryce up for play (max tick rate 0) at 2022.08.02-15.27.20
+[2022.08.02-05.27.20:762][398]LogWorld: Bringing up level for play took: 0.003402
+[2022.08.02-05.27.20:762][398]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2022.08.02-05.27.20:765][398]PIE: Server logged in
+[2022.08.02-05.27.20:766][398]PIE: Play in editor total start time 0.109 seconds.
+[2022.08.02-05.27.21:637][428]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-05.27.21:638][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-05.27.21:638][428]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.02-05.27.22:254][451]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.02-05.27.22:254][451]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.02-05.27.27:383][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.27.27:383][640]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_TestingMapBryce
+[2022.08.02-05.27.27:383][640]LogWorld: UWorld::CleanupWorld for TestingMapBryce, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-05.27.27:384][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.27.27:405][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-05.27.27:445][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-05.27.27:472][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-05.27.27:472][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.27.27:473][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-05.27.27:480][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.02-05.27.27:534][641]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.08.02-05.27.44:815][207]BlueprintLog: New page: Compile PatientBP
+[2022.08.02-05.27.44:944][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.08.02-05.27.45:366][216]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP14D6108F406951CD7A16BEA45E7FD5D2.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.02-05.27.45:382][216]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.02-05.27.45:383][216]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
