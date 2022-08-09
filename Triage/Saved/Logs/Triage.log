@@ -1128,3 +1128,582 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.09-08.20.04:102][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.08.09-08.20.04:115][857]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2022.08.09-08.20.04:115][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.20.39:818][982]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-08.20.39:828][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-08.20.39:829][982]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 4:20:39 am)
+[2022.08.09-08.20.39:829][982]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-08.20.39:879][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050436s)
+[2022.08.09-08.20.39:880][982]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-08.20.39:881][982]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2022.08.09-08.20.39:881][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.052162s)
+[2022.08.09-08.20.39:930][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.08.09-08.20.39:932][982]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-08.20.39:933][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-08.20.39:933][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-08.20.39:933][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-08.20.39:933][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-08.20.39:933][982]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-08.20.39:939][982]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-08.20.39:939][982]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-08.20.39:947][982]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-08.20.39:947][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-08.20.39:947][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-08.20.39:947][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-08.20.39:948][982]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-08.20.39:948][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-08.20.39:948][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-08.20.39:949][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-08.20.39:949][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-08.20.39:949][982]LogInit: FAudioDevice initialized.
+[2022.08.09-08.20.39:949][982]LogAudio: Display: Audio Device (ID: 3) registered with world 'PlaytestMENU'.
+[2022.08.09-08.20.39:966][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-08.20.39:966][982]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-08.20.39:980][982]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-18.20.39
+[2022.08.09-08.20.39:982][982]LogWorld: Bringing up level for play took: 0.014937
+[2022.08.09-08.20.39:982][982]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.08.09-08.20.39:987][982]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-08.20.39:987][982]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-08.20.39:988][982]PIE: Server logged in
+[2022.08.09-08.20.39:989][982]PIE: Play in editor total start time 0.162 seconds.
+[2022.08.09-08.20.45:091][183]LogNet: Browse: /Game/Triage/Levels/PlaytestLevel
+[2022.08.09-08.20.45:091][183]LogLoad: LoadMap: /Game/Triage/Levels/PlaytestLevel
+[2022.08.09-08.20.45:091][183]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-08.20.45:093][183]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-08.20.45:096][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.20.45:124][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-08.20.45:158][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.08.09-08.20.45:260][183]LogAudio: Display: Audio Device (ID: 3) registered with world 'PlaytestLevel'.
+[2022.08.09-08.20.45:260][183]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-08.20.45:261][183]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-08.20.45:289][183]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-18.20.45
+[2022.08.09-08.20.45:291][183]LogWorld: Bringing up level for play took: 0.029493
+[2022.08.09-08.20.45:294][183]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-08.20.45:294][183]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.08.09-08.20.45:294][183]LogLoad: Took 0.202926 seconds to LoadMap(/Game/Triage/Levels/PlaytestLevel)
+[2022.08.09-08.20.47:912][287]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-08.20.52:621][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-08.20.52:621][473]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-08.20.52:622][473]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-08.20.52:632][473]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-08.20.52:636][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.20.52:644][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-08.20.52:650][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.20.52:666][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-08.20.52:667][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-08.20.52:668][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-08.20.52:675][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.09-08.20.52:696][474]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.08.09-08.20.54:506][550]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-08.21.21:164][306]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-08.21.21:190][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.08.09-08.21.21:920][336]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUA3AF0D4849FEE9ED5D7C71A238183C83.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-08.21.21:936][336]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-08.21.21:936][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-08.21.23:302][394]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-08.21.23:314][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-08.21.23:314][394]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 4:21:23 am)
+[2022.08.09-08.21.23:314][394]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-08.21.23:360][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046077s)
+[2022.08.09-08.21.23:361][394]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-08.21.23:361][394]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2022.08.09-08.21.23:361][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.047644s)
+[2022.08.09-08.21.23:385][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.08.09-08.21.23:386][394]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-08.21.23:386][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-08.21.23:386][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-08.21.23:387][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-08.21.23:387][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-08.21.23:387][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-08.21.23:387][394]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-08.21.23:392][394]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-08.21.23:392][394]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-08.21.23:400][394]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-08.21.23:400][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-08.21.23:400][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-08.21.23:400][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-08.21.23:400][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-08.21.23:400][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-08.21.23:400][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-08.21.23:401][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-08.21.23:401][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-08.21.23:401][394]LogInit: FAudioDevice initialized.
+[2022.08.09-08.21.23:401][394]LogAudio: Display: Audio Device (ID: 4) registered with world 'PlaytestMENU'.
+[2022.08.09-08.21.23:421][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-08.21.23:421][394]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-08.21.23:435][394]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-18.21.23
+[2022.08.09-08.21.23:437][394]LogWorld: Bringing up level for play took: 0.014824
+[2022.08.09-08.21.23:437][394]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.08.09-08.21.23:442][394]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-08.21.23:442][394]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-08.21.23:445][394]PIE: Server logged in
+[2022.08.09-08.21.23:446][394]PIE: Play in editor total start time 0.134 seconds.
+[2022.08.09-08.21.26:781][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-08.21.26:781][523]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-08.21.26:781][523]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-08.21.26:790][523]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-08.21.26:793][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.21.26:806][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-08.21.26:812][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.21.26:834][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-08.21.26:835][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-08.21.26:842][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.09-08.21.26:870][524]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.08.09-08.21.47:123][127]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-08.21.47:149][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.08.09-08.21.47:417][142]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU2012D5704660868EE0449DA043810A9A.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-08.21.47:433][142]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-08.21.47:433][142]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-08.25.00:896][764]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU04D5EF6D456071DBD27E279D3B19844F.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-08.25.00:914][764]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-08.25.00:914][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-08.25.01:323][779]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-08.25.01:369][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.08.09-08.29.43:824][751]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-08.29.43:835][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-08.29.43:835][751]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 4:29:43 am)
+[2022.08.09-08.29.43:835][751]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-08.29.43:881][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046109s)
+[2022.08.09-08.29.43:882][751]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-08.29.43:883][751]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2022.08.09-08.29.43:883][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.047663s)
+[2022.08.09-08.29.43:905][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.08.09-08.29.43:906][751]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-08.29.43:906][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-08.29.43:906][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-08.29.43:907][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-08.29.43:907][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-08.29.43:907][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-08.29.43:907][751]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-08.29.43:912][751]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-08.29.43:912][751]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-08.29.43:920][751]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-08.29.43:920][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-08.29.43:920][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-08.29.43:920][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-08.29.43:920][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-08.29.43:921][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-08.29.43:921][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-08.29.43:921][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-08.29.43:921][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-08.29.43:921][751]LogInit: FAudioDevice initialized.
+[2022.08.09-08.29.43:921][751]LogAudio: Display: Audio Device (ID: 5) registered with world 'PlaytestMENU'.
+[2022.08.09-08.29.43:941][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-08.29.43:941][751]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-08.29.43:956][751]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-18.29.43
+[2022.08.09-08.29.43:958][751]LogWorld: Bringing up level for play took: 0.015998
+[2022.08.09-08.29.43:958][751]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.08.09-08.29.43:963][751]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-08.29.43:963][751]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-08.29.43:966][751]PIE: Server logged in
+[2022.08.09-08.29.43:967][751]PIE: Play in editor total start time 0.134 seconds.
+[2022.08.09-08.30.09:549][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-08.30.09:551][787]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-08.30.09:551][787]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-08.30.09:593][787]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-08.30.09:598][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.30.09:611][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-08.30.09:619][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-08.30.09:643][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-08.30.09:643][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-08.30.09:645][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-08.30.09:653][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.08.09-08.30.09:676][788]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.09-10.01.00:516][ 80]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU2531576C4641B9296463418708B0BFAD.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.01.00:535][ 80]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.01.00:535][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.04.45:190][124]LogEditorTransaction: Undo Add widget to animation
+[2022.08.09-10.04.45:529][134]LogEditorTransaction: Undo Add Folder
+[2022.08.09-10.12.40:204][ 32]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.12.40:256][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.08.09-10.12.40:555][ 43]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU750DB9AE477A36CB773CFF922101BC5D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.12.40:580][ 43]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.12.40:580][ 43]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.14.33:405][143]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUA340E75A431D7A1A737D07822BCCC4BC.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.14.33:428][143]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.14.33:428][143]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.14.51:628][327]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.14.51:675][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.08.09-10.14.52:039][345]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUDFC6B935457236DB393614A82622405C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.14.52:062][345]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.14.52:062][345]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.14.53:380][404]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-10.14.53:391][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-10.14.53:391][404]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 6:14:53 am)
+[2022.08.09-10.14.53:391][404]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.14.53:437][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045608s)
+[2022.08.09-10.14.53:438][404]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-10.14.53:439][404]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2022.08.09-10.14.53:439][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.047456s)
+[2022.08.09-10.14.53:462][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.08.09-10.14.53:463][404]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-10.14.53:463][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-10.14.53:463][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-10.14.53:463][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-10.14.53:463][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-10.14.53:463][404]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-10.14.53:469][404]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-10.14.53:469][404]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-10.14.53:477][404]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-10.14.53:478][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-10.14.53:478][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-10.14.53:478][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-10.14.53:478][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-10.14.53:478][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-10.14.53:478][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-10.14.53:479][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-10.14.53:479][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-10.14.53:479][404]LogInit: FAudioDevice initialized.
+[2022.08.09-10.14.53:479][404]LogAudio: Display: Audio Device (ID: 6) registered with world 'PlaytestMENU'.
+[2022.08.09-10.14.53:499][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.14.53:499][404]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-10.14.53:513][404]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-20.14.53
+[2022.08.09-10.14.53:515][404]LogWorld: Bringing up level for play took: 0.014959
+[2022.08.09-10.14.53:515][404]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.08.09-10.14.53:521][404]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.14.53:521][404]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-10.14.53:523][404]PIE: Server logged in
+[2022.08.09-10.14.53:524][404]PIE: Play in editor total start time 0.135 seconds.
+[2022.08.09-10.14.57:838][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.14.57:838][574]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.14.57:838][574]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-10.14.57:855][574]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-10.14.57:859][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.14.57:866][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-10.14.57:873][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.14.57:897][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-10.14.57:897][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.14.57:898][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.14.57:905][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.08.09-10.14.57:935][575]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.08.09-10.15.18:094][594]LogEditorTransaction: Undo Create Pin Link
+[2022.08.09-10.15.32:788][207]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU1D1791A545900A6710B406B9C76A36EB.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.15.32:804][207]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.15.32:804][207]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.15.33:136][223]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.15.33:179][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.08.09-10.17.47:005][278]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.17.47:040][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.08.09-10.17.47:428][291]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUE782A98441303D7A15BC61BFAB239A7B.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.17.47:448][291]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.17.47:448][291]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.17.55:262][581]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU2869D807449CCFF4CE37A4A9FC035668.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.17.55:283][581]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.17.55:283][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.17.59:151][758]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.17.59:196][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.08.09-10.17.59:855][795]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUEE43BB0F48ABB1A7B925D8A36ABAF0E9.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.17.59:872][795]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.17.59:872][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.18.02:343][895]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-10.18.02:359][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-10.18.02:359][895]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 6:18:02 am)
+[2022.08.09-10.18.02:360][895]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.18.02:405][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045720s)
+[2022.08.09-10.18.02:406][895]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-10.18.02:407][895]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2022.08.09-10.18.02:407][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.047397s)
+[2022.08.09-10.18.02:431][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.08.09-10.18.02:432][895]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-10.18.02:432][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-10.18.02:432][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-10.18.02:433][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-10.18.02:433][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-10.18.02:433][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-10.18.02:433][895]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-10.18.02:438][895]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-10.18.02:438][895]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-10.18.02:446][895]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-10.18.02:446][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-10.18.02:446][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-10.18.02:446][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-10.18.02:447][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-10.18.02:447][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-10.18.02:447][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-10.18.02:447][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-10.18.02:447][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-10.18.02:447][895]LogInit: FAudioDevice initialized.
+[2022.08.09-10.18.02:447][895]LogAudio: Display: Audio Device (ID: 7) registered with world 'PlaytestMENU'.
+[2022.08.09-10.18.02:469][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.18.02:469][895]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-10.18.02:482][895]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-20.18.02
+[2022.08.09-10.18.02:484][895]LogWorld: Bringing up level for play took: 0.014536
+[2022.08.09-10.18.02:484][895]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.08.09-10.18.02:490][895]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.18.02:490][895]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-10.18.02:492][895]PIE: Server logged in
+[2022.08.09-10.18.02:494][895]PIE: Play in editor total start time 0.137 seconds.
+[2022.08.09-10.18.14:055][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.18.14:055][355]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.18.14:055][355]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-10.18.14:065][355]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-10.18.14:068][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.18.14:078][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-10.18.14:085][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.18.14:107][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-10.18.14:107][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.18.14:109][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.18.14:119][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.09-10.18.14:146][356]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.08.09-10.18.25:795][192]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/Levels/PlaytestMENU.PlaytestMENU:PersistentLevel.PlaytestMENU
+[2022.08.09-10.18.50:767][532]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.18.50:808][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.08.09-10.18.51:184][548]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUC87033734CCBD5423F2AE69E17DA5DC5.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.18.51:202][548]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.18.51:202][548]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.19.15:348][217]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.19.15:403][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.08.09-10.19.15:958][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.09-10.19.16:123][244]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU0BBE4D6848E6F6978BC9F29F15E001F5.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestMENU.umap'
+[2022.08.09-10.19.16:153][244]LogFileHelpers: Saving map 'PlaytestMENU' took 0.219
+[2022.08.09-10.19.16:169][244]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.19.16:169][244]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.19.19:714][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-10.19.19:726][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-10.19.19:726][552]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 6:19:19 am)
+[2022.08.09-10.19.19:726][552]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.19.19:772][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046226s)
+[2022.08.09-10.19.19:773][552]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-10.19.19:773][552]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2022.08.09-10.19.19:774][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.047816s)
+[2022.08.09-10.19.19:807][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.08.09-10.19.19:808][552]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-10.19.19:808][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-10.19.19:808][552]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-10.19.19:808][552]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-10.19.19:808][552]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-10.19.19:808][552]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-10.19.19:813][552]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-10.19.19:813][552]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-10.19.19:822][552]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-10.19.19:822][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-10.19.19:822][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-10.19.19:822][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-10.19.19:823][552]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-10.19.19:823][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-10.19.19:823][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-10.19.19:824][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-10.19.19:824][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-10.19.19:824][552]LogInit: FAudioDevice initialized.
+[2022.08.09-10.19.19:824][552]LogAudio: Display: Audio Device (ID: 8) registered with world 'PlaytestMENU'.
+[2022.08.09-10.19.19:844][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.19.19:844][552]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-10.19.19:858][552]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-20.19.19
+[2022.08.09-10.19.19:860][552]LogWorld: Bringing up level for play took: 0.015062
+[2022.08.09-10.19.19:860][552]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.08.09-10.19.19:865][552]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.19.19:865][552]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-10.19.19:867][552]PIE: Server logged in
+[2022.08.09-10.19.19:868][552]PIE: Play in editor total start time 0.145 seconds.
+[2022.08.09-10.19.24:863][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.19.24:863][748]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.19.24:864][748]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-10.19.24:889][748]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-10.19.24:892][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.19.24:902][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-10.19.24:908][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.19.24:930][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.19.24:932][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.19.24:942][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.08.09-10.19.24:963][749]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.08.09-10.20.42:029][702]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU97B361924786E62CD4D7F8B8D7DB9B4C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.20.42:048][702]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.20.42:048][702]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.20.42:357][719]BlueprintLog: New page: Compile PlaytestMENU
+[2022.08.09-10.20.42:405][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.08.09-10.20.43:995][782]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-10.20.44:006][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-10.20.44:007][782]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 6:20:44 am)
+[2022.08.09-10.20.44:007][782]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.20.44:054][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046831s)
+[2022.08.09-10.20.44:055][782]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-10.20.44:055][782]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2022.08.09-10.20.44:055][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.048382s)
+[2022.08.09-10.20.44:082][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.08.09-10.20.44:083][782]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-10.20.44:083][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-10.20.44:083][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-10.20.44:084][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-10.20.44:084][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-10.20.44:084][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-10.20.44:084][782]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-10.20.44:088][782]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-10.20.44:088][782]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-10.20.44:097][782]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-10.20.44:097][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-10.20.44:097][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-10.20.44:097][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-10.20.44:098][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-10.20.44:098][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-10.20.44:098][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-10.20.44:099][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-10.20.44:099][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-10.20.44:099][782]LogInit: FAudioDevice initialized.
+[2022.08.09-10.20.44:099][782]LogAudio: Display: Audio Device (ID: 9) registered with world 'PlaytestMENU'.
+[2022.08.09-10.20.44:119][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.20.44:119][782]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-10.20.44:135][782]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-20.20.44
+[2022.08.09-10.20.44:137][782]LogWorld: Bringing up level for play took: 0.017134
+[2022.08.09-10.20.44:138][782]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.08.09-10.20.44:143][782]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.20.44:143][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-10.20.44:146][782]PIE: Server logged in
+[2022.08.09-10.20.44:148][782]PIE: Play in editor total start time 0.144 seconds.
+[2022.08.09-10.21.02:418][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.21.02:420][516]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.21.02:420][516]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-10.21.02:449][516]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-10.21.02:453][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.21.02:466][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-10.21.02:472][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.21.02:495][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-10.21.02:496][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.21.02:497][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.21.02:504][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.08.09-10.21.02:530][517]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.08.09-10.22.11:912][193]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUDCC92BBE404EFE95C808A2B9D3B55E4F.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/PlaytestMENU/PlaytestMENU.uasset'
+[2022.08.09-10.22.11:929][193]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.22.11:929][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/PlaytestMENU/PlaytestMENU.PlaytestMENU
+[2022.08.09-10.22.13:238][248]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-10.22.13:249][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-10.22.13:250][248]PIE: New page: PIE session: PlaytestMENU (10 Aug 2022, 6:22:13 am)
+[2022.08.09-10.22.13:250][248]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.22.13:298][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048056s)
+[2022.08.09-10.22.13:299][248]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-10.22.13:299][248]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2022.08.09-10.22.13:299][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestMENU.PlaytestMENU to /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU (0.049431s)
+[2022.08.09-10.22.13:327][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.08.09-10.22.13:328][248]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-10.22.13:328][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-10.22.13:328][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-10.22.13:329][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-10.22.13:329][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-10.22.13:329][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-10.22.13:329][248]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-10.22.13:333][248]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-10.22.13:333][248]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-10.22.13:342][248]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-10.22.13:342][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-10.22.13:342][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-10.22.13:342][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-10.22.13:343][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-10.22.13:343][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-10.22.13:343][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-10.22.13:344][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-10.22.13:344][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-10.22.13:344][248]LogInit: FAudioDevice initialized.
+[2022.08.09-10.22.13:344][248]LogAudio: Display: Audio Device (ID: 10) registered with world 'PlaytestMENU'.
+[2022.08.09-10.22.13:365][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.22.13:365][248]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.09-10.22.13:379][248]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestMENU.PlaytestMENU up for play (max tick rate 0) at 2022.08.09-20.22.13
+[2022.08.09-10.22.13:381][248]LogWorld: Bringing up level for play took: 0.014812
+[2022.08.09-10.22.13:381][248]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.08.09-10.22.13:386][248]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.22.13:386][248]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.09-10.22.13:389][248]PIE: Server logged in
+[2022.08.09-10.22.13:390][248]PIE: Play in editor total start time 0.143 seconds.
+[2022.08.09-10.22.32:146][ 12]LogNet: Browse: /Game/Triage/Levels/PlaytestLevel
+[2022.08.09-10.22.32:147][ 12]LogLoad: LoadMap: /Game/Triage/Levels/PlaytestLevel
+[2022.08.09-10.22.32:147][ 12]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestMENU
+[2022.08.09-10.22.32:148][ 12]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-10.22.32:151][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.22.32:175][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-10.22.32:197][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.08.09-10.22.32:268][ 12]LogAudio: Display: Audio Device (ID: 10) registered with world 'PlaytestLevel'.
+[2022.08.09-10.22.32:269][ 12]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-10.22.32:270][ 12]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-10.22.32:301][ 12]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-20.22.32
+[2022.08.09-10.22.32:303][ 12]LogWorld: Bringing up level for play took: 0.032922
+[2022.08.09-10.22.32:306][ 12]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-10.22.32:306][ 12]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.08.09-10.22.32:306][ 12]LogLoad: Took 0.159988 seconds to LoadMap(/Game/Triage/Levels/PlaytestLevel)
+[2022.08.09-10.22.36:216][168]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.41:312][372]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.22.41:312][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-10.22.41:312][372]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.44:536][501]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-10.22.44:536][501]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-10.22.48:019][642]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.22.48:020][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-10.22.48:020][642]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.51:902][802]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-10.22.51:902][802]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-10.22.51:902][802]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.52:801][839]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.53:240][857]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.53:573][871]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.53:855][883]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.22.54:144][895]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.23.08:603][481]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.23.13:200][665]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-10.23.13:200][665]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-10.23.13:200][665]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.23.15:400][753]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-10.23.15:400][753]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-10.23.21:836][ 13]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-10.23.25:218][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-10.23.25:218][147]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-10.23.25:219][147]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-10.23.25:228][147]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-10.23.25:231][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.23.25:238][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-10.23.25:246][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-10.23.25:270][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-10.23.25:271][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.23.25:272][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-10.23.25:282][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.08.09-10.23.25:307][148]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.08.09-10.23.26:382][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.08.09-10.23.26:547][193]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU79EFE3EE4479F93FB57204A56777978E.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestMENU.umap'
+[2022.08.09-10.23.26:590][193]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-10.23.26:590][193]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestMENU.PlaytestMENU
