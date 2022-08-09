@@ -3567,3 +3567,727 @@ End Object
 [2022.08.09-11.16.49:258][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.08.09-11.16.49:269][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
 [2022.08.09-11.16.49:294][196]LogPlayLevel: Display: Destroying online subsystem :Context_177
+[2022.08.09-11.19.02:390][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\466338__valli39__1-15-beep.wav)
+[2022.08.09-11.19.04:374][953]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 466338__valli39__1-15-beep...
+[2022.08.09-11.19.04:374][953]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Triage/Assets/Audio/466338__valli39__1-15-beep.466338__valli39__1-15-beep will be modified from 40 to 40.
+[2022.08.09-11.19.04:386][953]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 160088 while cooking SoundWave /Game/Triage/Assets/Audio/466338__valli39__1-15-beep.466338__valli39__1-15-beep.
+[2022.08.09-11.19.07:426][175]LogContentBrowser: Deferred new asset file creation: 466338__valli39__1-15-beep_Cue
+[2022.08.09-11.19.07:448][175]LogContentBrowser: Creating deferred item: 466338__valli39__1-15-beep_Cue
+[2022.08.09-11.19.12:093][360]LogContentBrowser: Attempting asset rename: 466338__valli39__1-15-beep_Cue -> Tv_Sound
+[2022.08.09-11.19.12:094][360]LogContentBrowser: End creating deferred item 466338__valli39__1-15-beep_Cue
+[2022.08.09-11.19.16:350][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.08.09-11.19.16:389][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.08.09-11.19.16:556][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUFF658477495925FE20D9FC98CDBBC495.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestMENU.umap'
+[2022.08.09-11.19.16:575][573]LogFileHelpers: Saving map 'PlaytestMENU' took 0.203
+[2022.08.09-11.19.16:578][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/166186__drminky__menu-screen-mouEB196726462D038958EE878C88189352.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/166186__drminky__menu-screen-mouse-over.uasset'
+[2022.08.09-11.19.16:583][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/434833__notyermom__selection-sou13BA757440EA68FA1EEBB9BD469E7234.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/434833__notyermom__selection-sound.uasset'
+[2022.08.09-11.19.16:589][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/game_play_elavator_cleaner_mix4E1F7B5949F9C7C2CA7DA4ABC4AEEB65.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/game_play_elavator_cleaner_mix.uasset'
+[2022.08.09-11.19.16:595][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Main_Menu_lofi_cleaner_mix7902ED3C462F0C69A4BF0AAC25B5D986.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Main_Menu_lofi_cleaner_mix.uasset'
+[2022.08.09-11.19.16:603][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/415510__inspectorj__bell-counterA3FDE8FD437C3D0D0873AFB9A9804600.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/415510__inspectorj__bell-counter-a.uasset'
+[2022.08.09-11.19.16:611][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlayerDialogue156103B954E9CFB6E3B12EA8B03943936.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/PlayerDialogue1.uasset'
+[2022.08.09-11.19.16:618][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlayerDialogue218D705C542BE14635C183A80E8F182A3.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/PlayerDialogue2.uasset'
+[2022.08.09-11.19.16:625][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlayerDialogue3B15B107547960BC1FCCA9A81935D7789.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/PlayerDialogue3.uasset'
+[2022.08.09-11.19.16:632][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlayerDialogue4C5B1BD134E1FC75F35DC18B9AA01A009.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/PlayerDialogue4.uasset'
+[2022.08.09-11.19.16:639][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlayerDialogue507EE855E48C9443EA8E89C8B59E36C35.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/PlayerDialogue5.uasset'
+[2022.08.09-11.19.16:646][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/466338__valli39__1-15-beepA43700904460ABE05E44338F81859131.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/466338__valli39__1-15-beep.uasset'
+[2022.08.09-11.19.16:648][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Assets/Audio/Tv_Sound" FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Tv_Sound.uasset" SILENT=true
+[2022.08.09-11.19.16:651][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Tv_Sound5564804C41C03ACBEFE7F0A6EB9E778D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Tv_Sound.uasset'
+[2022.08.09-11.19.16:674][573]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestMENU.PlaytestMENU
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/PlayerDialogue5.PlayerDialogue5
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/PlayerDialogue4.PlayerDialogue4
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/PlayerDialogue3.PlayerDialogue3
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/PlayerDialogue2.PlayerDialogue2
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/PlayerDialogue1.PlayerDialogue1
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundCue /Game/Triage/Assets/Audio/Tv_Sound.Tv_Sound
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/Main_Menu_lofi_cleaner_mix.Main_Menu_lofi_cleaner_mix
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/466338__valli39__1-15-beep.466338__valli39__1-15-beep
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/game_play_elavator_cleaner_mix.game_play_elavator_cleaner_mix
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/415510__inspectorj__bell-counter-a.415510__inspectorj__bell-counter-a
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/434833__notyermom__selection-sound.434833__notyermom__selection-sound
+[2022.08.09-11.19.16:674][573]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/166186__drminky__menu-screen-mouse-over.166186__drminky__menu-screen-mouse-over
+[2022.08.09-11.19.21:818][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/SecurityCameraScreen.SecurityCameraScreen
+[2022.08.09-11.19.25:880][ 15]BlueprintLog: New page: Compile SecurityCameraScreen
+[2022.08.09-11.19.25:966][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.08.09-11.19.26:209][ 25]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/SecurityCameraScreen4392DEB742023A224D6B27A386AE0616.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/SecurityCameraScreen.uasset'
+[2022.08.09-11.19.26:225][ 25]AssetCheck: New page: Asset Save: SecurityCameraScreen
+[2022.08.09-11.19.26:225][ 25]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/SecurityCameraScreen.SecurityCameraScreen
+[2022.08.09-11.19.35:033][351]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Menu_Loop)
+[2022.08.09-11.19.38:802][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.08.09-11.19.38:976][493]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENU60AB64704D78000B1FE4B1B9DBDBF5AF.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestMENU.umap'
+[2022.08.09-11.19.39:008][493]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-11.19.39:008][493]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestMENU.PlaytestMENU
+[2022.08.09-11.19.43:782][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.09-11.19.43:907][680]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.19.43:907][680]Cmd: MAP LOAD FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.09-11.19.43:907][680]LightingResults: New page: Lighting Build
+[2022.08.09-11.19.43:907][680]LoadErrors: New page: Loading map: PlaytestLevel.umap
+[2022.08.09-11.19.43:915][680]LogWorld: UWorld::CleanupWorld for PlaytestMENU, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.19.43:915][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.19.43:916][680]MapCheck: New page: Map Check
+[2022.08.09-11.19.43:916][680]LightingResults: New page: Lighting Build
+[2022.08.09-11.19.43:938][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-11.19.43:951][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.08.09-11.19.43:953][680]LogAudio: Display: Audio Device (ID: 1) registered with world 'PlaytestLevel'.
+[2022.08.09-11.19.44:013][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.09-11.19.44:014][680]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.19.44:048][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.08.09-11.19.44:060][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.09-11.19.44:060][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.242ms to complete.
+[2022.08.09-11.19.44:060][680]LogFileHelpers: Loading map 'PlaytestLevel' took 0.153
+[2022.08.09-11.19.55:481][211]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave game_play_elavator_cleaner_mix...
+[2022.08.09-11.19.55:483][211]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Triage/Assets/Audio/game_play_elavator_cleaner_mix.game_play_elavator_cleaner_mix will be modified from 40 to 40.
+[2022.08.09-11.19.56:230][211]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10160640 while cooking SoundWave /Game/Triage/Assets/Audio/game_play_elavator_cleaner_mix.game_play_elavator_cleaner_mix.
+[2022.08.09-11.19.58:863][387]LogContentBrowser: Deferred new asset file creation: game_play_elavator_cleaner_mix_Cue
+[2022.08.09-11.19.58:886][387]LogContentBrowser: Creating deferred item: game_play_elavator_cleaner_mix_Cue
+[2022.08.09-11.20.04:540][607]LogContentBrowser: Attempting asset rename: game_play_elavator_cleaner_mix_Cue -> Gameplay_Loop
+[2022.08.09-11.20.04:541][607]LogContentBrowser: End creating deferred item game_play_elavator_cleaner_mix_Cue
+[2022.08.09-11.20.30:879][906]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Triage/Assets/Audio/Gameplay_Loop.Gameplay_Loop
+[2022.08.09-11.20.37:475][156]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Gameplay_LoopAFB3633D47FCA8A172B3B0A3D2517CE0.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Gameplay_Loop.uasset'
+[2022.08.09-11.20.37:503][156]AssetCheck: New page: Asset Save: Gameplay_Loop
+[2022.08.09-11.20.37:503][156]LogContentValidation: Display: Validating SoundCue /Game/Triage/Assets/Audio/Gameplay_Loop.Gameplay_Loop
+[2022.08.09-11.20.38:934][219]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-11.20.38:943][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.20.38:944][219]PIE: New page: PIE session: PlaytestLevel (10 Aug 2022, 7:20:38 am)
+[2022.08.09-11.20.38:944][219]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.20.38:991][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047595s)
+[2022.08.09-11.20.38:992][219]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.20.38:993][219]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2022.08.09-11.20.38:993][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.049239s)
+[2022.08.09-11.20.39:018][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.09-11.20.39:023][219]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-11.20.39:023][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-11.20.39:023][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-11.20.39:023][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-11.20.39:023][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-11.20.39:023][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-11.20.39:024][219]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-11.20.39:028][219]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-11.20.39:029][219]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-11.20.39:037][219]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-11.20.39:037][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-11.20.39:037][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-11.20.39:038][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-11.20.39:038][219]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-11.20.39:038][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-11.20.39:038][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-11.20.39:039][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-11.20.39:039][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-11.20.39:039][219]LogInit: FAudioDevice initialized.
+[2022.08.09-11.20.39:039][219]LogAudio: Display: Audio Device (ID: 21) registered with world 'PlaytestLevel'.
+[2022.08.09-11.20.39:060][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.20.39:060][219]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-11.20.39:074][219]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-21.20.39
+[2022.08.09-11.20.39:076][219]LogWorld: Bringing up level for play took: 0.015395
+[2022.08.09-11.20.39:077][219]LogOnline: OSS: Creating online subsystem instance for: :Context_179
+[2022.08.09-11.20.39:082][219]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.09-11.20.39:085][219]PIE: Server logged in
+[2022.08.09-11.20.39:086][219]PIE: Play in editor total start time 0.145 seconds.
+[2022.08.09-11.20.42:469][348]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.20.42:469][348]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.20.42:469][348]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.43:052][370]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.20.43:052][370]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.20.43:052][370]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.43:468][387]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.20.43:468][387]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.20.43:468][387]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.43:836][402]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.20.43:836][402]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.20.43:836][402]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.44:515][429]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.20.44:515][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.20.44:515][429]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.45:903][484]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.20.45:903][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.20.45:903][484]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.46:926][525]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.47:836][562]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.48:721][598]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.49:301][622]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.49:713][639]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.51:484][710]LogBlueprintUserMessages: [PlayerControllerBP_C_0] PickedUp
+[2022.08.09-11.20.53:196][778]PIE: Warning: SM_Prop_Desk_9.StaticMeshComponent0 SM_Prop_Desk_06 has to have 'Simulate Physics' enabled if you'd like to GetMass. 
+[2022.08.09-11.20.53:196][778]LogBlueprintUserMessages: [PlayerControllerBP_C_0] PickedUp
+[2022.08.09-11.20.54:216][818]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.20.59:501][ 22]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.20.59:501][ 22]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.20.59:501][ 22]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.01:687][109]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.01:687][109]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.01:687][109]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.02:255][132]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.02:255][132]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.02:255][132]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.02:603][146]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.02:603][146]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.02:603][146]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.02:802][154]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.02:802][154]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.02:802][154]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.03:025][163]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.03:025][163]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.03:025][163]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.03:227][171]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.03:227][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.03:227][171]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.03:562][184]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.03:562][184]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.03:562][184]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.04:135][207]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.04:135][207]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.04:135][207]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.05:870][275]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.05:870][275]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.08:240][366]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.12:833][544]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.12:833][544]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.12:833][544]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.14:124][595]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.14:124][595]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.16:791][700]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.21:542][887]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.21:542][887]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.21:542][887]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.22:827][937]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.22:827][937]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.26:653][ 89]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.31:356][274]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.31:356][274]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.31:356][274]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.32:816][332]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.32:816][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.33:832][372]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.33:832][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.33:832][372]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.38:656][564]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.38:656][564]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.38:656][564]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.40:397][635]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.40:817][652]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.41:231][669]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.41:622][685]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.46:252][865]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.51:598][ 73]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.21.51:599][ 73]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.21.51:599][ 73]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.21.53:020][129]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.21.53:020][129]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.21.58:301][337]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.04:031][564]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.22.04:031][564]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.22.04:031][564]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.04:749][592]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.22.04:749][592]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.22.08:820][753]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.13:166][921]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.22.13:166][921]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.22.13:166][921]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.13:929][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.22.13:929][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.22.15:307][  4]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.19:778][177]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.22.19:778][177]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.22.19:778][177]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.20:490][205]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.22.20:490][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.22.25:573][406]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.30:191][586]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.22.30:191][586]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.22.30:191][586]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.30:808][610]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.22.30:808][610]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.22.33:082][701]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.34:071][741]LogCharacterMovement: PatientBP6 is stuck and failed to move! Velocity: X=246.38 Y=139.95 Z=0.00 Location: X=-1569.16 Y=1850.11 Z=278.35 Normal: X=-0.51 Y=0.86 Z=0.00 PenetrationDepth:2.731 Actor:PatientBP9 Component:CharacterMesh0 BoneName:Hand_L (0 other events since notify)
+[2022.08.09-11.22.34:169][745]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.34:496][758]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.34:849][772]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.35:148][784]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.39:013][934]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.44:298][141]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.22.44:298][141]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.22.44:298][141]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.22.45:091][171]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.22.45:091][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.22.54:264][319]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.23.00:092][545]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.23.00:092][545]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.23.00:092][545]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.23.00:890][576]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.23.00:890][576]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.23.04:313][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.23.04:313][710]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.23.04:314][710]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-11.23.04:330][710]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.23.04:334][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.23.04:346][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-11.23.04:378][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.23.04:404][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-11.23.04:404][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.23.04:405][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.23.04:414][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.08.09-11.23.04:617][711]LogPlayLevel: Display: Destroying online subsystem :Context_179
+[2022.08.09-11.23.06:329][722]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-11.23.06:338][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.23.06:338][722]PIE: New page: PIE session: PlaytestLevel (10 Aug 2022, 7:23:06 am)
+[2022.08.09-11.23.06:338][722]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.23.06:387][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048483s)
+[2022.08.09-11.23.06:388][722]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.23.06:388][722]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2022.08.09-11.23.06:388][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.050368s)
+[2022.08.09-11.23.06:414][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.09-11.23.06:416][722]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-11.23.06:416][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-11.23.06:416][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-11.23.06:417][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-11.23.06:417][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-11.23.06:417][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-11.23.06:417][722]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-11.23.06:422][722]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-11.23.06:422][722]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-11.23.06:431][722]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-11.23.06:431][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-11.23.06:431][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-11.23.06:431][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-11.23.06:432][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-11.23.06:432][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-11.23.06:432][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-11.23.06:432][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-11.23.06:433][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-11.23.06:433][722]LogInit: FAudioDevice initialized.
+[2022.08.09-11.23.06:433][722]LogAudio: Display: Audio Device (ID: 22) registered with world 'PlaytestLevel'.
+[2022.08.09-11.23.06:454][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.23.06:454][722]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-11.23.06:471][722]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-21.23.06
+[2022.08.09-11.23.06:473][722]LogWorld: Bringing up level for play took: 0.017993
+[2022.08.09-11.23.06:473][722]LogOnline: OSS: Creating online subsystem instance for: :Context_180
+[2022.08.09-11.23.06:478][722]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.09-11.23.06:480][722]PIE: Server logged in
+[2022.08.09-11.23.06:482][722]PIE: Play in editor total start time 0.146 seconds.
+[2022.08.09-11.23.07:912][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.23.07:912][768]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.23.07:913][768]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-11.23.07:921][768]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.23.07:925][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.23.07:933][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-11.23.07:960][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.23.07:982][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.23.07:983][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.23.07:991][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.09-11.23.08:032][769]LogPlayLevel: Display: Destroying online subsystem :Context_180
+[2022.08.09-11.23.08:898][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.09-11.23.09:076][803]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevelD5136EEF487D5376067BA1A4770F63B9.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-11.23.09:105][803]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-11.23.09:105][803]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.25.10:589][300]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav)
+[2022.08.09-11.25.10:590][300]Error: Unable to read wave file '452755__musicandsoundyay__sliding-door-opening-and-closing' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.08.09-11.25.10:590][300]Error: Unrecognized sound format 'wav' in 452755__musicandsoundyay__sliding-door-opening-and-closing
+[2022.08.09-11.25.13:791][300]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.25.13:796][300]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.13:796][300]LogAssetTools: Warning: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.20:508][504]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav)
+[2022.08.09-11.25.20:509][504]Error: Unable to read wave file '452755__musicandsoundyay__sliding-door-opening-and-closing' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.08.09-11.25.20:509][504]Error: Unrecognized sound format 'wav' in 452755__musicandsoundyay__sliding-door-opening-and-closing
+[2022.08.09-11.25.22:003][504]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.25.22:008][504]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.22:009][504]LogAssetTools: Warning: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.35:533][587]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav)
+[2022.08.09-11.25.35:534][587]Error: Unable to read wave file '452755__musicandsoundyay__sliding-door-opening-and-closing' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.08.09-11.25.35:534][587]Error: Unrecognized sound format 'wav' in 452755__musicandsoundyay__sliding-door-opening-and-closing
+[2022.08.09-11.25.39:941][587]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.25.39:947][587]Message dialog closed, result: Ok, title: Message, text: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.39:947][587]LogAssetTools: Warning: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.46:951][850]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav)
+[2022.08.09-11.25.46:952][850]Error: Unable to read wave file '452755__musicandsoundyay__sliding-door-opening-and-closing' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.08.09-11.25.46:952][850]Error: Unrecognized sound format 'wav' in 452755__musicandsoundyay__sliding-door-opening-and-closing
+[2022.08.09-11.25.48:024][850]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.25.48:029][850]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.25.48:029][850]LogAssetTools: Warning: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.26.14:776][ 59]LogSlate: Window 'SecurityCameraScreen' being destroyed
+[2022.08.09-11.26.14:791][ 59]LogWorld: UWorld::CleanupWorld for World_240, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.26.14:791][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.26.18:319][163]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav)
+[2022.08.09-11.26.18:320][163]Error: Unable to read wave file '452755__musicandsoundyay__sliding-door-opening-and-closing' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.08.09-11.26.18:320][163]Error: Unrecognized sound format 'wav' in 452755__musicandsoundyay__sliding-door-opening-and-closing
+[2022.08.09-11.26.27:294][163]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.26.27:299][163]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.26.27:299][163]LogAssetTools: Warning: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755__musicandsoundyay__sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755__musicandsoundyay__sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.26.38:042][291]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755sliding-door-opening-and-closing.wav)
+[2022.08.09-11.26.38:042][291]Error: Unable to read wave file '452755sliding-door-opening-and-closing' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.08.09-11.26.38:042][291]Error: Unrecognized sound format 'wav' in 452755sliding-door-opening-and-closing
+[2022.08.09-11.26.39:188][291]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.26.39:193][291]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.26.39:193][291]LogAssetTools: Warning: Failed to import 'E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755sliding-door-opening-and-closing.wav'. Failed to create asset '/Game/Triage/Assets/Audio/452755sliding-door-opening-and-closing'.
+Please see Output Log for details.
+[2022.08.09-11.27.35:312][492]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\Audio\452755sliding-door-opening-and-closing.wav)
+[2022.08.09-11.27.38:847][640]LogContentBrowser: Deferred new asset file creation: 452755sliding-door-opening-and-closing_Cue
+[2022.08.09-11.27.38:871][640]LogContentBrowser: Creating deferred item: 452755sliding-door-opening-and-closing_Cue
+[2022.08.09-11.27.44:460][850]LogContentBrowser: Attempting asset rename: 452755sliding-door-opening-and-closing_Cue -> Door_Sound
+[2022.08.09-11.27.44:461][850]LogContentBrowser: End creating deferred item 452755sliding-door-opening-and-closing_Cue
+[2022.08.09-11.27.47:198][962]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 452755sliding-door-opening-and-closing...
+[2022.08.09-11.27.47:198][962]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Triage/Assets/Audio/452755sliding-door-opening-and-closing.452755sliding-door-opening-and-closing will be modified from 40 to 40.
+[2022.08.09-11.27.47:266][962]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 847396 while cooking SoundWave /Game/Triage/Assets/Audio/452755sliding-door-opening-and-closing.452755sliding-door-opening-and-closing.
+[2022.08.09-11.27.52:205][154]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.27.57:355][342]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Door_Sound3D08503E4955D3F0178C51A1635DA841.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Door_Sound.uasset'
+[2022.08.09-11.27.57:377][342]AssetCheck: New page: Asset Save: Door_Sound
+[2022.08.09-11.27.57:377][342]LogContentValidation: Display: Validating SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.28.03:581][569]LogSlate: Window 'Door_Sound' being destroyed
+[2022.08.09-11.28.27:816][546]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Door_Sound)
+[2022.08.09-11.28.29:527][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.08.09-11.28.29:715][612]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevelB3BBFF144724331041F72CB96FF91D4C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-11.28.29:742][612]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-11.28.29:742][612]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.28.51:659][489]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.PlaytestLevel
+[2022.08.09-11.29.50:890][365]BlueprintLog: New page: Compile PlaytestLevel
+[2022.08.09-11.29.50:943][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.08.09-11.29.51:264][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.08.09-11.29.51:441][379]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevel197F1FEE4D804BD011417390C4FFA54B.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-11.29.51:457][379]LogFileHelpers: Saving map 'PlaytestLevel' took 0.218
+[2022.08.09-11.29.51:473][379]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-11.29.51:473][379]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.29.52:484][423]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-11.29.52:494][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.29.52:494][423]PIE: New page: PIE session: PlaytestLevel (10 Aug 2022, 7:29:52 am)
+[2022.08.09-11.29.52:494][423]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.29.52:547][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053112s)
+[2022.08.09-11.29.52:549][423]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.29.52:549][423]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2022.08.09-11.29.52:549][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.055008s)
+[2022.08.09-11.29.52:573][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.08.09-11.29.52:575][423]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-11.29.52:575][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-11.29.52:575][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-11.29.52:576][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-11.29.52:576][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-11.29.52:576][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-11.29.52:576][423]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-11.29.52:582][423]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-11.29.52:582][423]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-11.29.52:593][423]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-11.29.52:593][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-11.29.52:593][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-11.29.52:593][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-11.29.52:594][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-11.29.52:594][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-11.29.52:594][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-11.29.52:595][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-11.29.52:595][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-11.29.52:595][423]LogInit: FAudioDevice initialized.
+[2022.08.09-11.29.52:595][423]LogAudio: Display: Audio Device (ID: 23) registered with world 'PlaytestLevel'.
+[2022.08.09-11.29.52:617][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.29.52:617][423]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-11.29.52:631][423]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-21.29.52
+[2022.08.09-11.29.52:633][423]LogWorld: Bringing up level for play took: 0.015475
+[2022.08.09-11.29.52:634][423]LogOnline: OSS: Creating online subsystem instance for: :Context_182
+[2022.08.09-11.29.52:639][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.09-11.29.52:642][423]PIE: Server logged in
+[2022.08.09-11.29.52:644][423]PIE: Play in editor total start time 0.153 seconds.
+[2022.08.09-11.29.56:525][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.29.56:526][571]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.29.56:526][571]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-11.29.56:545][571]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.29.56:548][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.29.56:555][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-11.29.56:578][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.29.56:600][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-11.29.56:600][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.29.56:601][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.29.56:608][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.09-11.29.56:641][572]LogPlayLevel: Display: Destroying online subsystem :Context_182
+[2022.08.09-11.29.58:707][651]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.30.03:255][817]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Door_Sound5064EB5D4C7FEDDB2FDAEEB714173083.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Door_Sound.uasset'
+[2022.08.09-11.30.03:273][817]AssetCheck: New page: Asset Save: Door_Sound
+[2022.08.09-11.30.03:273][817]LogContentValidation: Display: Validating SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.30.29:791][844]Cmd: DELETE
+[2022.08.09-11.30.29:791][844]Cmd: ACTOR DELETE
+[2022.08.09-11.30.31:564][844]LogSlate: Window 'Message' being destroyed
+[2022.08.09-11.30.31:577][844]Message dialog closed, result: YesAll, title: Message, text: Actor Door_Sound2 is referenced by the level blueprint.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Door_Sound2
+[2022.08.09-11.30.31:579][844]LogEditorActor: Deleted Actor: AmbientSound
+[2022.08.09-11.30.31:580][844]LogEditorActor: Deleted Actor: AmbientSound
+[2022.08.09-11.30.31:603][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.08.09-11.30.31:608][844]LogEditorActor: Deleted 2 Actors (0.045 secs)
+[2022.08.09-11.31.26:158][518]BlueprintLog: New page: Compile PlaytestLevel
+[2022.08.09-11.31.26:212][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.08.09-11.31.26:493][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.08.09-11.31.26:670][531]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevel7D79866F4134385F1BC1DF99B5FA583D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-11.31.26:683][531]LogFileHelpers: Saving map 'PlaytestLevel' took 0.213
+[2022.08.09-11.31.26:699][531]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-11.31.26:699][531]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.31.27:147][552]LogSlate: Window 'PlaytestLevel' being destroyed
+[2022.08.09-11.31.27:153][552]LogSlate: Window 'PlaytestLevel' being destroyed
+[2022.08.09-11.31.27:159][552]LogWorld: UWorld::CleanupWorld for World_241, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.31.27:159][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.31.27:719][574]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-11.31.27:729][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.31.27:730][574]PIE: New page: PIE session: PlaytestLevel (10 Aug 2022, 7:31:27 am)
+[2022.08.09-11.31.27:730][574]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.31.27:780][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050748s)
+[2022.08.09-11.31.27:782][574]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.31.27:782][574]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2022.08.09-11.31.27:782][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.052575s)
+[2022.08.09-11.31.27:805][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.08.09-11.31.27:806][574]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-11.31.27:806][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-11.31.27:806][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-11.31.27:807][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-11.31.27:807][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-11.31.27:807][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-11.31.27:807][574]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-11.31.27:811][574]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-11.31.27:811][574]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-11.31.27:820][574]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-11.31.27:820][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-11.31.27:820][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-11.31.27:820][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-11.31.27:821][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-11.31.27:821][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-11.31.27:821][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-11.31.27:822][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-11.31.27:822][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-11.31.27:822][574]LogInit: FAudioDevice initialized.
+[2022.08.09-11.31.27:822][574]LogAudio: Display: Audio Device (ID: 24) registered with world 'PlaytestLevel'.
+[2022.08.09-11.31.27:843][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.31.27:844][574]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-11.31.27:858][574]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-21.31.27
+[2022.08.09-11.31.27:860][574]LogWorld: Bringing up level for play took: 0.015669
+[2022.08.09-11.31.27:860][574]LogOnline: OSS: Creating online subsystem instance for: :Context_183
+[2022.08.09-11.31.27:865][574]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.09-11.31.27:867][574]PIE: Server logged in
+[2022.08.09-11.31.27:868][574]PIE: Play in editor total start time 0.14 seconds.
+[2022.08.09-11.31.30:669][679]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.31.35:169][856]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.31.35:169][856]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.31.35:169][856]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.31.37:102][933]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.31.37:102][933]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.31.44:294][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.31.44:294][221]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.31.44:295][221]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-11.31.44:323][221]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.31.44:327][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.31.44:335][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-11.31.44:342][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.31.44:362][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-11.31.44:362][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.31.44:363][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.31.44:371][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.08.09-11.31.44:398][222]LogPlayLevel: Display: Destroying online subsystem :Context_183
+[2022.08.09-11.31.48:885][414]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.PlaytestLevel
+[2022.08.09-11.31.59:582][101]BlueprintLog: New page: Compile PlaytestLevel
+[2022.08.09-11.31.59:636][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.08.09-11.32.00:020][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.09-11.32.00:199][119]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevelAE53E36D47CDC668BD89E7A773352DBE.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-11.32.00:211][119]LogFileHelpers: Saving map 'PlaytestLevel' took 0.217
+[2022.08.09-11.32.00:227][119]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-11.32.00:227][119]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.32.01:272][168]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-11.32.01:281][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.32.01:281][168]PIE: New page: PIE session: PlaytestLevel (10 Aug 2022, 7:32:01 am)
+[2022.08.09-11.32.01:281][168]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.32.01:328][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047230s)
+[2022.08.09-11.32.01:329][168]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.32.01:330][168]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2022.08.09-11.32.01:330][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.048759s)
+[2022.08.09-11.32.01:355][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.08.09-11.32.01:357][168]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-11.32.01:357][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-11.32.01:357][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-11.32.01:358][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-11.32.01:358][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-11.32.01:358][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-11.32.01:358][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-11.32.01:362][168]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-11.32.01:362][168]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-11.32.01:371][168]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-11.32.01:371][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-11.32.01:371][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-11.32.01:371][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-11.32.01:372][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-11.32.01:372][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-11.32.01:372][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-11.32.01:373][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-11.32.01:373][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-11.32.01:373][168]LogInit: FAudioDevice initialized.
+[2022.08.09-11.32.01:373][168]LogAudio: Display: Audio Device (ID: 25) registered with world 'PlaytestLevel'.
+[2022.08.09-11.32.01:393][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.32.01:393][168]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-11.32.01:408][168]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-21.32.01
+[2022.08.09-11.32.01:410][168]LogWorld: Bringing up level for play took: 0.016280
+[2022.08.09-11.32.01:411][168]LogOnline: OSS: Creating online subsystem instance for: :Context_185
+[2022.08.09-11.32.01:418][168]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.09-11.32.01:422][168]PIE: Server logged in
+[2022.08.09-11.32.01:426][168]PIE: Play in editor total start time 0.147 seconds.
+[2022.08.09-11.32.02:904][219]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.32.07:290][392]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.32.07:290][392]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.32.07:290][392]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.32.08:017][421]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.32.08:017][421]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.32.13:813][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.32.13:813][652]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.32.13:814][652]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-11.32.13:838][652]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.32.13:841][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.32.13:854][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-11.32.13:861][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.32.13:883][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.32.13:885][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.32.13:893][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.09-11.32.13:921][653]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2022.08.09-11.32.15:559][719]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.32.40:520][787]BlueprintLog: New page: Compile PlaytestLevel
+[2022.08.09-11.32.40:570][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.08.09-11.32.41:236][816]LogSlate: Window 'PlaytestLevel' being destroyed
+[2022.08.09-11.32.41:249][816]LogWorld: UWorld::CleanupWorld for World_242, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.32.41:250][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.32.42:636][867]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.32.45:922][992]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/Door_SoundE0F5A38D4AD7710C78CD9CB3F77FCB48.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/Door_Sound.uasset'
+[2022.08.09-11.32.45:942][992]AssetCheck: New page: Asset Save: Door_Sound
+[2022.08.09-11.32.45:943][992]LogContentValidation: Display: Validating SoundCue /Game/Triage/Assets/Audio/Door_Sound.Door_Sound
+[2022.08.09-11.32.46:656][ 23]LogSlate: Window 'Door_Sound' being destroyed
+[2022.08.09-11.32.47:346][ 53]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-11.32.47:356][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-11.32.47:356][ 53]PIE: New page: PIE session: PlaytestLevel (10 Aug 2022, 7:32:47 am)
+[2022.08.09-11.32.47:356][ 53]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.32.47:403][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046887s)
+[2022.08.09-11.32.47:404][ 53]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-11.32.47:405][ 53]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2022.08.09-11.32.47:405][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.048491s)
+[2022.08.09-11.32.47:427][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.08.09-11.32.47:429][ 53]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.08.09-11.32.47:429][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-11.32.47:429][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-11.32.47:429][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-11.32.47:429][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-11.32.47:429][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-11.32.47:429][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-11.32.47:430][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-11.32.47:430][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-11.32.47:430][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-11.32.47:430][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-11.32.47:430][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-11.32.47:430][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-11.32.47:436][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-11.32.47:436][ 53]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-11.32.47:445][ 53]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-11.32.47:445][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-11.32.47:445][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-11.32.47:445][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-11.32.47:446][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-11.32.47:446][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-11.32.47:446][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-11.32.47:447][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-11.32.47:447][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-11.32.47:447][ 53]LogInit: FAudioDevice initialized.
+[2022.08.09-11.32.47:447][ 53]LogAudio: Display: Audio Device (ID: 26) registered with world 'PlaytestLevel'.
+[2022.08.09-11.32.47:467][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.32.47:467][ 53]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-11.32.47:485][ 53]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-21.32.47
+[2022.08.09-11.32.47:487][ 53]LogWorld: Bringing up level for play took: 0.019224
+[2022.08.09-11.32.47:488][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_186
+[2022.08.09-11.32.47:493][ 53]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.09-11.32.47:495][ 53]PIE: Server logged in
+[2022.08.09-11.32.47:496][ 53]PIE: Play in editor total start time 0.142 seconds.
+[2022.08.09-11.32.48:445][ 84]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.32.52:719][251]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.32.52:719][251]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.32.52:719][251]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.32.53:453][280]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.32.53:453][280]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.32.59:634][529]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-11.32.59:634][529]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-11.32.59:634][529]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.33.00:106][548]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-11.33.00:106][548]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-11.33.00:106][548]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.33.01:100][588]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.33.01:635][610]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.33.02:044][627]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.33.02:465][644]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-11.33.03:512][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-11.33.03:512][684]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-11.33.03:514][684]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-11.33.03:534][684]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.33.03:537][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.33.03:543][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-11.33.03:551][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.33.03:569][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.33.03:570][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-11.33.03:579][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.08.09-11.33.03:604][685]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2022.08.09-11.33.04:655][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.09-11.33.04:839][730]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevel34F78AC14C66EEB32801B3AFFCA9046F.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-11.33.04:873][730]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-11.33.04:873][730]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-11.33.10:249][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.08.09-11.33.11:135][954]LogSlate: Window 'Save Content' being destroyed
+[2022.08.09-11.33.11:171][954]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/452755sliding-door-opening-and-c4759854740A1FF06F295ACBE8369C20C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Assets/Audio/452755sliding-door-opening-and-closing.uasset'
+[2022.08.09-11.33.11:270][954]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/PlaytestMENU.PlaytestMENU
+[2022.08.09-11.33.11:271][954]Cmd: MAP LOAD FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestMENU.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.09-11.33.11:271][954]LightingResults: New page: Lighting Build
+[2022.08.09-11.33.11:271][954]LoadErrors: New page: Loading map: PlaytestMENU.umap
+[2022.08.09-11.33.11:277][954]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-11.33.11:278][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-11.33.11:278][954]MapCheck: New page: Map Check
+[2022.08.09-11.33.11:278][954]LightingResults: New page: Lighting Build
+[2022.08.09-11.33.11:298][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-11.33.11:307][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.08.09-11.33.11:310][954]LogAudio: Display: Audio Device (ID: 1) registered with world 'PlaytestMENU'.
+[2022.08.09-11.33.11:376][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.09-11.33.11:376][954]LogAIModule: Creating AISystem for world PlaytestMENU
+[2022.08.09-11.33.11:408][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.08.09-11.33.11:420][954]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.09-11.33.11:421][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.242ms to complete.
+[2022.08.09-11.33.11:421][954]LogFileHelpers: Loading map 'PlaytestMENU' took 0.150
+[2022.08.09-11.33.11:442][954]AssetCheck: New page: Asset Save: 452755sliding-door-opening-and-closing
+[2022.08.09-11.33.11:442][954]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/452755sliding-door-opening-and-closing.452755sliding-door-opening-and-closing
+[2022.08.09-11.33.12:811][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.09-11.33.12:986][  7]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestMENUDE40E2CD4821ECC7F34366B6C3EDABA8.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestMENU.umap'
+[2022.08.09-11.33.13:019][  7]AssetCheck: New page: Asset Save: PlaytestMENU
+[2022.08.09-11.33.13:019][  7]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestMENU.PlaytestMENU
