@@ -2402,3 +2402,678 @@ Make sure 'MangementComputerBP_C' has been compiled for  Turn Off Beds
 [2022.08.09-00.49.36:649][656]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevelCEAC1BD9448587FD65716280B63BAFFC.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
 [2022.08.09-00.49.36:683][656]AssetCheck: New page: Asset Save: PlaytestLevel
 [2022.08.09-00.49.36:683][656]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-00.50.14:933][345]LogContentBrowser: Deferred new asset file creation: PatientBP_Child
+[2022.08.09-00.50.14:956][345]LogContentBrowser: Creating deferred item: PatientBP_Child
+[2022.08.09-00.50.21:639][718]LogContentBrowser: Attempting asset rename: PatientBP_Child -> PatientBP_Child
+[2022.08.09-00.50.21:644][718]LogContentBrowser: End creating deferred item PatientBP_Child
+[2022.08.09-00.50.29:217][ 89]LogContentBrowser: Attempting asset rename: PatientBP_Child -> AndreaGreen
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.SKEL_AndreaGreen_C:UserConstructionScript' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.SKEL_AndreaGreen_C' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:255][ 89]LogMetaData: Removing '/Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Triage/Blueprints/AI/PatientBP_Child.PackageMetaData'
+[2022.08.09-00.50.29:316][ 89]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AndreaGreen1B41F66C47E6C33EB0F6BF8CEEEB25EB.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/AndreaGreen.uasset'
+[2022.08.09-00.50.29:382][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.08.09-00.50.29:411][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.09-00.50.29:430][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.09-00.50.29:482][ 89]AssetCheck: New page: Asset Save: AndreaGreen
+[2022.08.09-00.50.29:482][ 89]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.50.32:029][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.50.40:788][649]BlueprintLog: New page: Compile AndreaGreen
+[2022.08.09-00.50.40:843][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.08.09-00.50.41:210][666]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AndreaGreen38E7BD00422FD3A986DB1B98A6CFA879.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/AndreaGreen.uasset'
+[2022.08.09-00.50.41:225][666]AssetCheck: New page: Asset Save: AndreaGreen
+[2022.08.09-00.50.41:225][666]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.50.46:341][859]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.50.46:341][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.50.48:252][928]LogSlate: Window 'AndreaGreen' being destroyed
+[2022.08.09-00.50.48:259][928]LogSlate: Window 'AndreaGreen' being destroyed
+[2022.08.09-00.50.48:272][928]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.09-00.50.48:272][928]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.50.48:272][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.50.49:048][958]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP2)
+[2022.08.09-00.50.50:302][ 10]Cmd: DELETE
+[2022.08.09-00.50.50:302][ 10]Cmd: ACTOR DELETE
+[2022.08.09-00.50.50:323][ 10]LogEditorActor: Actor PatientBP2 is referenced by MangementComputerBP.
+[2022.08.09-00.50.52:418][ 10]LogSlate: Window 'Message' being destroyed
+[2022.08.09-00.50.52:425][ 10]Message dialog closed, result: Yes, title: Message, text: Actor PatientBP2 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MangementComputerBP
+[2022.08.09-00.50.52:427][ 10]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-00.50.52:449][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.08.09-00.50.52:453][ 10]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.08.09-00.50.52:952][ 30]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP3)
+[2022.08.09-00.50.53:305][ 43]Cmd: DELETE
+[2022.08.09-00.50.53:305][ 43]Cmd: ACTOR DELETE
+[2022.08.09-00.50.53:316][ 43]LogEditorActor: Actor PatientBP3 is referenced by MangementComputerBP.
+[2022.08.09-00.50.54:019][ 43]LogSlate: Window 'Message' being destroyed
+[2022.08.09-00.50.54:024][ 43]Message dialog closed, result: Yes, title: Message, text: Actor PatientBP3 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MangementComputerBP
+[2022.08.09-00.50.54:026][ 43]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-00.50.54:044][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.08.09-00.50.54:045][ 43]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.08.09-00.50.55:486][101]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.09-00.51.12:538][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.09-00.51.12:693][841]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PlaytestLevelA5332113476EA2328FBF33A4F63674B8.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/PlaytestLevel.umap'
+[2022.08.09-00.51.12:722][841]AssetCheck: New page: Asset Save: PlaytestLevel
+[2022.08.09-00.51.12:722][841]LogContentValidation: Display: Validating World /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-00.51.37:776][601]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-00.51.37:786][601]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.09-00.51.37:786][601]LogPlayLevel: [PlayLevel] Compiling BaseLevel before play...
+[2022.08.09-00.51.37:829][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.08.09-00.51.37:834][601]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2022.08.09-00.51.37:835][601]PIE: New page: PIE session: PlaytestLevel (9 Aug 2022, 8:51:37 pm)
+[2022.08.09-00.51.37:835][601]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-00.51.37:877][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041923s)
+[2022.08.09-00.51.37:878][601]LogAIModule: Creating AISystem for world PlaytestLevel
+[2022.08.09-00.51.37:878][601]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2022.08.09-00.51.37:878][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/PlaytestLevel.PlaytestLevel to /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel (0.043510s)
+[2022.08.09-00.51.37:897][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.08.09-00.51.37:898][601]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-00.51.37:898][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-00.51.37:898][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-00.51.37:899][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-00.51.37:899][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-00.51.37:899][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-00.51.37:899][601]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-00.51.37:903][601]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-00.51.37:904][601]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-00.51.37:911][601]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-00.51.37:912][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-00.51.37:912][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-00.51.37:912][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-00.51.37:912][601]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-00.51.37:912][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-00.51.37:912][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-00.51.37:913][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-00.51.37:913][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-00.51.37:913][601]LogInit: FAudioDevice initialized.
+[2022.08.09-00.51.37:913][601]LogAudio: Display: Audio Device (ID: 15) registered with world 'PlaytestLevel'.
+[2022.08.09-00.51.37:932][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-00.51.37:932][601]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-00.51.37:942][601]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_PlaytestLevel.PlaytestLevel up for play (max tick rate 0) at 2022.08.09-10.51.37
+[2022.08.09-00.51.37:943][601]LogWorld: Bringing up level for play took: 0.010009
+[2022.08.09-00.51.37:943][601]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.08.09-00.51.37:948][601]PIE: Server logged in
+[2022.08.09-00.51.37:949][601]PIE: Play in editor total start time 0.165 seconds.
+[2022.08.09-00.51.38:991][640]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-00.51.43:182][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-00.51.43:182][819]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_PlaytestLevel
+[2022.08.09-00.51.43:183][819]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-00.51.43:203][819]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.51.43:205][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.51.43:211][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-00.51.43:251][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.51.43:267][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-00.51.43:268][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-00.51.43:275][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.09-00.51.43:313][820]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.08.09-00.51.46:730][952]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.09-00.51.49:430][136]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.51.51:269][279]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.51.54:791][489]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.52.03:682][118]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.52.08:707][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.52.22:560][296]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.08.09-00.52.24:036][343]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.09-00.52.24:042][343]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.09-00.52.37:812][133]LogEditorTransaction: Undo Move Node
+[2022.08.09-00.52.38:084][141]LogEditorTransaction: Undo Delete current selection
+[2022.08.09-00.52.38:270][146]LogEditorTransaction: Undo Add Node
+[2022.08.09-00.52.38:445][152]LogEditorTransaction: Undo Add Node
+[2022.08.09-00.52.38:648][159]LogEditorTransaction: Undo Delete current selection
+[2022.08.09-00.52.39:052][172]LogEditorTransaction: Undo Change Parameter Type
+[2022.08.09-00.52.39:318][180]LogEditorTransaction: Undo Add Child
+[2022.08.09-00.52.45:816][488]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.09-00.52.45:870][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.08.09-00.52.46:360][508]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBPC372BAA14B29B77C8D1E29AA7B7D125C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.09-00.52.46:374][508]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.09-00.52.46:374][508]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.52.51:156][776]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.52.57:784][288]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.53.08:248][909]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.08.09-00.53.10:385][ 43]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.09-00.53.10:391][ 43]LogBlueprint: Error: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Blueprints\MangementComputerBP.uasset: [Compiler] In use pin  Patient Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.09-00.53.10:392][ 43]LogBlueprint: Error: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Blueprints\MangementComputerBP.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.08.09-00.53.10:443][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.08.09-00.53.10:865][ 58]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP1028CC594A9F6E3FE27C04B6925875C7.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.09-00.53.10:880][ 58]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.09-00.53.10:880][ 58]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.53.32:902][538]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.09-00.53.32:908][538]LogBlueprint: Error: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Blueprints\MangementComputerBP.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2022.08.09-00.53.32:908][538]LogBlueprint: Error: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Blueprints\MangementComputerBP.uasset: [Compiler] The type of  Item  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2022.08.09-00.53.32:908][538]LogBlueprint: Error: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Blueprints\MangementComputerBP.uasset: [Compiler] The type of  Variable  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2022.08.09-00.53.32:909][538]LogBlueprint: Error: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Blueprints\MangementComputerBP.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.08.09-00.53.32:955][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.08.09-00.53.33:533][559]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP902FCEF540C47A067E8335A56C2EBBA8.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.09-00.53.33:554][559]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.09-00.53.33:554][559]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.53.39:068][886]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.09-00.53.39:118][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.08.09-00.53.39:481][901]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP443C96E9484B973E074FE4B87A09F764.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.09-00.53.39:501][901]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.09-00.53.39:501][901]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.53.44:557][336]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.53.46:408][475]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.09-00.53.46:414][475]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.09-00.53.49:243][683]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.53.51:963][790]LogEditorViewport: Clicking on Actor (LMB): AndreaGreen_C (AndreaGreen)
+[2022.08.09-00.53.56:007][945]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.09-00.53.58:909][211]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.54.09:579][731]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Triage/Widgets/Mild/AndreaGreen.AndreaGreen_C or BlueprintGeneratedClass /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen_C
+[2022.08.09-00.54.12:312][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.08.09-00.54.13:416][845]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.09-00.54.13:469][845]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.54.14:233][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.08.09-00.54.14:274][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.09-00.54.14:292][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.09-00.54.14:310][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.09-00.54.38:566][555]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.08.09-00.54.39:868][667]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.09-00.54.39:873][667]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.09-00.54.40:432][689]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.09-00.54.40:489][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.08.09-00.54.40:761][699]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBPFEDBB0BF4B90F14E244B7AA443902938.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.09-00.54.40:781][699]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.09-00.54.40:781][699]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.55.08:613][440]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.09-00.55.08:665][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.09-00.55.08:988][452]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MangementComputerBP4AC0FD46457A1A4317B473AC5552CA39.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.09-00.55.09:007][452]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.09-00.55.09:007][452]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.55.10:677][527]LogSlate: Window 'MangementComputerBP' being destroyed
+[2022.08.09-00.55.10:682][527]LogSlate: Window 'MangementComputerBP' being destroyed
+[2022.08.09-00.55.10:688][527]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.55.10:688][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.55.14:316][782]LogContentBrowser: Deferred new asset file creation: PatientBP1
+[2022.08.09-00.55.14:336][782]LogContentBrowser: Creating deferred item: PatientBP1
+[2022.08.09-00.55.18:433][938]LogContentBrowser: Attempting asset rename: PatientBP1 -> AndreaGreen
+[2022.08.09-00.55.18:477][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.08.09-00.55.18:498][938]LogContentBrowser: End creating deferred item PatientBP1
+[2022.08.09-00.55.20:151][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.55.32:620][543]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.09-00.55.32:640][543]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.09-00.55.34:196][622]BlueprintLog: New page: Compile AndreaGreen
+[2022.08.09-00.55.34:241][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.08.09-00.55.34:649][634]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AndreaGreenC36FE8A146393C3BE21A5AB5157B61B8.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/AndreaGreen.uasset'
+[2022.08.09-00.55.34:669][634]AssetCheck: New page: Asset Save: AndreaGreen
+[2022.08.09-00.55.34:669][634]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.55.35:370][663]LogSlate: Window 'AndreaGreen' being destroyed
+[2022.08.09-00.55.35:377][663]LogSlate: Window 'AndreaGreen' being destroyed
+[2022.08.09-00.55.35:381][663]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.55.35:381][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.56.00:954][252]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.09-00.56.06:375][556]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Car_Ambo_01)
+[2022.08.09-00.56.07:023][580]LogEditorViewport: Clicking on Actor (LMB): AndreaGreen_C (AndreaGreen)
+[2022.08.09-00.56.10:774][721]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.09-00.56.25:390][839]LogEditorViewport: Clicking on Actor (LMB): AndreaGreen_C (AndreaGreen)
+[2022.08.09-00.56.37:751][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.08.09-00.56.38:479][320]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.09-00.56.38:521][320]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Triage/Blueprints/AI/AndreaGreen.AndreaGreen
+[2022.08.09-00.56.38:819][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.08.09-00.56.38:850][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.08.09-00.56.38:866][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.09-00.56.38:881][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.08.09-00.56.40:862][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2022.08.09-00.56.41:297][418]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.09-00.56.54:097][938]LogObjectTools: Deleting 1 worlds: /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-00.56.54:097][938]LogObjectTools: Currently 19 active worlds: /Game/Triage/Levels/PlaytestLevel.PlaytestLevel, /Engine/Transient.World_1, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_37, /Engine/Transient.World_38
+[2022.08.09-00.56.55:118][938]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.08.09-00.56.55:131][938]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.09-00.56.55:709][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.09-00.56.59:105][968]LogSlate: Window 'Save Content' being destroyed
+[2022.08.09-00.56.59:134][968]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-00.56.59:134][968]Cmd: MAP LOAD FILE="../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.09-00.56.59:134][968]LightingResults: New page: Lighting Build
+[2022.08.09-00.56.59:134][968]LoadErrors: New page: Loading map: BaseLevel.umap
+[2022.08.09-00.56.59:140][968]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.56.59:140][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.56.59:141][968]MapCheck: New page: Map Check
+[2022.08.09-00.56.59:141][968]LightingResults: New page: Lighting Build
+[2022.08.09-00.56.59:157][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-00.56.59:166][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.08.09-00.56.59:167][968]LogAudio: Display: Audio Device (ID: 1) registered with world 'BaseLevel'.
+[2022.08.09-00.56.59:213][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.09-00.56.59:213][968]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-00.56.59:238][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.08.09-00.56.59:244][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.09-00.56.59:245][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2022.08.09-00.56.59:245][968]LogFileHelpers: Loading map 'BaseLevel' took 0.111
+[2022.08.09-00.57.00:644][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:645][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:645][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:669][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:718][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:718][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:766][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:766][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:767][ 26]LogLinker: Warning: [AssetLog] C:\Users\bgsan\Documents\Unreal Projects\Triage\Triage\Triage\Content\Triage\Levels\PlaytestLevel.umap: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:767][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:767][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:768][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:768][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:769][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:769][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:769][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:769][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:769][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:770][ 26]LogLinker: Warning: Failed to load '/Game/Triage/Blueprints/AI/AndreaGreen': Can't find file.
+[2022.08.09-00.57.00:834][ 26]LogObjectTools: Deleting 1 worlds: /Game/Triage/Levels/PlaytestLevel.PlaytestLevel
+[2022.08.09-00.57.00:834][ 26]LogObjectTools: Currently 19 active worlds: /Game/Triage/Levels/BaseLevel.BaseLevel, /Engine/Transient.World_1, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_37, /Engine/Transient.World_38
+[2022.08.09-00.57.00:855][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.08.09-00.57.01:827][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.09-00.57.01:846][ 26]LogWorld: UWorld::CleanupWorld for PlaytestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.57.01:847][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.57.01:906][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.09-00.57.01:930][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.09-00.57.01:945][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.09-00.57.01:947][ 26]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': AndreaGreen_C /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.AndreaGreen_2
+[2022.08.09-00.57.01:947][ 26]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': AndreaGreen_C /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.AndreaGreen_2
+[2022.08.09-00.57.01:947][ 26]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': AndreaGreen_C /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.AndreaGreen_2
+[2022.08.09-00.57.01:947][ 26]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': AndreaGreen_C /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.AndreaGreen_2
+[2022.08.09-00.57.01:947][ 26]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Widget': AndreaGreen_C /Game/Triage/Levels/PlaytestLevel.PlaytestLevel:PersistentLevel.AndreaGreen_2
+[2022.08.09-00.57.03:723][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.09-00.57.03:876][105]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevel7C6F8B1E4EA7AB6731804CA3DBAB75FF.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-00.57.03:906][105]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-00.57.03:906][105]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-00.57.16:454][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_10)
+[2022.08.09-00.57.18:431][745]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP3)
+[2022.08.09-00.57.24:266][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_10)
+[2022.08.09-00.57.25:188][  8]Cmd: DELETE
+[2022.08.09-00.57.25:188][  8]Cmd: ACTOR DELETE
+[2022.08.09-00.57.25:201][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.57.25:225][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.09-00.57.25:231][  8]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.08.09-00.57.26:441][ 60]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP4)
+[2022.08.09-00.57.31:840][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_9)
+[2022.08.09-00.57.32:418][294]Cmd: DELETE
+[2022.08.09-00.57.32:418][294]Cmd: ACTOR DELETE
+[2022.08.09-00.57.32:433][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.57.32:458][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.09-00.57.32:461][294]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.08.09-00.57.32:924][314]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP4)
+[2022.08.09-00.57.40:518][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_16)
+[2022.08.09-00.57.40:847][624]Cmd: DELETE
+[2022.08.09-00.57.40:847][624]Cmd: ACTOR DELETE
+[2022.08.09-00.57.40:860][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.57.40:882][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.09-00.57.40:886][624]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.08.09-00.57.41:606][653]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP6)
+[2022.08.09-00.57.46:238][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_15)
+[2022.08.09-00.57.46:701][861]Cmd: DELETE
+[2022.08.09-00.57.46:701][861]Cmd: ACTOR DELETE
+[2022.08.09-00.57.46:715][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.57.46:738][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.09-00.57.46:742][861]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.08.09-00.57.47:015][873]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP6)
+[2022.08.09-00.57.49:586][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_14)
+[2022.08.09-00.57.50:828][ 19]Cmd: DELETE
+[2022.08.09-00.57.50:828][ 19]Cmd: ACTOR DELETE
+[2022.08.09-00.57.50:843][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.57.50:865][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.08.09-00.57.50:868][ 19]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.08.09-00.57.51:130][ 31]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP7)
+[2022.08.09-00.57.55:450][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_8)
+[2022.08.09-00.57.55:989][222]Cmd: DELETE
+[2022.08.09-00.57.55:989][222]Cmd: ACTOR DELETE
+[2022.08.09-00.57.56:005][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.57.56:027][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.08.09-00.57.56:030][222]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.08.09-00.57.56:983][263]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP8)
+[2022.08.09-00.58.01:390][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_7)
+[2022.08.09-00.58.01:787][442]Cmd: DELETE
+[2022.08.09-00.58.01:787][442]Cmd: ACTOR DELETE
+[2022.08.09-00.58.01:799][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.01:815][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.08.09-00.58.01:818][442]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.09-00.58.02:084][453]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP9)
+[2022.08.09-00.58.04:686][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_6)
+[2022.08.09-00.58.05:138][566]Cmd: DELETE
+[2022.08.09-00.58.05:138][566]Cmd: ACTOR DELETE
+[2022.08.09-00.58.05:150][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.05:166][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.08.09-00.58.05:169][566]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.09-00.58.05:544][581]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP10)
+[2022.08.09-00.58.13:896][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_5)
+[2022.08.09-00.58.14:477][913]Cmd: DELETE
+[2022.08.09-00.58.14:477][913]Cmd: ACTOR DELETE
+[2022.08.09-00.58.14:489][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.14:506][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.09-00.58.14:511][913]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.08.09-00.58.15:280][944]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP12)
+[2022.08.09-00.58.18:184][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_4)
+[2022.08.09-00.58.18:928][ 86]Cmd: DELETE
+[2022.08.09-00.58.18:928][ 86]Cmd: ACTOR DELETE
+[2022.08.09-00.58.18:941][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.18:963][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.09-00.58.18:966][ 86]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.08.09-00.58.19:177][ 95]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP12)
+[2022.08.09-00.58.22:241][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_3)
+[2022.08.09-00.58.22:444][213]Cmd: DELETE
+[2022.08.09-00.58.22:444][213]Cmd: ACTOR DELETE
+[2022.08.09-00.58.22:459][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.22:483][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.09-00.58.22:486][213]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.08.09-00.58.22:824][227]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP13)
+[2022.08.09-00.58.30:580][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_2)
+[2022.08.09-00.58.30:846][520]Cmd: DELETE
+[2022.08.09-00.58.30:847][520]Cmd: ACTOR DELETE
+[2022.08.09-00.58.30:858][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.30:875][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.08.09-00.58.30:879][520]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.08.09-00.58.31:179][531]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP14)
+[2022.08.09-00.58.33:622][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Couch_01)
+[2022.08.09-00.58.34:213][640]Cmd: DELETE
+[2022.08.09-00.58.34:213][640]Cmd: ACTOR DELETE
+[2022.08.09-00.58.34:226][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.09-00.58.34:250][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.09-00.58.34:252][640]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.08.09-00.58.34:525][651]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP15)
+[2022.08.09-00.58.39:214][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.09-00.58.39:374][825]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevel95CFD50A4872F337FBC286A00D24F2C0.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-00.58.39:406][825]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-00.58.39:406][825]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-00.58.42:635][945]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.09-00.58.46:473][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.09-00.58.58:405][631]LogSlate: Window 'MangementComputerBP' being destroyed
+[2022.08.09-00.58.58:419][631]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-00.58.58:419][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-00.59.00:705][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2022.08.09-00.59.01:250][732]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.09-00.59.06:752][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-00.59.18:179][401]BlueprintLog: New page: Compile PatientBP
+[2022.08.09-00.59.18:307][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.08.09-00.59.18:784][415]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP08B2CA8C41A1B65BC63A4399D7CBC035.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.09-00.59.18:800][415]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.09-00.59.18:800][415]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-00.59.21:633][524]BlueprintLog: New page: Compile PatientBP
+[2022.08.09-00.59.21:754][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.09-00.59.22:172][538]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP6C738F3542931407C4CAC1AE18879E56.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.09-00.59.22:189][538]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.09-00.59.22:189][538]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-01.00.02:500][327]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP2)
+[2022.08.09-01.00.05:606][515]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP3)
+[2022.08.09-01.00.09:356][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.08.09-01.00.09:516][718]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevel4A4FE1EB4D2AD8997DECD19FF3DD6314.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-01.00.09:547][718]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-01.00.09:547][718]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-01.00.09:913][735]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-01.00.09:922][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.00.09:922][735]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:00:09 pm)
+[2022.08.09-01.00.09:922][735]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.00.09:969][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047195s)
+[2022.08.09-01.00.09:970][735]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.00.09:971][735]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2022.08.09-01.00.09:971][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.048920s)
+[2022.08.09-01.00.09:996][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.09-01.00.09:997][735]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.00.09:997][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.00.09:997][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.00.09:998][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.00.09:998][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.00.09:998][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.00.09:998][735]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.00.10:003][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.00.10:003][735]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.00.10:011][735]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.00.10:012][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.00.10:012][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.00.10:012][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.00.10:012][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.00.10:012][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.00.10:012][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.00.10:013][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.00.10:013][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.00.10:013][735]LogInit: FAudioDevice initialized.
+[2022.08.09-01.00.10:013][735]LogAudio: Display: Audio Device (ID: 16) registered with world 'BaseLevel'.
+[2022.08.09-01.00.10:035][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.00.10:035][735]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.00.10:046][735]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.00.10
+[2022.08.09-01.00.10:047][735]LogWorld: Bringing up level for play took: 0.011077
+[2022.08.09-01.00.10:047][735]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.08.09-01.00.10:056][735]PIE: Server logged in
+[2022.08.09-01.00.10:059][735]PIE: Play in editor total start time 0.139 seconds.
+[2022.08.09-01.00.11:072][770]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.00.15:452][953]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.00.15:452][953]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.09-01.00.15:452][953]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.00.16:212][985]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.00.16:212][985]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.00.21:072][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.00.21:072][190]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.00.21:073][190]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-01.00.21:080][190]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.00.21:082][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.00.21:105][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.00.21:142][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.00.21:162][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.00.21:163][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.00.21:170][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.09-01.00.21:236][191]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.08.09-01.00.21:992][222]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.09-01.00.22:001][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.00.22:001][222]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:00:22 pm)
+[2022.08.09-01.00.22:001][222]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.00.22:043][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042131s)
+[2022.08.09-01.00.22:045][222]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.00.22:045][222]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2022.08.09-01.00.22:045][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.043864s)
+[2022.08.09-01.00.22:067][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.08.09-01.00.22:068][222]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.00.22:068][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.00.22:068][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.00.22:068][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.00.22:068][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.00.22:068][222]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.00.22:073][222]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.00.22:073][222]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.00.22:081][222]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.00.22:081][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.00.22:081][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.00.22:081][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.00.22:081][222]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.00.22:081][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.00.22:081][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.00.22:082][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.00.22:082][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.00.22:082][222]LogInit: FAudioDevice initialized.
+[2022.08.09-01.00.22:082][222]LogAudio: Display: Audio Device (ID: 17) registered with world 'BaseLevel'.
+[2022.08.09-01.00.22:101][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.00.22:101][222]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.00.22:112][222]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.00.22
+[2022.08.09-01.00.22:112][222]LogWorld: Bringing up level for play took: 0.010500
+[2022.08.09-01.00.22:113][222]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.08.09-01.00.22:119][222]PIE: Server logged in
+[2022.08.09-01.00.22:120][222]PIE: Play in editor total start time 0.121 seconds.
+[2022.08.09-01.00.22:872][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.00.22:872][248]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.00.22:873][248]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.09-01.00.22:880][248]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.00.22:882][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.00.22:894][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.00.22:932][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.00.22:953][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-01.00.22:953][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.00.22:955][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.00.22:962][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.09-01.00.23:031][249]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.08.09-01.00.23:969][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.00.23:969][321]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:00:23 pm)
+[2022.08.09-01.00.23:969][321]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.00.24:010][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041152s)
+[2022.08.09-01.00.24:011][321]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.00.24:012][321]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2022.08.09-01.00.24:012][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.042882s)
+[2022.08.09-01.00.24:033][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.09-01.00.24:034][321]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.00.24:034][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.00.24:034][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.00.24:034][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.00.24:034][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.00.24:035][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.00.24:035][321]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.00.24:039][321]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.00.24:039][321]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.00.24:047][321]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.00.24:047][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.00.24:047][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.00.24:047][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.00.24:047][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.00.24:047][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.00.24:047][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.00.24:048][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.00.24:048][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.00.24:048][321]LogInit: FAudioDevice initialized.
+[2022.08.09-01.00.24:048][321]LogAudio: Display: Audio Device (ID: 18) registered with world 'BaseLevel'.
+[2022.08.09-01.00.24:056][321]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.00.24:065][321]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.00.24
+[2022.08.09-01.00.24:066][321]LogWorld: Bringing up level for play took: 0.009807
+[2022.08.09-01.00.24:066][321]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.08.09-01.00.24:070][321]PIE: Server logged in
+[2022.08.09-01.00.24:070][321]PIE: Play in editor total start time 0.104 seconds.
+[2022.08.09-01.00.26:305][481]PIE: Warning: Mobility of /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel:PersistentLevel.SM_Prop_Desk_9 : StaticMeshComponent0 has to be 'Movable' if you'd like to GetMass. 
+[2022.08.09-01.00.26:305][481]LogBlueprintUserMessages: [PlayerControllerBP_C_0] PickedUp
+[2022.08.09-01.00.27:543][535]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.00.32:024][732]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.00.32:024][732]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.09-01.00.32:024][732]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.00.33:448][796]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.00.33:448][796]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.00.40:152][ 83]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.00.44:776][281]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.00.44:776][281]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-01.00.44:776][281]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.00.45:470][311]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.00.45:470][311]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.01.01:021][978]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.01.05:786][183]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.01.05:787][183]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-01.01.05:787][183]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.01.06:489][213]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.01.06:489][213]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.01.20:391][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.01.20:391][810]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.01.20:392][810]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.01.20:394][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.01.20:402][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.01.20:441][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.01.20:458][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.01.20:460][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.01.20:461][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.01.20:467][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.09-01.01.20:555][811]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.08.09-01.01.24:038][935]LogEditorViewport: Clicking on Actor (LMB): PatientChairBP_C (PatientChairBP8)
+[2022.08.09-01.01.28:339][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.09-01.01.28:498][ 96]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevel543EBD8544B9AE29E83DEEA16399111E.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-01.01.28:522][ 96]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-01.01.28:522][ 96]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-01.01.28:864][110]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-01.01.28:876][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.01.28:876][110]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:01:28 pm)
+[2022.08.09-01.01.28:876][110]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.01.28:922][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046197s)
+[2022.08.09-01.01.28:924][110]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.01.28:924][110]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2022.08.09-01.01.28:924][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.048147s)
+[2022.08.09-01.01.28:949][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.09-01.01.28:950][110]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.01.28:950][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.01.28:950][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.01.28:951][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.01.28:951][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.01.28:951][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.01.28:951][110]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.01.28:956][110]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.01.28:956][110]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.01.28:964][110]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.01.28:964][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.01.28:964][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.01.28:964][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.01.28:964][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.01.28:964][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.01.28:964][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.01.28:965][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.01.28:966][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.01.28:966][110]LogInit: FAudioDevice initialized.
+[2022.08.09-01.01.28:966][110]LogAudio: Display: Audio Device (ID: 19) registered with world 'BaseLevel'.
+[2022.08.09-01.01.28:973][110]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.01.28:982][110]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.01.28
+[2022.08.09-01.01.28:983][110]LogWorld: Bringing up level for play took: 0.009847
+[2022.08.09-01.01.28:983][110]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.08.09-01.01.28:987][110]PIE: Server logged in
+[2022.08.09-01.01.28:988][110]PIE: Play in editor total start time 0.115 seconds.
+[2022.08.09-01.01.30:045][152]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.01.34:474][339]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.01.34:474][339]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.09-01.01.34:474][339]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.01.35:102][365]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.01.35:102][365]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.01.41:068][619]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.01.45:527][811]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.01.45:527][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-01.01.45:527][811]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.01.46:086][835]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.01.46:086][835]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.01.55:890][259]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.02.00:561][461]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.02.00:561][461]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-01.02.00:561][461]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.02.01:224][489]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.02.01:224][489]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.02.41:969][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.02.41:969][287]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.02.41:970][287]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.02.41:972][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.02.41:980][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.02.41:990][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.02.42:009][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.02.42:010][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.02.42:012][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.02.42:019][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.09-01.02.42:057][288]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.08.09-01.02.43:142][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.09-01.02.43:298][329]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevel243359A24F9ABDB366837C977ACB1B55.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-01.02.43:321][329]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-01.02.43:321][329]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
