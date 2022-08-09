@@ -7380,3 +7380,774 @@ MangementComputerBP
 [2022.08.09-01.26.40:203][783]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevelF55E4B5149BF470E714167AC32608A0E.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
 [2022.08.09-01.26.40:230][783]AssetCheck: New page: Asset Save: BaseLevel
 [2022.08.09-01.26.40:230][783]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-01.27.34:146][662]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP2)
+[2022.08.09-01.27.38:274][811]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP2)
+[2022.08.09-01.27.43:638][  9]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.09-01.27.49:418][213]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP3)
+[2022.08.09-01.28.00:780][646]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-01.28.00:788][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.28.00:788][646]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:28:00 pm)
+[2022.08.09-01.28.00:788][646]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.28.00:831][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042771s)
+[2022.08.09-01.28.00:832][646]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.28.00:833][646]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2022.08.09-01.28.00:833][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.044400s)
+[2022.08.09-01.28.00:861][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.08.09-01.28.00:870][646]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.28.00:870][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.28.00:870][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.28.00:871][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.28.00:871][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.28.00:871][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.28.00:871][646]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.28.00:875][646]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.28.00:875][646]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.28.00:883][646]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.28.00:883][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.28.00:883][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.28.00:883][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.28.00:884][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.28.00:884][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.28.00:884][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.28.00:885][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.28.00:885][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.28.00:885][646]LogInit: FAudioDevice initialized.
+[2022.08.09-01.28.00:885][646]LogAudio: Display: Audio Device (ID: 82) registered with world 'BaseLevel'.
+[2022.08.09-01.28.00:894][646]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.28.00:904][646]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.28.00
+[2022.08.09-01.28.00:904][646]LogWorld: Bringing up level for play took: 0.009947
+[2022.08.09-01.28.00:905][646]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2022.08.09-01.28.00:908][646]PIE: Server logged in
+[2022.08.09-01.28.00:909][646]PIE: Play in editor total start time 0.123 seconds.
+[2022.08.09-01.28.01:845][684]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.28.07:072][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.28.07:072][912]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.28.07:073][912]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.28.07:075][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.28.07:089][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.28.07:126][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.28.07:140][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-01.28.07:140][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.28.07:141][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.28.07:143][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.28.07:150][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.08.09-01.28.07:200][913]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2022.08.09-01.28.16:453][242]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-01.28.25:707][567]BlueprintLog: New page: Compile PatientBP
+[2022.08.09-01.28.25:834][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.08.09-01.28.26:212][573]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBP1A7BFD0343F0F956806F3D91CF24F302.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.09-01.28.26:227][573]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.09-01.28.26:227][573]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-01.28.27:876][635]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-01.28.27:884][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.28.27:884][635]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:28:27 pm)
+[2022.08.09-01.28.27:885][635]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.28.27:928][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043507s)
+[2022.08.09-01.28.27:929][635]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.28.27:930][635]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2022.08.09-01.28.27:930][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.045357s)
+[2022.08.09-01.28.27:953][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.09-01.28.27:955][635]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.28.27:955][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.28.27:955][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.28.27:955][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.28.27:955][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.28.27:955][635]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.28.27:960][635]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.28.27:960][635]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.28.27:968][635]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.28.27:968][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.28.27:968][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.28.27:968][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.28.27:968][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.28.27:969][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.28.27:969][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.28.27:969][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.28.27:969][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.28.27:969][635]LogInit: FAudioDevice initialized.
+[2022.08.09-01.28.27:970][635]LogAudio: Display: Audio Device (ID: 83) registered with world 'BaseLevel'.
+[2022.08.09-01.28.27:974][635]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.28.27:984][635]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.28.27
+[2022.08.09-01.28.27:984][635]LogWorld: Bringing up level for play took: 0.009526
+[2022.08.09-01.28.27:985][635]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2022.08.09-01.28.27:988][635]PIE: Server logged in
+[2022.08.09-01.28.27:989][635]PIE: Play in editor total start time 0.107 seconds.
+[2022.08.09-01.28.29:044][679]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.28.35:217][950]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.09-01.28.35:217][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.09-01.28.35:217][950]LogBlueprintUserMessages: [PlayerControllerBP_C_0] Interacted
+[2022.08.09-01.28.38:326][ 88]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.09-01.28.38:326][ 88]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-01.28.46:391][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.28.46:391][435]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.28.46:392][435]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.28.46:394][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.28.46:413][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.28.46:450][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.28.46:468][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-01.28.46:468][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.28.46:470][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.28.46:472][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.28.46:478][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.09-01.28.46:522][436]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2022.08.09-01.28.53:386][612]LogSlate: Window 'PatientBP' being destroyed
+[2022.08.09-01.28.53:428][612]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.28.53:428][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.29.15:904][469]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP4)
+[2022.08.09-01.29.18:254][547]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP2)
+[2022.08.09-01.29.20:357][625]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP3)
+[2022.08.09-01.29.23:205][728]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP4)
+[2022.08.09-01.29.25:998][834]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP5)
+[2022.08.09-01.29.34:944][178]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.09-01.29.35:789][208]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP5)
+[2022.08.09-01.29.50:124][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-01.30.10:960][478]BlueprintLog: New page: Compile PatientBP
+[2022.08.09-01.30.11:106][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.08.09-01.30.11:466][484]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PatientBPB5B9E6E8413CE474CD3B5F8DF04E0125.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Blueprints/AI/PatientBP.uasset'
+[2022.08.09-01.30.11:480][484]AssetCheck: New page: Asset Save: PatientBP
+[2022.08.09-01.30.11:480][484]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/AI/PatientBP.PatientBP
+[2022.08.09-01.30.12:204][511]LogSlate: Window 'PatientBP' being destroyed
+[2022.08.09-01.30.12:238][511]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.30.12:238][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.30.13:368][551]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-01.30.13:376][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-01.30.13:376][551]PIE: New page: PIE session: BaseLevel (9 Aug 2022, 9:30:13 pm)
+[2022.08.09-01.30.13:376][551]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.30.13:420][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043998s)
+[2022.08.09-01.30.13:422][551]LogAIModule: Creating AISystem for world BaseLevel
+[2022.08.09-01.30.13:422][551]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2022.08.09-01.30.13:422][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/BaseLevel.BaseLevel to /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel (0.045880s)
+[2022.08.09-01.30.13:444][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.08.09-01.30.13:446][551]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-01.30.13:446][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-01.30.13:446][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-01.30.13:447][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.09-01.30.13:447][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.09-01.30.13:447][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.09-01.30.13:447][551]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-01.30.13:451][551]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-01.30.13:451][551]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-01.30.13:459][551]LogAudioMixer: Display: Using Audio Device LC27T55 (NVIDIA High Definition Audio)
+[2022.08.09-01.30.13:459][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-01.30.13:459][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-01.30.13:460][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-01.30.13:460][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-01.30.13:460][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-01.30.13:460][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-01.30.13:461][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-01.30.13:461][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-01.30.13:461][551]LogInit: FAudioDevice initialized.
+[2022.08.09-01.30.13:461][551]LogAudio: Display: Audio Device (ID: 84) registered with world 'BaseLevel'.
+[2022.08.09-01.30.13:468][551]LogLoad: Game class is 'TriageGM_C'
+[2022.08.09-01.30.13:478][551]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2022.08.09-11.30.13
+[2022.08.09-01.30.13:479][551]LogWorld: Bringing up level for play took: 0.010973
+[2022.08.09-01.30.13:479][551]LogOnline: OSS: Creating online subsystem instance for: :Context_145
+[2022.08.09-01.30.13:483][551]PIE: Server logged in
+[2022.08.09-01.30.13:484][551]PIE: Play in editor total start time 0.11 seconds.
+[2022.08.09-01.30.21:569][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.30.21:569][889]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_BaseLevel
+[2022.08.09-01.30.21:570][889]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.30.21:572][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.30.21:583][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-01.30.21:620][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.30.21:634][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-01.30.21:634][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.30.21:635][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-01.30.21:637][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-01.30.21:644][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.08.09-01.30.21:695][890]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2022.08.09-01.30.23:915][971]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.09-01.30.41:540][618]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube28)
+[2022.08.09-01.30.42:826][661]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP9)
+[2022.08.09-01.31.06:153][521]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP6)
+[2022.08.09-01.31.06:948][549]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP7)
+[2022.08.09-01.31.07:591][572]Cmd: DELETE
+[2022.08.09-01.31.07:591][572]Cmd: ACTOR DELETE
+[2022.08.09-01.31.07:614][572]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.07:637][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.08.09-01.31.07:646][572]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.08.09-01.31.07:832][580]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP6)
+[2022.08.09-01.31.07:962][583]Cmd: DELETE
+[2022.08.09-01.31.07:962][583]Cmd: ACTOR DELETE
+[2022.08.09-01.31.07:976][583]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.08:000][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.09-01.31.08:001][583]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.08.09-01.31.08:235][593]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP8)
+[2022.08.09-01.31.08:336][594]Cmd: DELETE
+[2022.08.09-01.31.08:336][594]Cmd: ACTOR DELETE
+[2022.08.09-01.31.08:350][594]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.08:367][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.09-01.31.08:368][594]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.08.09-01.31.08:633][605]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP10)
+[2022.08.09-01.31.08:766][608]Cmd: DELETE
+[2022.08.09-01.31.08:766][608]Cmd: ACTOR DELETE
+[2022.08.09-01.31.08:781][608]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.08:806][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.09-01.31.08:807][608]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.08.09-01.31.09:197][624]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP9)
+[2022.08.09-01.31.09:303][625]Cmd: DELETE
+[2022.08.09-01.31.09:303][625]Cmd: ACTOR DELETE
+[2022.08.09-01.31.09:316][625]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.09:332][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.09-01.31.09:333][625]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.09-01.31.09:540][634]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP5)
+[2022.08.09-01.31.09:692][638]Cmd: DELETE
+[2022.08.09-01.31.09:692][638]Cmd: ACTOR DELETE
+[2022.08.09-01.31.09:706][638]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.09:729][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.09-01.31.09:730][638]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.08.09-01.31.10:055][652]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP4)
+[2022.08.09-01.31.10:204][656]Cmd: DELETE
+[2022.08.09-01.31.10:204][656]Cmd: ACTOR DELETE
+[2022.08.09-01.31.10:218][656]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.09-01.31.10:240][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.09-01.31.10:242][656]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.08.09-01.31.10:965][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.09-01.31.11:123][684]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevelF5AC303A425A779DB17591A6A9845AD1.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-01.31.11:150][684]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-01.31.11:150][684]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-01.31.34:674][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.09-01.31.34:833][647]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevelFA9F88EF4B5A8BF4D6010FA94D46267E.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-01.31.34:859][647]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-01.31.34:859][647]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
+[2022.08.09-01.31.47:515][133]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.09-01.31.47:537][133]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.09-01.31.50:047][238]LogContentBrowser: Attempting asset rename: NewFolder -> Moderate
+[2022.08.09-01.31.50:047][238]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.09-01.32.01:391][398]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.09-01.32.01:410][398]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.09-01.32.04:689][536]LogContentBrowser: Attempting asset rename: NewFolder -> OriginalFiles
+[2022.08.09-01.32.04:689][536]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.09-01.32.08:408][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\HannahClarke(20-Female).png)
+[2022.08.09-01.32.08:480][611]LogTexture: Display: Building textures: HannahClarke_20-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.08:580][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\JoshuaKelly(19-Male).png)
+[2022.08.09-01.32.08:647][611]LogTexture: Display: Building textures: JoshuaKelly_19-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.08:739][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\KatrinaPerez(32-Female).png)
+[2022.08.09-01.32.08:809][611]LogTexture: Display: Building textures: KatrinaPerez_32-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.08:907][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\LacieAmos(37-Female).png)
+[2022.08.09-01.32.08:977][611]LogTexture: Display: Building textures: LacieAmos_37-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.09:114][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\MarcusWatson(22-Male).png)
+[2022.08.09-01.32.09:181][611]LogTexture: Display: Building textures: MarcusWatson_22-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.09:303][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\NimrahMariiot(34-Male).png)
+[2022.08.09-01.32.09:370][611]LogTexture: Display: Building textures: NimrahMariiot_34-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.09:523][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\OscarCampbell(22-Male).png)
+[2022.08.09-01.32.09:591][611]LogTexture: Display: Building textures: OscarCampbell_22-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.09:728][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\PenelopeAnderson(48-Female).png)
+[2022.08.09-01.32.09:795][611]LogTexture: Display: Building textures: PenelopeAnderson_48-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.09:928][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\SunnyLing(12-Female).png)
+[2022.08.09-01.32.09:995][611]LogTexture: Display: Building textures: SunnyLing_12-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.10:134][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\AaronEdwards(39-Male).png)
+[2022.08.09-01.32.10:202][611]LogTexture: Display: Building textures: AaronEdwards_39-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.10:325][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\AimeeChen(54-Female).png)
+[2022.08.09-01.32.10:392][611]LogTexture: Display: Building textures: AimeeChen_54-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.10:557][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\AlistairCooper(84-Male).png)
+[2022.08.09-01.32.10:624][611]LogTexture: Display: Building textures: AlistairCooper_84-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.10:754][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\AnnabelleSmith(68-Female).png)
+[2022.08.09-01.32.10:822][611]LogTexture: Display: Building textures: AnnabelleSmith_68-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.10:966][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\AshlynDevine(78-Female).png)
+[2022.08.09-01.32.11:033][611]LogTexture: Display: Building textures: AshlynDevine_78-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.11:196][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\AwaisAyala(35-Male).png)
+[2022.08.09-01.32.11:263][611]LogTexture: Display: Building textures: AwaisAyala_35-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.11:406][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\BenWoodward(32-Male).png)
+[2022.08.09-01.32.11:474][611]LogTexture: Display: Building textures: BenWoodward_32-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.11:615][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\CharlesGreen(72-Male).png)
+[2022.08.09-01.32.11:684][611]LogTexture: Display: Building textures: CharlesGreen_72-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.11:846][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\ChristianScott(71-Male).png)
+[2022.08.09-01.32.11:913][611]LogTexture: Display: Building textures: ChristianScott_71-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.12:063][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\ChristyLawson(55-Female).png)
+[2022.08.09-01.32.12:130][611]LogTexture: Display: Building textures: ChristyLawson_55-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.12:277][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\DamianJacobs(54-Male).png)
+[2022.08.09-01.32.12:344][611]LogTexture: Display: Building textures: DamianJacobs_54-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.12:491][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\EllieAdams(85-Female).png)
+[2022.08.09-01.32.12:559][611]LogTexture: Display: Building textures: EllieAdams_85-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.12:710][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\EloiseStewart(56-Female).png)
+[2022.08.09-01.32.12:778][611]LogTexture: Display: Building textures: EloiseStewart_56-Female_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.12:944][611]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\SAE Uni Files\22T2\GDS213\Brief 1\Triage\SymptomSheets\ModerateToSevere Patients\HamishMoore(26-Male).png)
+[2022.08.09-01.32.13:012][611]LogTexture: Display: Building textures: HamishMoore_26-Male_ (BGRA8, 2006X3006)
+[2022.08.09-01.32.21:666][875]LogContentBrowser: Deferred new asset file creation: VanessaCaldwell_F1
+[2022.08.09-01.32.21:685][875]LogContentBrowser: Creating deferred item: VanessaCaldwell_F1
+[2022.08.09-01.32.22:498][909]LogContentBrowser: Attempting asset rename: VanessaCaldwell_F1 -> VanessaCaldwell_F1
+[2022.08.09-01.32.22:524][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.08.09-01.32.22:540][909]LogContentBrowser: End creating deferred item VanessaCaldwell_F1
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.SKEL_VanessaCaldwell_F1_C' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.VanessaCaldwell_F1_C' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.SKEL_VanessaCaldwell_F1_C:BndEvt__PatientDetailsWidget_BedButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.SKEL_VanessaCaldwell_F1_C:BndEvt__PatientDetailsWidget_ExitButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.SKEL_VanessaCaldwell_F1_C:BndEvt__PatientDetailsWidget_WaitingRoomButton_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.SKEL_VanessaCaldwell_F1_C:Construct' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.SKEL_VanessaCaldwell_F1_C:Tick' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.VanessaCaldwell_F1_C:Tick' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:659][ 69]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.VanessaCaldwell_F1_C:Construct' ref from Metadata '/Game/Triage/Widgets/Mild/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.26:693][ 69]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/VanessaCaldwell_F1422AF3114F6CCBCEAA2C9384B876830D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/VanessaCaldwell_F1.uasset'
+[2022.08.09-01.32.26:750][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.08.09-01.32.26:774][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.09-01.32.26:788][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.09-01.32.26:855][ 69]AssetCheck: New page: Asset Save: VanessaCaldwell_F1
+[2022.08.09-01.32.26:855][ 69]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.VanessaCaldwell_F1
+[2022.08.09-01.32.37:116][485]LogContentBrowser: Attempting asset rename: VanessaCaldwell_F1 -> AaronEdwards_M
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.AaronEdwards_M_C' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.AaronEdwards_M_C:Tick' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.AaronEdwards_M_C:Construct' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.SKEL_AaronEdwards_M_C' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.SKEL_AaronEdwards_M_C:BndEvt__PatientDetailsWidget_BedButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.SKEL_AaronEdwards_M_C:BndEvt__PatientDetailsWidget_ExitButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.SKEL_AaronEdwards_M_C:BndEvt__PatientDetailsWidget_WaitingRoomButton_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.SKEL_AaronEdwards_M_C:Construct' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:152][485]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/AaronEdwards_M.SKEL_AaronEdwards_M_C:Tick' ref from Metadata '/Game/Triage/Widgets/Moderate/VanessaCaldwell_F1.PackageMetaData'
+[2022.08.09-01.32.37:186][485]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AaronEdwards_MC051694C4F35A9D8963144808C1FA7BB.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AaronEdwards_M.uasset'
+[2022.08.09-01.32.37:241][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.08.09-01.32.37:263][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.08.09-01.32.37:277][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.09-01.32.37:332][485]AssetCheck: New page: Asset Save: AaronEdwards_M
+[2022.08.09-01.32.37:332][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AaronEdwards_M.AaronEdwards_M
+[2022.08.09-01.32.38:538][532]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/AaronEdwards_M.AaronEdwards_M
+[2022.08.09-01.32.44:623][735]BlueprintLog: New page: Compile AaronEdwards_M
+[2022.08.09-01.32.44:663][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.08.09-01.32.45:009][745]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AaronEdwards_MADCA8C0D4DA4DF857CCD47B656FBC1E4.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AaronEdwards_M.uasset'
+[2022.08.09-01.32.45:027][745]AssetCheck: New page: Asset Save: AaronEdwards_M
+[2022.08.09-01.32.45:027][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AaronEdwards_M.AaronEdwards_M
+[2022.08.09-01.32.45:482][763]LogSlate: Window 'AaronEdwards_M' being destroyed
+[2022.08.09-01.32.45:515][763]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.32.45:515][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.32.45:523][763]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.32.45:523][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.32.47:955][854]LogContentBrowser: Deferred new asset file creation: AaronEdwards_M1
+[2022.08.09-01.32.47:974][854]LogContentBrowser: Creating deferred item: AaronEdwards_M1
+[2022.08.09-01.32.53:949][102]LogContentBrowser: Attempting asset rename: AaronEdwards_M1 -> AimeeChen_F
+[2022.08.09-01.32.53:987][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.08.09-01.32.53:999][102]LogContentBrowser: End creating deferred item AaronEdwards_M1
+[2022.08.09-01.32.55:231][151]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/AimeeChen_F.AimeeChen_F
+[2022.08.09-01.33.00:284][317]BlueprintLog: New page: Compile AimeeChen_F
+[2022.08.09-01.33.00:312][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.08.09-01.33.00:745][330]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AimeeChen_FBE9D81E844930648F1C9C398E64E9C4B.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AimeeChen_F.uasset'
+[2022.08.09-01.33.00:767][330]AssetCheck: New page: Asset Save: AimeeChen_F
+[2022.08.09-01.33.00:767][330]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AimeeChen_F.AimeeChen_F
+[2022.08.09-01.33.01:163][346]LogSlate: Window 'AimeeChen_F' being destroyed
+[2022.08.09-01.33.01:198][346]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.01:198][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.01:206][346]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.01:206][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.03:496][429]LogContentBrowser: Deferred new asset file creation: AimeeChen_F1
+[2022.08.09-01.33.03:514][429]LogContentBrowser: Creating deferred item: AimeeChen_F1
+[2022.08.09-01.33.10:433][716]LogContentBrowser: Attempting asset rename: AimeeChen_F1 -> AlistarCooper_M
+[2022.08.09-01.33.10:472][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.08.09-01.33.10:484][716]LogContentBrowser: End creating deferred item AimeeChen_F1
+[2022.08.09-01.33.11:559][759]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/AlistarCooper_M.AlistarCooper_M
+[2022.08.09-01.33.16:394][919]BlueprintLog: New page: Compile AlistarCooper_M
+[2022.08.09-01.33.16:423][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.08.09-01.33.16:831][931]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AlistarCooper_M4E8F1B0C456611A9CD6AECB4196C2B91.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AlistarCooper_M.uasset'
+[2022.08.09-01.33.16:847][931]AssetCheck: New page: Asset Save: AlistarCooper_M
+[2022.08.09-01.33.16:848][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AlistarCooper_M.AlistarCooper_M
+[2022.08.09-01.33.17:271][948]LogSlate: Window 'AlistarCooper_M' being destroyed
+[2022.08.09-01.33.17:304][948]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.17:304][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.17:313][948]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.17:313][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.20:330][ 62]LogContentBrowser: Deferred new asset file creation: AlistarCooper_M1
+[2022.08.09-01.33.20:349][ 62]LogContentBrowser: Creating deferred item: AlistarCooper_M1
+[2022.08.09-01.33.28:512][401]LogContentBrowser: Attempting asset rename: AlistarCooper_M1 -> AnnabelleSmith_F
+[2022.08.09-01.33.28:553][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.08.09-01.33.28:566][401]LogContentBrowser: End creating deferred item AlistarCooper_M1
+[2022.08.09-01.33.29:870][452]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/AnnabelleSmith_F.AnnabelleSmith_F
+[2022.08.09-01.33.35:300][636]BlueprintLog: New page: Compile AnnabelleSmith_F
+[2022.08.09-01.33.35:329][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.08.09-01.33.35:649][645]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AnnabelleSmith_FAEF20C2047F1B6ADE9C775BA6D370B51.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AnnabelleSmith_F.uasset'
+[2022.08.09-01.33.35:666][645]AssetCheck: New page: Asset Save: AnnabelleSmith_F
+[2022.08.09-01.33.35:666][645]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AnnabelleSmith_F.AnnabelleSmith_F
+[2022.08.09-01.33.37:378][711]LogSlate: Window 'AnnabelleSmith_F' being destroyed
+[2022.08.09-01.33.37:411][711]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.37:411][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.37:419][711]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.37:419][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.39:801][795]LogContentBrowser: Deferred new asset file creation: AnnabelleSmith_F1
+[2022.08.09-01.33.39:821][795]LogContentBrowser: Creating deferred item: AnnabelleSmith_F1
+[2022.08.09-01.33.48:453][155]LogContentBrowser: Attempting asset rename: AnnabelleSmith_F1 -> AshlynDevine_F
+[2022.08.09-01.33.48:491][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.08.09-01.33.48:504][155]LogContentBrowser: End creating deferred item AnnabelleSmith_F1
+[2022.08.09-01.33.49:487][194]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/AshlynDevine_F.AshlynDevine_F
+[2022.08.09-01.33.55:783][405]BlueprintLog: New page: Compile AshlynDevine_F
+[2022.08.09-01.33.55:813][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.09-01.33.56:210][417]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AshlynDevine_F95C62A7E41C6DC238837A1B709F147E7.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AshlynDevine_F.uasset'
+[2022.08.09-01.33.56:225][417]AssetCheck: New page: Asset Save: AshlynDevine_F
+[2022.08.09-01.33.56:225][417]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AshlynDevine_F.AshlynDevine_F
+[2022.08.09-01.33.57:928][483]LogSlate: Window 'AshlynDevine_F' being destroyed
+[2022.08.09-01.33.57:964][483]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.57:964][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.57:973][483]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.33.57:973][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.33.59:653][544]LogContentBrowser: Deferred new asset file creation: AshlynDevine_F1
+[2022.08.09-01.33.59:673][544]LogContentBrowser: Creating deferred item: AshlynDevine_F1
+[2022.08.09-01.34.06:732][838]LogContentBrowser: Attempting asset rename: AshlynDevine_F1 -> AwaisAyala_M
+[2022.08.09-01.34.06:774][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.08.09-01.34.06:787][838]LogContentBrowser: End creating deferred item AshlynDevine_F1
+[2022.08.09-01.34.08:036][888]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/AwaisAyala_M.AwaisAyala_M
+[2022.08.09-01.34.15:256][130]BlueprintLog: New page: Compile AwaisAyala_M
+[2022.08.09-01.34.15:286][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.08.09-01.34.15:643][140]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/AwaisAyala_M6782481D485AEFF1D598A6919984FB1F.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/AwaisAyala_M.uasset'
+[2022.08.09-01.34.15:660][140]AssetCheck: New page: Asset Save: AwaisAyala_M
+[2022.08.09-01.34.15:660][140]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/AwaisAyala_M.AwaisAyala_M
+[2022.08.09-01.34.16:261][163]LogSlate: Window 'AwaisAyala_M' being destroyed
+[2022.08.09-01.34.16:294][163]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.34.16:294][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.34.16:302][163]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.34.16:302][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.34.20:394][319]LogContentBrowser: Deferred new asset file creation: AwaisAyala_M1
+[2022.08.09-01.34.20:415][319]LogContentBrowser: Creating deferred item: AwaisAyala_M1
+[2022.08.09-01.34.26:847][587]LogContentBrowser: Attempting asset rename: AwaisAyala_M1 -> BenWoodward_M
+[2022.08.09-01.34.26:885][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.08.09-01.34.26:897][587]LogContentBrowser: End creating deferred item AwaisAyala_M1
+[2022.08.09-01.34.27:951][629]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/BenWoodward_M.BenWoodward_M
+[2022.08.09-01.34.32:962][799]BlueprintLog: New page: Compile BenWoodward_M
+[2022.08.09-01.34.32:991][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.08.09-01.34.33:398][811]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BenWoodward_M3E8D77774F573B3D3A0431B4C3EA4D50.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/BenWoodward_M.uasset'
+[2022.08.09-01.34.33:415][811]AssetCheck: New page: Asset Save: BenWoodward_M
+[2022.08.09-01.34.33:415][811]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/BenWoodward_M.BenWoodward_M
+[2022.08.09-01.34.33:791][826]LogSlate: Window 'BenWoodward_M' being destroyed
+[2022.08.09-01.34.33:825][826]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.34.33:825][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.34.33:833][826]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.34.33:833][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.34.35:410][881]LogContentBrowser: Deferred new asset file creation: BenWoodward_M1
+[2022.08.09-01.34.35:429][881]LogContentBrowser: Creating deferred item: BenWoodward_M1
+[2022.08.09-01.34.42:678][183]LogContentBrowser: Attempting asset rename: BenWoodward_M1 -> CharlesGreeen_M
+[2022.08.09-01.34.42:716][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.08.09-01.34.42:728][183]LogContentBrowser: End creating deferred item BenWoodward_M1
+[2022.08.09-01.34.43:917][230]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/CharlesGreeen_M.CharlesGreeen_M
+[2022.08.09-01.34.48:735][388]BlueprintLog: New page: Compile CharlesGreeen_M
+[2022.08.09-01.34.48:763][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.08.09-01.34.49:068][396]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/CharlesGreeen_M812172F441324494618FED8AD782BB50.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/CharlesGreeen_M.uasset'
+[2022.08.09-01.34.49:088][396]AssetCheck: New page: Asset Save: CharlesGreeen_M
+[2022.08.09-01.34.49:088][396]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/CharlesGreeen_M.CharlesGreeen_M
+[2022.08.09-01.34.49:531][413]LogSlate: Window 'CharlesGreeen_M' being destroyed
+[2022.08.09-01.34.49:563][413]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.34.49:563][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.34.49:571][413]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.34.49:571][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.34.51:143][469]LogContentBrowser: Deferred new asset file creation: CharlesGreeen_M1
+[2022.08.09-01.34.51:162][469]LogContentBrowser: Creating deferred item: CharlesGreeen_M1
+[2022.08.09-01.35.01:515][899]LogContentBrowser: Attempting asset rename: CharlesGreeen_M1 -> ChristianScott_M
+[2022.08.09-01.35.01:557][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.08.09-01.35.01:569][899]LogContentBrowser: End creating deferred item CharlesGreeen_M1
+[2022.08.09-01.35.04:307][  8]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/ChristianScott_M.ChristianScott_M
+[2022.08.09-01.35.09:139][166]BlueprintLog: New page: Compile ChristianScott_M
+[2022.08.09-01.35.09:169][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.08.09-01.35.09:573][178]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/ChristianScott_M34077A1241D90B9A0D74C4B54A3E01E6.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/ChristianScott_M.uasset'
+[2022.08.09-01.35.09:590][178]AssetCheck: New page: Asset Save: ChristianScott_M
+[2022.08.09-01.35.09:590][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/ChristianScott_M.ChristianScott_M
+[2022.08.09-01.35.10:053][196]LogSlate: Window 'ChristianScott_M' being destroyed
+[2022.08.09-01.35.10:087][196]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.35.10:087][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.35.10:095][196]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.35.10:095][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.35.14:565][366]LogContentBrowser: Deferred new asset file creation: ChristianScott_M1
+[2022.08.09-01.35.14:585][366]LogContentBrowser: Creating deferred item: ChristianScott_M1
+[2022.08.09-01.35.21:510][655]LogContentBrowser: Attempting asset rename: ChristianScott_M1 -> ChristyLawson_F
+[2022.08.09-01.35.21:549][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.08.09-01.35.21:562][655]LogContentBrowser: End creating deferred item ChristianScott_M1
+[2022.08.09-01.35.22:863][707]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/ChristyLawson_F.ChristyLawson_F
+[2022.08.09-01.35.29:919][947]BlueprintLog: New page: Compile ChristyLawson_F
+[2022.08.09-01.35.29:948][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.08.09-01.35.30:375][960]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/ChristyLawson_FB232C2B14EED04A0DD970CA58F0976A4.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/ChristyLawson_F.uasset'
+[2022.08.09-01.35.30:395][960]AssetCheck: New page: Asset Save: ChristyLawson_F
+[2022.08.09-01.35.30:395][960]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/ChristyLawson_F.ChristyLawson_F
+[2022.08.09-01.35.30:962][982]LogSlate: Window 'ChristyLawson_F' being destroyed
+[2022.08.09-01.35.30:996][982]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.35.30:996][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.35.31:004][982]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.35.31:004][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.35.32:861][ 50]LogContentBrowser: Deferred new asset file creation: ChristyLawson_F1
+[2022.08.09-01.35.32:883][ 50]LogContentBrowser: Creating deferred item: ChristyLawson_F1
+[2022.08.09-01.35.40:229][355]LogContentBrowser: Attempting asset rename: ChristyLawson_F1 -> DamianJacobs_M
+[2022.08.09-01.35.40:268][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.08.09-01.35.40:281][355]LogContentBrowser: End creating deferred item ChristyLawson_F1
+[2022.08.09-01.35.41:432][401]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/DamianJacobs_M.DamianJacobs_M
+[2022.08.09-01.35.46:772][576]BlueprintLog: New page: Compile DamianJacobs_M
+[2022.08.09-01.35.46:801][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.08.09-01.35.47:189][587]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/DamianJacobs_ME8E7B8514F1502A1CDB6C5B0CFC4C96F.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/DamianJacobs_M.uasset'
+[2022.08.09-01.35.47:208][587]AssetCheck: New page: Asset Save: DamianJacobs_M
+[2022.08.09-01.35.47:208][587]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/DamianJacobs_M.DamianJacobs_M
+[2022.08.09-01.35.47:666][605]LogSlate: Window 'DamianJacobs_M' being destroyed
+[2022.08.09-01.35.47:699][605]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.35.47:699][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.35.47:707][605]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.35.47:707][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.35.49:666][675]LogContentBrowser: Deferred new asset file creation: DamianJacobs_M1
+[2022.08.09-01.35.49:687][675]LogContentBrowser: Creating deferred item: DamianJacobs_M1
+[2022.08.09-01.35.57:236][989]LogContentBrowser: Attempting asset rename: DamianJacobs_M1 -> EllieAdams_F
+[2022.08.09-01.35.57:276][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.08.09-01.35.57:289][989]LogContentBrowser: End creating deferred item DamianJacobs_M1
+[2022.08.09-01.35.58:327][ 30]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/EllieAdams_F.EllieAdams_F
+[2022.08.09-01.36.05:496][274]BlueprintLog: New page: Compile EllieAdams_F
+[2022.08.09-01.36.05:525][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.08.09-01.36.05:904][285]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/EllieAdams_F893C42DE4CC82AEC27404DB191EFA5EA.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/EllieAdams_F.uasset'
+[2022.08.09-01.36.05:921][285]AssetCheck: New page: Asset Save: EllieAdams_F
+[2022.08.09-01.36.05:921][285]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/EllieAdams_F.EllieAdams_F
+[2022.08.09-01.36.06:704][315]LogSlate: Window 'EllieAdams_F' being destroyed
+[2022.08.09-01.36.06:738][315]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.36.06:738][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.36.06:746][315]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.36.06:746][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.36.08:991][398]LogContentBrowser: Deferred new asset file creation: EllieAdams_F1
+[2022.08.09-01.36.09:011][398]LogContentBrowser: Creating deferred item: EllieAdams_F1
+[2022.08.09-01.36.16:515][710]LogContentBrowser: Attempting asset rename: EllieAdams_F1 -> EloiseStewart
+[2022.08.09-01.36.16:556][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.08.09-01.36.16:569][710]LogContentBrowser: End creating deferred item EllieAdams_F1
+[2022.08.09-01.36.21:349][903]LogContentBrowser: Attempting asset rename: EloiseStewart -> EloiseStewart_F
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.SKEL_EloiseStewart_F_C' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.EloiseStewart_F_C' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.SKEL_EloiseStewart_F_C:BndEvt__PatientDetailsWidget_BedButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.SKEL_EloiseStewart_F_C:BndEvt__PatientDetailsWidget_ExitButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.SKEL_EloiseStewart_F_C:BndEvt__PatientDetailsWidget_WaitingRoomButton_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.SKEL_EloiseStewart_F_C:Construct' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:383][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.SKEL_EloiseStewart_F_C:Tick' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:384][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.EloiseStewart_F_C:Tick' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:384][903]LogMetaData: Removing '/Game/Triage/Widgets/Moderate/EloiseStewart_F.EloiseStewart_F_C:Construct' ref from Metadata '/Game/Triage/Widgets/Moderate/EloiseStewart.PackageMetaData'
+[2022.08.09-01.36.21:415][903]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/EloiseStewart_F06C93ADB4BEF2B409C56D1B014907C24.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/EloiseStewart_F.uasset'
+[2022.08.09-01.36.21:473][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.08.09-01.36.21:496][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.09-01.36.21:511][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.08.09-01.36.21:567][903]AssetCheck: New page: Asset Save: EloiseStewart_F
+[2022.08.09-01.36.21:567][903]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/EloiseStewart_F.EloiseStewart_F
+[2022.08.09-01.36.24:738][ 28]LogContentBrowser: Deferred new asset file creation: EloiseStewart_F1
+[2022.08.09-01.36.24:759][ 28]LogContentBrowser: Creating deferred item: EloiseStewart_F1
+[2022.08.09-01.36.31:139][293]LogContentBrowser: Attempting asset rename: EloiseStewart_F1 -> HamishMoore_M
+[2022.08.09-01.36.31:168][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.08.09-01.36.31:181][293]LogContentBrowser: End creating deferred item EloiseStewart_F1
+[2022.08.09-01.36.33:015][362]LogContentBrowser: Deferred new asset file creation: HamishMoore_M1
+[2022.08.09-01.36.33:034][362]LogContentBrowser: Creating deferred item: HamishMoore_M1
+[2022.08.09-01.36.38:705][598]LogContentBrowser: Attempting asset rename: HamishMoore_M1 -> HannahClarke_f
+[2022.08.09-01.36.38:730][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.08.09-01.36.38:743][598]LogContentBrowser: End creating deferred item HamishMoore_M1
+[2022.08.09-01.36.41:520][707]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/EloiseStewart_F.EloiseStewart_F
+[2022.08.09-01.36.50:188][994]BlueprintLog: New page: Compile EloiseStewart_F
+[2022.08.09-01.36.50:217][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.08.09-01.36.50:568][  4]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/EloiseStewart_F607CF4554C55E029401584A854A4F669.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/EloiseStewart_F.uasset'
+[2022.08.09-01.36.50:585][  4]AssetCheck: New page: Asset Save: EloiseStewart_F
+[2022.08.09-01.36.50:585][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/EloiseStewart_F.EloiseStewart_F
+[2022.08.09-01.36.50:932][ 18]LogSlate: Window 'EloiseStewart_F' being destroyed
+[2022.08.09-01.36.50:965][ 18]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.36.50:965][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.36.50:974][ 18]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.36.50:974][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.36.51:868][ 49]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/HamishMoore_M.HamishMoore_M
+[2022.08.09-01.36.56:633][204]BlueprintLog: New page: Compile HamishMoore_M
+[2022.08.09-01.36.56:677][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.08.09-01.36.57:194][220]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/HamishMoore_M666FDDF844CB04FA10FC798C8F868BEF.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/HamishMoore_M.uasset'
+[2022.08.09-01.36.57:214][220]AssetCheck: New page: Asset Save: HamishMoore_M
+[2022.08.09-01.36.57:214][220]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/HamishMoore_M.HamishMoore_M
+[2022.08.09-01.36.57:567][234]LogSlate: Window 'HamishMoore_M' being destroyed
+[2022.08.09-01.36.57:599][234]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.36.57:599][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.36.57:608][234]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.36.57:608][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.36.58:825][276]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_f
+[2022.08.09-01.37.04:168][453]BlueprintLog: New page: Compile HannahClarke_f
+[2022.08.09-01.37.04:212][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.08.09-01.37.04:534][462]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/HannahClarke_fF0F5E82C44676CC8117FF08AB9801031.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/HannahClarke_f.uasset'
+[2022.08.09-01.37.04:551][462]AssetCheck: New page: Asset Save: HannahClarke_f
+[2022.08.09-01.37.04:551][462]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_f
+[2022.08.09-01.37.05:038][481]LogSlate: Window 'HannahClarke_f' being destroyed
+[2022.08.09-01.37.05:070][481]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.05:070][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.05:078][481]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.05:078][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.11:202][721]LogContentBrowser: Attempting asset rename: HannahClarke_f -> HannahClarke_F
+[2022.08.09-01.37.11:278][721]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/HannahClarke_f2455984741A7693455FAD8AA5FCDC3D8.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/HannahClarke_f.uasset'
+[2022.08.09-01.37.11:331][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.08.09-01.37.11:387][721]AssetCheck: New page: Asset Save: HannahClarke_F
+[2022.08.09-01.37.11:387][721]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_F
+[2022.08.09-01.37.13:626][811]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_F
+[2022.08.09-01.37.16:293][901]LogSlate: Window 'HannahClarke_F' being destroyed
+[2022.08.09-01.37.16:329][901]LogWorld: UWorld::CleanupWorld for World_139, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.16:329][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.16:338][901]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.16:338][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.17:380][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.09-01.37.18:123][938]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.09-01.37.18:152][938]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_F
+[2022.08.09-01.37.18:464][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.08.09-01.37.18:480][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.09-01.37.18:494][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.09-01.37.20:697][ 24]LogLinker: Warning: Failed to load '/Game/Triage/Widgets/Moderate/HannahClarke_f': Can't find file.
+[2022.08.09-01.37.20:698][ 24]LogLinker: Warning: Failed to load '/Game/Triage/Widgets/Moderate/HannahClarke_f': Can't find file.
+[2022.08.09-01.37.20:698][ 24]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_f'
+[2022.08.09-01.37.27:966][279]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/HamishMoore_M.HamishMoore_M
+[2022.08.09-01.37.29:374][316]LogSlate: Window 'HamishMoore_M' being destroyed
+[2022.08.09-01.37.29:414][316]LogWorld: UWorld::CleanupWorld for World_141, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.29:414][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.29:423][316]LogWorld: UWorld::CleanupWorld for World_140, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.29:423][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.35:663][559]LogContentBrowser: Deferred new asset file creation: HamishMoore_M1
+[2022.08.09-01.37.35:681][559]LogContentBrowser: Creating deferred item: HamishMoore_M1
+[2022.08.09-01.37.44:085][908]LogContentBrowser: Attempting asset rename: HamishMoore_M1 -> HannahClarke_F
+[2022.08.09-01.37.44:124][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.08.09-01.37.44:141][908]LogContentBrowser: End creating deferred item HamishMoore_M1
+[2022.08.09-01.37.46:429][999]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_F
+[2022.08.09-01.37.51:146][154]BlueprintLog: New page: Compile HannahClarke_F
+[2022.08.09-01.37.51:175][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.08.09-01.37.51:596][166]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/HannahClarke_f67AB2CB0436FD409A9F1EF96E11B37A4.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/HannahClarke_f.uasset'
+[2022.08.09-01.37.51:612][166]AssetCheck: New page: Asset Save: HannahClarke_F
+[2022.08.09-01.37.51:613][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/HannahClarke_f.HannahClarke_F
+[2022.08.09-01.37.52:079][184]LogSlate: Window 'HannahClarke_F' being destroyed
+[2022.08.09-01.37.52:112][184]LogWorld: UWorld::CleanupWorld for World_143, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.52:112][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.52:120][184]LogWorld: UWorld::CleanupWorld for World_142, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.37.52:120][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.37.54:792][284]LogContentBrowser: Deferred new asset file creation: HannahClarke_f1
+[2022.08.09-01.37.54:816][284]LogContentBrowser: Creating deferred item: HannahClarke_f1
+[2022.08.09-01.38.01:588][566]LogContentBrowser: Attempting asset rename: HannahClarke_f1 -> JoshuaKelly_M
+[2022.08.09-01.38.01:630][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.08.09-01.38.01:643][566]LogContentBrowser: End creating deferred item HannahClarke_f1
+[2022.08.09-01.38.03:175][627]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/JoshuaKelly_M.JoshuaKelly_M
+[2022.08.09-01.38.08:106][791]BlueprintLog: New page: Compile JoshuaKelly_M
+[2022.08.09-01.38.08:135][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.08.09-01.38.08:594][805]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/JoshuaKelly_MA9C060254BDD91282FCADE8156CCB062.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/JoshuaKelly_M.uasset'
+[2022.08.09-01.38.08:610][805]AssetCheck: New page: Asset Save: JoshuaKelly_M
+[2022.08.09-01.38.08:611][805]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/JoshuaKelly_M.JoshuaKelly_M
+[2022.08.09-01.38.09:091][824]LogSlate: Window 'JoshuaKelly_M' being destroyed
+[2022.08.09-01.38.09:124][824]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.09:124][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.09:132][824]LogWorld: UWorld::CleanupWorld for World_145, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.09:132][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.11:588][916]LogContentBrowser: Deferred new asset file creation: JoshuaKelly_M1
+[2022.08.09-01.38.11:611][916]LogContentBrowser: Creating deferred item: JoshuaKelly_M1
+[2022.08.09-01.38.19:309][236]LogContentBrowser: Attempting asset rename: JoshuaKelly_M1 -> KatrinaPerez_F
+[2022.08.09-01.38.19:348][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.08.09-01.38.19:361][236]LogContentBrowser: End creating deferred item JoshuaKelly_M1
+[2022.08.09-01.38.20:494][281]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/KatrinaPerez_F.KatrinaPerez_F
+[2022.08.09-01.38.25:273][436]BlueprintLog: New page: Compile KatrinaPerez_F
+[2022.08.09-01.38.25:302][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.08.09-01.38.25:627][445]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/KatrinaPerez_F77DEDF4A443D85CD8BA599837B83620D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/KatrinaPerez_F.uasset'
+[2022.08.09-01.38.25:649][445]AssetCheck: New page: Asset Save: KatrinaPerez_F
+[2022.08.09-01.38.25:649][445]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/KatrinaPerez_F.KatrinaPerez_F
+[2022.08.09-01.38.26:289][470]LogSlate: Window 'KatrinaPerez_F' being destroyed
+[2022.08.09-01.38.26:322][470]LogWorld: UWorld::CleanupWorld for World_149, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.26:322][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.26:331][470]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.26:331][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.28:078][533]LogContentBrowser: Deferred new asset file creation: KatrinaPerez_F1
+[2022.08.09-01.38.28:102][533]LogContentBrowser: Creating deferred item: KatrinaPerez_F1
+[2022.08.09-01.38.33:732][768]LogContentBrowser: Attempting asset rename: KatrinaPerez_F1 -> LacieAmos_F
+[2022.08.09-01.38.33:767][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.08.09-01.38.33:779][768]LogContentBrowser: End creating deferred item KatrinaPerez_F1
+[2022.08.09-01.38.34:852][811]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/LacieAmos_F.LacieAmos_F
+[2022.08.09-01.38.39:755][974]BlueprintLog: New page: Compile LacieAmos_F
+[2022.08.09-01.38.39:784][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.08.09-01.38.40:053][981]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/LacieAmos_F9DE276494760B95AEBAA36A11C11EA0C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/LacieAmos_F.uasset'
+[2022.08.09-01.38.40:068][981]AssetCheck: New page: Asset Save: LacieAmos_F
+[2022.08.09-01.38.40:068][981]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/LacieAmos_F.LacieAmos_F
+[2022.08.09-01.38.40:753][  7]LogSlate: Window 'LacieAmos_F' being destroyed
+[2022.08.09-01.38.40:788][  7]LogWorld: UWorld::CleanupWorld for World_152, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.40:788][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.40:797][  7]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.40:797][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.42:315][ 61]LogContentBrowser: Deferred new asset file creation: LacieAmos_F1
+[2022.08.09-01.38.42:338][ 61]LogContentBrowser: Creating deferred item: LacieAmos_F1
+[2022.08.09-01.38.49:559][360]LogContentBrowser: Attempting asset rename: LacieAmos_F1 -> MarcusWatson_M
+[2022.08.09-01.38.49:594][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.08.09-01.38.49:607][360]LogContentBrowser: End creating deferred item LacieAmos_F1
+[2022.08.09-01.38.50:634][401]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/MarcusWatson_M.MarcusWatson_M
+[2022.08.09-01.38.55:554][561]BlueprintLog: New page: Compile MarcusWatson_M
+[2022.08.09-01.38.55:582][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.08.09-01.38.55:972][572]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/MarcusWatson_MD57F7B5D470616E5064BE2AF1F5C25C7.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/MarcusWatson_M.uasset'
+[2022.08.09-01.38.55:988][572]AssetCheck: New page: Asset Save: MarcusWatson_M
+[2022.08.09-01.38.55:988][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/MarcusWatson_M.MarcusWatson_M
+[2022.08.09-01.38.58:121][653]LogSlate: Window 'MarcusWatson_M' being destroyed
+[2022.08.09-01.38.58:155][653]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.58:155][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.38.58:164][653]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.38.58:164][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.04:703][912]LogContentBrowser: Deferred new asset file creation: MarcusWatson_M1
+[2022.08.09-01.39.04:727][912]LogContentBrowser: Creating deferred item: MarcusWatson_M1
+[2022.08.09-01.39.16:904][419]LogContentBrowser: Attempting asset rename: MarcusWatson_M1 -> NimrahMariiot_M
+[2022.08.09-01.39.16:942][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.08.09-01.39.16:956][419]LogContentBrowser: End creating deferred item MarcusWatson_M1
+[2022.08.09-01.39.18:141][466]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/NimrahMariiot_M.NimrahMariiot_M
+[2022.08.09-01.39.23:693][655]BlueprintLog: New page: Compile NimrahMariiot_M
+[2022.08.09-01.39.23:721][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.08.09-01.39.24:055][664]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/NimrahMariiot_M74656AE04852FBB27581D7B17FD9703D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/NimrahMariiot_M.uasset'
+[2022.08.09-01.39.24:078][664]AssetCheck: New page: Asset Save: NimrahMariiot_M
+[2022.08.09-01.39.24:078][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/NimrahMariiot_M.NimrahMariiot_M
+[2022.08.09-01.39.24:612][685]LogSlate: Window 'NimrahMariiot_M' being destroyed
+[2022.08.09-01.39.24:646][685]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.39.24:646][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.24:654][685]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.39.24:654][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.26:449][750]LogContentBrowser: Deferred new asset file creation: NimrahMariiot_M1
+[2022.08.09-01.39.26:472][750]LogContentBrowser: Creating deferred item: NimrahMariiot_M1
+[2022.08.09-01.39.33:432][ 38]LogContentBrowser: Attempting asset rename: NimrahMariiot_M1 -> OscarCampbell_M
+[2022.08.09-01.39.33:471][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.08.09-01.39.33:484][ 38]LogContentBrowser: End creating deferred item NimrahMariiot_M1
+[2022.08.09-01.39.34:540][ 80]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/OscarCampbell_M.OscarCampbell_M
+[2022.08.09-01.39.38:656][213]BlueprintLog: New page: Compile OscarCampbell_M
+[2022.08.09-01.39.38:685][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.08.09-01.39.39:042][223]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/OscarCampbell_ME989FE0E4F5CCFC2C6D8E3AC30A0E96A.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/OscarCampbell_M.uasset'
+[2022.08.09-01.39.39:064][223]AssetCheck: New page: Asset Save: OscarCampbell_M
+[2022.08.09-01.39.39:064][223]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/OscarCampbell_M.OscarCampbell_M
+[2022.08.09-01.39.39:477][239]LogSlate: Window 'OscarCampbell_M' being destroyed
+[2022.08.09-01.39.39:512][239]LogWorld: UWorld::CleanupWorld for World_161, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.39.39:512][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.39:521][239]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.39.39:521][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.41:332][304]LogContentBrowser: Deferred new asset file creation: OscarCampbell_M1
+[2022.08.09-01.39.41:354][304]LogContentBrowser: Creating deferred item: OscarCampbell_M1
+[2022.08.09-01.39.50:337][675]LogContentBrowser: Attempting asset rename: OscarCampbell_M1 -> PenelopeAnderson_F
+[2022.08.09-01.39.50:380][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.08.09-01.39.50:394][675]LogContentBrowser: End creating deferred item OscarCampbell_M1
+[2022.08.09-01.39.51:440][715]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/PenelopeAnderson_F.PenelopeAnderson_F
+[2022.08.09-01.39.55:505][844]BlueprintLog: New page: Compile PenelopeAnderson_F
+[2022.08.09-01.39.55:535][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.09-01.39.55:899][854]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/PenelopeAnderson_F58C859B846FFF58499E4629062E61F6C.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/PenelopeAnderson_F.uasset'
+[2022.08.09-01.39.55:918][854]AssetCheck: New page: Asset Save: PenelopeAnderson_F
+[2022.08.09-01.39.55:918][854]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/PenelopeAnderson_F.PenelopeAnderson_F
+[2022.08.09-01.39.56:348][871]LogSlate: Window 'PenelopeAnderson_F' being destroyed
+[2022.08.09-01.39.56:383][871]LogWorld: UWorld::CleanupWorld for World_164, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.39.56:383][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.56:391][871]LogWorld: UWorld::CleanupWorld for World_163, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.39.56:391][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.39.58:530][947]LogContentBrowser: Deferred new asset file creation: PenelopeAnderson_F1
+[2022.08.09-01.39.58:554][947]LogContentBrowser: Creating deferred item: PenelopeAnderson_F1
+[2022.08.09-01.40.06:850][291]LogContentBrowser: Attempting asset rename: PenelopeAnderson_F1 -> SunnyLing_F
+[2022.08.09-01.40.06:891][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.08.09-01.40.06:904][291]LogContentBrowser: End creating deferred item PenelopeAnderson_F1
+[2022.08.09-01.40.07:973][333]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Moderate/SunnyLing_F.SunnyLing_F
+[2022.08.09-01.40.12:577][483]BlueprintLog: New page: Compile SunnyLing_F
+[2022.08.09-01.40.12:606][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.08.09-01.40.13:174][501]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/SunnyLing_FD3F743214E108A4D4164228A934ACA3D.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/SunnyLing_F.uasset'
+[2022.08.09-01.40.13:189][501]AssetCheck: New page: Asset Save: SunnyLing_F
+[2022.08.09-01.40.13:189][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/SunnyLing_F.SunnyLing_F
+[2022.08.09-01.40.24:559][623]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/SunnyLing_FF917C74C490C5ECD491574B4CC910DD4.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Widgets/Moderate/SunnyLing_F.uasset'
+[2022.08.09-01.40.24:575][623]AssetCheck: New page: Asset Save: SunnyLing_F
+[2022.08.09-01.40.24:575][623]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Moderate/SunnyLing_F.SunnyLing_F
+[2022.08.09-01.40.31:046][871]LogSlate: Window 'SunnyLing_F' being destroyed
+[2022.08.09-01.40.31:080][871]LogWorld: UWorld::CleanupWorld for World_167, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.40.31:080][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.40.31:089][871]LogWorld: UWorld::CleanupWorld for World_166, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-01.40.31:089][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-01.40.32:851][937]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.09-01.40.48:212][458]Cmd: TRANSACTION UNDO
+[2022.08.09-01.40.48:212][458]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2022.08.09-01.40.49:910][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.08.09-01.40.50:075][507]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Saved/BaseLevel19A00A324E29D3C96EE6CB8667845420.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/Triage/Triage/Triage/Content/Triage/Levels/BaseLevel.umap'
+[2022.08.09-01.40.50:099][507]AssetCheck: New page: Asset Save: BaseLevel
+[2022.08.09-01.40.50:100][507]LogContentValidation: Display: Validating World /Game/Triage/Levels/BaseLevel.BaseLevel
