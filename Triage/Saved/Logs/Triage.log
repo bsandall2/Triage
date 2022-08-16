@@ -2863,3 +2863,725 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.16-03.40.11:129][ 70]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/game_play_elavator_bit_more_rush2E521453419515DECCCF6D99FA6E7F27.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Assets/Audio/game_play_elavator_bit_more_rushed.uasset'
 [2022.08.16-03.40.11:140][ 70]AssetCheck: New page: Asset Save: game_play_elavator_bit_more_rushed
 [2022.08.16-03.40.11:140][ 70]LogContentValidation: Display: Validating SoundWave /Game/Triage/Assets/Audio/game_play_elavator_bit_more_rushed.game_play_elavator_bit_more_rushed
+[2022.08.16-03.41.36:901][877]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.41.36:908][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.41.36:908][877]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:41:36 pm)
+[2022.08.16-03.41.36:908][877]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.41.36:937][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028835s)
+[2022.08.16-03.41.36:938][877]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.41.36:938][877]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.08.16-03.41.36:938][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.029910s)
+[2022.08.16-03.41.36:952][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.16-03.41.36:956][877]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.41.36:956][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.41.36:956][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.41.36:956][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.41.36:956][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.41.36:956][877]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.41.36:958][877]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.41.36:958][877]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.41.36:964][877]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.41.36:965][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.41.36:965][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.41.36:965][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.41.36:965][877]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.41.36:965][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.41.36:965][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.41.36:966][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.41.36:966][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.41.36:966][877]LogInit: FAudioDevice initialized.
+[2022.08.16-03.41.36:966][877]LogAudio: Display: Audio Device (ID: 16) registered with world 'Shift4'.
+[2022.08.16-03.41.36:979][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.41.36:979][877]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.41.36:987][877]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.41.36
+[2022.08.16-03.41.36:988][877]LogWorld: Bringing up level for play took: 0.009546
+[2022.08.16-03.41.36:988][877]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.08.16-03.41.36:992][877]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.41.36:993][877]PIE: Server logged in
+[2022.08.16-03.41.36:994][877]PIE: Play in editor total start time 0.088 seconds.
+[2022.08.16-03.41.44:585][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.41.44:585][510]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.41.44:586][510]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.41.44:590][510]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.41.44:592][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.41.44:599][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.41.44:621][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.41.44:633][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.41.44:634][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.41.44:639][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.16-03.41.44:666][511]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.08.16-03.41.48:532][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.08.16-03.41.48:604][803]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Shift3.Shift3
+[2022.08.16-03.41.48:604][803]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-03.41.48:604][803]LightingResults: New page: Lighting Build
+[2022.08.16-03.41.48:604][803]LoadErrors: New page: Loading map: Shift3.umap
+[2022.08.16-03.41.48:610][803]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.41.48:610][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.41.48:610][803]MapCheck: New page: Map Check
+[2022.08.16-03.41.48:610][803]LightingResults: New page: Lighting Build
+[2022.08.16-03.41.48:624][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-03.41.48:632][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.16-03.41.48:633][803]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shift3'.
+[2022.08.16-03.41.48:652][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-03.41.48:652][803]LogAIModule: Creating AISystem for world Shift3
+[2022.08.16-03.41.48:671][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.16-03.41.48:678][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-03.41.48:678][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2022.08.16-03.41.48:678][803]LogFileHelpers: Loading map 'Shift3' took 0.074
+[2022.08.16-03.41.50:285][931]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.41.50:291][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.41.50:291][931]PIE: New page: PIE session: Shift3 (16 Aug 2022, 11:41:50 pm)
+[2022.08.16-03.41.50:291][931]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift3
+[2022.08.16-03.41.50:322][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030907s)
+[2022.08.16-03.41.50:323][931]LogAIModule: Creating AISystem for world Shift3
+[2022.08.16-03.41.50:323][931]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2022.08.16-03.41.50:323][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift3.Shift3 to /Game/Triage/Levels/UEDPIE_0_Shift3.Shift3 (0.031812s)
+[2022.08.16-03.41.50:335][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.16-03.41.50:336][931]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.41.50:336][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.41.50:336][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.41.50:336][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.41.50:336][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.41.50:336][931]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.41.50:337][931]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.41.50:338][931]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.41.50:345][931]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.41.50:345][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.41.50:345][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.41.50:345][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.41.50:345][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.41.50:345][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.41.50:345][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.41.50:346][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.41.50:346][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.41.50:346][931]LogInit: FAudioDevice initialized.
+[2022.08.16-03.41.50:346][931]LogAudio: Display: Audio Device (ID: 17) registered with world 'Shift3'.
+[2022.08.16-03.41.50:358][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.41.50:358][931]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.41.50:366][931]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift3.Shift3 up for play (max tick rate 0) at 2022.08.16-13.41.50
+[2022.08.16-03.41.50:368][931]LogWorld: Bringing up level for play took: 0.008756
+[2022.08.16-03.41.50:368][931]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.08.16-03.41.50:371][931]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.41.50:372][931]PIE: Server logged in
+[2022.08.16-03.41.50:373][931]PIE: Play in editor total start time 0.083 seconds.
+[2022.08.16-03.41.54:405][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.41.54:405][273]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift3
+[2022.08.16-03.41.54:406][273]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.41.54:410][273]LogWorld: UWorld::CleanupWorld for Shift3, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.41.54:411][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.41.54:417][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.41.54:420][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.41.54:432][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.41.54:433][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.41.54:437][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.16-03.41.54:477][276]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.08.16-03.41.56:645][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.16-03.42.02:671][953]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.42.02:677][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.42.02:678][953]PIE: New page: PIE session: Shift3 (16 Aug 2022, 11:42:02 pm)
+[2022.08.16-03.42.02:678][953]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift3
+[2022.08.16-03.42.02:705][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027322s)
+[2022.08.16-03.42.02:706][953]LogAIModule: Creating AISystem for world Shift3
+[2022.08.16-03.42.02:706][953]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2022.08.16-03.42.02:706][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift3.Shift3 to /Game/Triage/Levels/UEDPIE_0_Shift3.Shift3 (0.028216s)
+[2022.08.16-03.42.02:719][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.08.16-03.42.02:723][953]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.42.02:723][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.42.02:723][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.42.02:723][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.42.02:723][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.42.02:723][953]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.42.02:724][953]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.42.02:724][953]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.42.02:730][953]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.42.02:730][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.42.02:731][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.42.02:731][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.42.02:731][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.42.02:731][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.42.02:731][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.42.02:732][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.42.02:732][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.42.02:732][953]LogInit: FAudioDevice initialized.
+[2022.08.16-03.42.02:732][953]LogAudio: Display: Audio Device (ID: 18) registered with world 'Shift3'.
+[2022.08.16-03.42.02:746][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.42.02:746][953]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.42.02:753][953]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift3.Shift3 up for play (max tick rate 0) at 2022.08.16-13.42.02
+[2022.08.16-03.42.02:754][953]LogWorld: Bringing up level for play took: 0.007852
+[2022.08.16-03.42.02:754][953]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.08.16-03.42.02:758][953]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.42.02:759][953]PIE: Server logged in
+[2022.08.16-03.42.02:760][953]PIE: Play in editor total start time 0.083 seconds.
+[2022.08.16-03.42.12:845][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.42.12:845][812]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift3
+[2022.08.16-03.42.12:846][812]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.42.12:851][812]LogWorld: UWorld::CleanupWorld for Shift3, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.42.12:853][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.12:857][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.42.12:879][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.12:891][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.42.12:892][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.42.12:897][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.16-03.42.12:923][813]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.08.16-03.42.14:950][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-03.42.14:962][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.16-03.42.15:063][976]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift3975DA18B4B207A570DFE5E8FA5D761E4.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift3.umap'
+[2022.08.16-03.42.15:082][976]AssetCheck: New page: Asset Save: Shift3
+[2022.08.16-03.42.15:082][976]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift3.Shift3
+[2022.08.16-03.42.16:261][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.16-03.42.16:334][ 72]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Shift4.Shift4
+[2022.08.16-03.42.16:334][ 72]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-03.42.16:334][ 72]LightingResults: New page: Lighting Build
+[2022.08.16-03.42.16:334][ 72]LoadErrors: New page: Loading map: Shift4.umap
+[2022.08.16-03.42.16:375][ 72]LogWorld: UWorld::CleanupWorld for Shift3, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.42.16:376][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.16:376][ 72]MapCheck: New page: Map Check
+[2022.08.16-03.42.16:376][ 72]LightingResults: New page: Lighting Build
+[2022.08.16-03.42.16:392][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-03.42.16:396][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.16-03.42.16:397][ 72]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shift4'.
+[2022.08.16-03.42.16:418][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-03.42.16:418][ 72]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.42.16:439][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.16-03.42.16:447][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-03.42.16:447][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2022.08.16-03.42.16:447][ 72]LogFileHelpers: Loading map 'Shift4' took 0.113
+[2022.08.16-03.42.18:382][229]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.42.18:389][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.42.18:389][229]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:42:18 pm)
+[2022.08.16-03.42.18:389][229]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.42.18:419][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030224s)
+[2022.08.16-03.42.18:420][229]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.42.18:420][229]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2022.08.16-03.42.18:420][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.031073s)
+[2022.08.16-03.42.18:432][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.16-03.42.18:434][229]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.42.18:434][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.42.18:434][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.42.18:434][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.42.18:434][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.42.18:434][229]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.42.18:436][229]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.42.18:436][229]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.42.18:442][229]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.42.18:442][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.42.18:442][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.42.18:442][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.42.18:443][229]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.42.18:443][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.42.18:443][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.42.18:443][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.42.18:443][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.42.18:443][229]LogInit: FAudioDevice initialized.
+[2022.08.16-03.42.18:443][229]LogAudio: Display: Audio Device (ID: 19) registered with world 'Shift4'.
+[2022.08.16-03.42.18:460][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.42.18:460][229]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.42.18:469][229]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.42.18
+[2022.08.16-03.42.18:470][229]LogWorld: Bringing up level for play took: 0.009127
+[2022.08.16-03.42.18:470][229]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.08.16-03.42.18:474][229]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.42.18:475][229]PIE: Server logged in
+[2022.08.16-03.42.18:476][229]PIE: Play in editor total start time 0.088 seconds.
+[2022.08.16-03.42.23:874][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.42.23:874][674]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.42.23:875][674]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.42.23:879][674]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.42.23:881][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.23:891][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.42.23:894][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.23:907][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.42.23:907][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.42.23:912][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.08.16-03.42.23:953][677]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.08.16-03.42.31:043][199]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Triage/Blueprints/OutlineMAT.OutlineMAT
+[2022.08.16-03.42.31:044][199]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 93C43AA5C355231FFB294FE7C6ACD74F14EA236F), compiling. 
+[2022.08.16-03.42.31:051][199]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.08.16-03.42.31:053][199]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.08.16-03.42.31:108][199]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.08.16-03.42.31:222][199]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: E8968E13B8ECC56C9C81AFB26790091BC59221F7), compiling. 
+[2022.08.16-03.42.31:223][199]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: C8523A5649341A1C71E7066BCD5A83432C3EE6DE), compiling. 
+[2022.08.16-03.42.31:225][199]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A116554F91D1E0E09A7CBB65A6FE54A75E7C9000), compiling. 
+[2022.08.16-03.42.31:236][199]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.16-03.42.31:236][199]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.16-03.42.31:270][199]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.31:270][199]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.16-03.42.31:270][199]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.16-03.42.31:270][199]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.31:447][208]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.16-03.42.31:447][208]LogShaderCompilers: Display: Total job queries 7, among them cache hits 0 (0.00%)
+[2022.08.16-03.42.31:447][208]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.08.16-03.42.31:447][208]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.16-03.42.31:447][208]LogShaderCompilers: Display: ================================================
+[2022.08.16-03.42.31:496][210]MaterialEditorStats: Texture samplers: 1/16
+[2022.08.16-03.42.31:496][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.16-03.42.31:908][241]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.31:917][242]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.16-03.42.31:917][242]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.16-03.42.31:917][242]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.36:602][614]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 52740AE6E471632B4076A055BF3531BC7C5E49C3), compiling. 
+[2022.08.16-03.42.36:604][614]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C7C350CB1AEA32ADED1228A0267EFC37A544FA9), compiling. 
+[2022.08.16-03.42.36:605][614]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BE4B97A06070197680663040BD69FAEC03375BCC), compiling. 
+[2022.08.16-03.42.36:606][614]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 2828E8FC0F246848BBAB5C8F2B89C30412D445E7), compiling. 
+[2022.08.16-03.42.36:607][614]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B27A9A463B160FEBCD4E39D09B743938291EA7F), compiling. 
+[2022.08.16-03.42.36:608][614]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 798C21F5C2F198E235A406C52A537307AFC64509), compiling. 
+[2022.08.16-03.42.36:609][614]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.16-03.42.36:612][614]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.16-03.42.36:612][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.16-03.42.36:639][614]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.36:645][615]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.16-03.42.36:645][615]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.16-03.42.36:645][615]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.36:654][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.36:654][616]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2022.08.16-03.42.36:654][616]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2022.08.16-03.42.36:654][616]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.36:774][623]MaterialEditorStats: Texture samplers: 1/16
+[2022.08.16-03.42.36:774][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.16-03.42.37:430][667]LogMaterialEditor: Saving and Compiling material OutlineMAT
+[2022.08.16-03.42.37:629][667]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 1D151E0A3C2F0BB06B91E7512D7F2B28858BA6B5), compiling. 
+[2022.08.16-03.42.37:646][667]LogMaterial: Display: Missing cached shadermap for OutlineMAT in PCD3D_SM5, Default, SM5 (DDC key hash: 8ED1233FFB2C69696268AD5F95EBF9AD939B8E6F), compiling. 
+[2022.08.16-03.42.37:662][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.16-03.42.37:668][667]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.38:089][667]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.16-03.42.38:089][667]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.16-03.42.38:089][667]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.38:089][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.08.16-03.42.38:108][667]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.38:112][667]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2022.08.16-03.42.38:118][667]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.16-03.42.38:118][667]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.16-03.42.38:118][667]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2022.08.16-03.42.38:118][667]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2022.08.16-03.42.38:118][667]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.16-03.42.38:118][667]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.16-03.42.38:121][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/OutlineMAT" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/OutlineMAT.uasset" SILENT=true
+[2022.08.16-03.42.38:128][667]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/OutlineMAT38C7EB8E4D3E99228E9766AF9B116EE9.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/OutlineMAT.uasset'
+[2022.08.16-03.42.38:137][667]AssetCheck: New page: Asset Save: OutlineMAT
+[2022.08.16-03.42.38:137][667]LogContentValidation: Display: Validating Material /Game/Triage/Blueprints/OutlineMAT.OutlineMAT
+[2022.08.16-03.42.38:332][674]MaterialEditorStats: Base pass shader without light map: 41 instructions
+[2022.08.16-03.42.38:332][674]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.08.16-03.42.38:332][674]MaterialEditorStats: Texture samplers: 1/16
+[2022.08.16-03.42.38:332][674]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.16-03.42.39:395][753]LogSlate: Window 'OutlineMAT' being destroyed
+[2022.08.16-03.42.39:397][753]LogSlate: Window 'OutlineMAT' being destroyed
+[2022.08.16-03.42.39:407][753]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.42.39:407][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.40:053][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.42.40:059][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.42.40:059][804]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:42:40 pm)
+[2022.08.16-03.42.40:059][804]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.42.40:087][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027885s)
+[2022.08.16-03.42.40:088][804]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.42.40:088][804]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2022.08.16-03.42.40:088][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.028752s)
+[2022.08.16-03.42.40:103][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.08.16-03.42.40:105][804]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.42.40:105][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.42.40:105][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.42.40:105][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.42.40:105][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.42.40:105][804]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.42.40:106][804]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.42.40:106][804]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.42.40:112][804]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.42.40:113][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.42.40:113][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.42.40:113][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.42.40:113][804]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.42.40:113][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.42.40:113][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.42.40:114][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.42.40:114][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.42.40:114][804]LogInit: FAudioDevice initialized.
+[2022.08.16-03.42.40:114][804]LogAudio: Display: Audio Device (ID: 20) registered with world 'Shift4'.
+[2022.08.16-03.42.40:126][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.42.40:126][804]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.42.40:135][804]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.42.40
+[2022.08.16-03.42.40:136][804]LogWorld: Bringing up level for play took: 0.009804
+[2022.08.16-03.42.40:137][804]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.08.16-03.42.40:140][804]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.42.40:142][804]PIE: Server logged in
+[2022.08.16-03.42.40:143][804]PIE: Play in editor total start time 0.084 seconds.
+[2022.08.16-03.42.48:875][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.42.48:875][522]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.42.48:875][522]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.42.48:879][522]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.42.48:881][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.48:889][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.42.48:893][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.42.48:905][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-03.42.48:905][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.42.48:906][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.42.48:910][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.08.16-03.42.48:954][525]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.08.16-03.43.22:215][841]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (cubiclePost)
+[2022.08.16-03.43.34:268][811]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.43.34:275][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.43.34:275][811]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:43:34 pm)
+[2022.08.16-03.43.34:276][811]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.43.34:304][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028341s)
+[2022.08.16-03.43.34:305][811]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.43.34:305][811]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2022.08.16-03.43.34:305][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.029242s)
+[2022.08.16-03.43.34:319][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.16-03.43.34:323][811]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.08.16-03.43.34:323][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.43.34:323][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.43.34:323][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.43.34:323][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.43.34:323][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.43.34:323][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.43.34:324][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.43.34:324][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.43.34:324][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.43.34:324][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.43.34:324][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.43.34:324][811]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.43.34:325][811]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.43.34:325][811]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.43.34:331][811]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.43.34:331][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.43.34:331][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.43.34:331][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.43.34:332][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.43.34:332][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.43.34:332][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.43.34:333][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.43.34:333][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.43.34:333][811]LogInit: FAudioDevice initialized.
+[2022.08.16-03.43.34:333][811]LogAudio: Display: Audio Device (ID: 21) registered with world 'Shift4'.
+[2022.08.16-03.43.34:343][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.43.34:343][811]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.43.34:351][811]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.43.34
+[2022.08.16-03.43.34:353][811]LogWorld: Bringing up level for play took: 0.009164
+[2022.08.16-03.43.34:353][811]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.08.16-03.43.34:356][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.43.34:358][811]PIE: Server logged in
+[2022.08.16-03.43.34:359][811]PIE: Play in editor total start time 0.084 seconds.
+[2022.08.16-03.43.37:525][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.43.37:525][ 74]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.43.37:526][ 74]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.43.37:529][ 74]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.43.37:531][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.43.37:535][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.43.37:557][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.43.37:569][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.43.37:570][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.43.37:575][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.16-03.43.37:599][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.08.16-03.43.57:366][728]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.43.57:373][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.43.57:373][728]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:43:57 pm)
+[2022.08.16-03.43.57:373][728]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.43.57:401][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028311s)
+[2022.08.16-03.43.57:402][728]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.43.57:402][728]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2022.08.16-03.43.57:402][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.029296s)
+[2022.08.16-03.43.57:416][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.08.16-03.43.57:420][728]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.43.57:420][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.43.57:420][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.43.57:420][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.43.57:420][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.43.57:420][728]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.43.57:422][728]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.43.57:422][728]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.43.57:428][728]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.43.57:428][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.43.57:428][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.43.57:428][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.43.57:428][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.43.57:428][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.43.57:428][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.43.57:429][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.43.57:429][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.43.57:429][728]LogInit: FAudioDevice initialized.
+[2022.08.16-03.43.57:429][728]LogAudio: Display: Audio Device (ID: 22) registered with world 'Shift4'.
+[2022.08.16-03.43.57:439][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.43.57:439][728]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.43.57:448][728]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.43.57
+[2022.08.16-03.43.57:449][728]LogWorld: Bringing up level for play took: 0.009231
+[2022.08.16-03.43.57:449][728]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.08.16-03.43.57:453][728]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.43.57:454][728]PIE: Server logged in
+[2022.08.16-03.43.57:455][728]PIE: Play in editor total start time 0.084 seconds.
+[2022.08.16-03.43.59:474][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.43.59:475][888]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.43.59:475][888]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.43.59:479][888]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.43.59:481][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.43.59:488][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.43.59:511][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.43.59:523][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.43.59:524][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.43.59:528][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.08.16-03.43.59:554][889]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.08.16-03.44.00:253][940]Cmd: TRANSACTION UNDO
+[2022.08.16-03.44.00:253][940]LogEditorTransaction: Undo Color Grading Main Value
+[2022.08.16-03.44.01:224][  9]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.44.01:230][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.44.01:230][  9]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:44:01 pm)
+[2022.08.16-03.44.01:230][  9]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.01:258][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027494s)
+[2022.08.16-03.44.01:259][  9]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.44.01:259][  9]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2022.08.16-03.44.01:259][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.028375s)
+[2022.08.16-03.44.01:273][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.16-03.44.01:274][  9]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.44.01:274][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.44.01:274][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.44.01:275][  9]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.44.01:275][  9]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.44.01:275][  9]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.44.01:275][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.44.01:276][  9]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.44.01:276][  9]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.44.01:285][  9]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.44.01:286][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.44.01:286][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.44.01:286][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.44.01:286][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.44.01:286][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.44.01:286][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.44.01:287][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.44.01:287][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.44.01:287][  9]LogInit: FAudioDevice initialized.
+[2022.08.16-03.44.01:287][  9]LogAudio: Display: Audio Device (ID: 23) registered with world 'Shift4'.
+[2022.08.16-03.44.01:303][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.01:303][  9]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.44.01:312][  9]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.44.01
+[2022.08.16-03.44.01:313][  9]LogWorld: Bringing up level for play took: 0.009790
+[2022.08.16-03.44.01:313][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.08.16-03.44.01:317][  9]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.44.01:319][  9]PIE: Server logged in
+[2022.08.16-03.44.01:319][  9]PIE: Play in editor total start time 0.09 seconds.
+[2022.08.16-03.44.05:045][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.05:045][308]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.05:046][308]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.44.05:050][308]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.44.05:052][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.05:060][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.44.05:083][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.05:095][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.05:096][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.05:100][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.16-03.44.05:127][309]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.08.16-03.44.07:948][555]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.44.07:955][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.44.07:955][555]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:44:07 pm)
+[2022.08.16-03.44.07:955][555]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.07:987][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031254s)
+[2022.08.16-03.44.07:987][555]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.44.07:987][555]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2022.08.16-03.44.07:987][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.032130s)
+[2022.08.16-03.44.08:000][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.08.16-03.44.08:001][555]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.44.08:001][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.44.08:001][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.44.08:001][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.44.08:001][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.44.08:001][555]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.44.08:003][555]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.44.08:003][555]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.44.08:009][555]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.44.08:009][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.44.08:009][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.44.08:009][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.44.08:009][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.44.08:009][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.44.08:009][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.44.08:010][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.44.08:010][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.44.08:010][555]LogInit: FAudioDevice initialized.
+[2022.08.16-03.44.08:010][555]LogAudio: Display: Audio Device (ID: 24) registered with world 'Shift4'.
+[2022.08.16-03.44.08:020][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.08:021][555]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.44.08:029][555]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.44.08
+[2022.08.16-03.44.08:030][555]LogWorld: Bringing up level for play took: 0.009123
+[2022.08.16-03.44.08:030][555]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.08.16-03.44.08:034][555]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.44.08:035][555]PIE: Server logged in
+[2022.08.16-03.44.08:036][555]PIE: Play in editor total start time 0.083 seconds.
+[2022.08.16-03.44.12:425][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.12:425][913]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.12:425][913]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.44.12:429][913]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.44.12:431][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.12:440][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.44.12:463][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.12:476][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.12:477][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.12:481][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.16-03.44.12:502][914]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.08.16-03.44.18:867][442]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.44.18:874][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.44.18:874][442]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:44:18 pm)
+[2022.08.16-03.44.18:874][442]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.18:903][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028954s)
+[2022.08.16-03.44.18:904][442]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.44.18:904][442]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.08.16-03.44.18:904][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.029879s)
+[2022.08.16-03.44.18:917][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.16-03.44.18:920][442]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.44.18:920][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.44.18:920][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.44.18:921][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.44.18:921][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.44.18:921][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.44.18:921][442]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.44.18:922][442]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.44.18:922][442]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.44.18:928][442]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.44.18:928][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.44.18:928][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.44.18:928][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.44.18:929][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.44.18:929][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.44.18:929][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.44.18:929][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.44.18:929][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.44.18:929][442]LogInit: FAudioDevice initialized.
+[2022.08.16-03.44.18:930][442]LogAudio: Display: Audio Device (ID: 25) registered with world 'Shift4'.
+[2022.08.16-03.44.18:944][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.18:944][442]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.44.18:952][442]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.44.18
+[2022.08.16-03.44.18:954][442]LogWorld: Bringing up level for play took: 0.009354
+[2022.08.16-03.44.18:954][442]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.08.16-03.44.18:957][442]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.44.18:959][442]PIE: Server logged in
+[2022.08.16-03.44.18:959][442]PIE: Play in editor total start time 0.086 seconds.
+[2022.08.16-03.44.22:254][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.22:254][706]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.22:255][706]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.44.22:259][706]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.44.22:261][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.22:271][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.44.22:294][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.22:306][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.22:307][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.22:312][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.16-03.44.22:333][707]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.08.16-03.44.23:612][804]Cmd: TRANSACTION UNDO
+[2022.08.16-03.44.23:612][804]LogEditorTransaction: Undo Color Grading Main Value
+[2022.08.16-03.44.26:651][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-03.44.26:658][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-03.44.26:658][ 31]PIE: New page: PIE session: Shift4 (16 Aug 2022, 11:44:26 pm)
+[2022.08.16-03.44.26:658][ 31]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.26:686][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027692s)
+[2022.08.16-03.44.26:686][ 31]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-03.44.26:686][ 31]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2022.08.16-03.44.26:687][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift4.Shift4 to /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 (0.028590s)
+[2022.08.16-03.44.26:700][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.08.16-03.44.26:702][ 31]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-03.44.26:702][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-03.44.26:702][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-03.44.26:703][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-03.44.26:703][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-03.44.26:703][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-03.44.26:703][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-03.44.26:704][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-03.44.26:704][ 31]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-03.44.26:710][ 31]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-03.44.26:711][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-03.44.26:711][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-03.44.26:711][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-03.44.26:711][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-03.44.26:711][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-03.44.26:711][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-03.44.26:712][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-03.44.26:712][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-03.44.26:712][ 31]LogInit: FAudioDevice initialized.
+[2022.08.16-03.44.26:712][ 31]LogAudio: Display: Audio Device (ID: 26) registered with world 'Shift4'.
+[2022.08.16-03.44.26:726][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.26:726][ 31]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-03.44.26:734][ 31]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift4.Shift4 up for play (max tick rate 0) at 2022.08.16-13.44.26
+[2022.08.16-03.44.26:736][ 31]LogWorld: Bringing up level for play took: 0.009222
+[2022.08.16-03.44.26:736][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2022.08.16-03.44.26:739][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-03.44.26:741][ 31]PIE: Server logged in
+[2022.08.16-03.44.26:741][ 31]PIE: Play in editor total start time 0.085 seconds.
+[2022.08.16-03.44.28:995][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-03.44.28:995][211]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift4
+[2022.08.16-03.44.28:996][211]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-03.44.29:000][211]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-03.44.29:002][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.29:009][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-03.44.29:032][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-03.44.29:042][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.29:043][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-03.44.29:048][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.16-03.44.29:074][212]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.08.16-03.44.29:999][281]Cmd: TRANSACTION UNDO
+[2022.08.16-03.44.29:999][281]LogEditorTransaction: Undo Color Grading Main Value
+[2022.08.16-03.44.36:439][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift4" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-03.44.36:451][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.16-03.44.36:561][764]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift45794CE0F4DF5831E30699BB0DBF205D4.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift4.umap'
+[2022.08.16-03.44.36:579][764]AssetCheck: New page: Asset Save: Shift4
+[2022.08.16-03.44.36:580][764]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift4.Shift4
