@@ -1792,3 +1792,946 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.16-06.51.19:645][696]LogAudioMixer: Resetting audio stream to device id 
 [2022.08.16-06.51.19:648][696]LogAudioMixer: Display: 0: FrontLeft
 [2022.08.16-06.51.19:649][696]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-06.52.36:802][476]LogContentBrowser: Deferred new asset file creation: Shift5
+[2022.08.16-06.52.36:813][476]LogContentBrowser: Creating deferred item: Shift5
+[2022.08.16-06.52.37:941][576]LogContentBrowser: Attempting asset rename: Shift5 -> Shift5
+[2022.08.16-06.52.38:009][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.08.16-06.52.38:060][576]LogContentBrowser: End creating deferred item Shift5
+[2022.08.16-06.52.39:046][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.16-06.52.39:852][661]LogSlate: Window 'Save Content' being destroyed
+[2022.08.16-06.52.39:866][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-06.52.39:901][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.16-06.52.40:008][661]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift55977D3A64EA0AFF826613FB1D074E9E6.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-06.52.40:023][661]LogFileHelpers: Saving map 'Shift5' took 0.158
+[2022.08.16-06.52.40:035][661]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-06.52.40:035][661]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-06.52.40:035][661]LightingResults: New page: Lighting Build
+[2022.08.16-06.52.40:035][661]LoadErrors: New page: Loading map: Shift5.umap
+[2022.08.16-06.52.40:074][661]LogWorld: UWorld::CleanupWorld for Shift1, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-06.52.40:074][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.52.40:074][661]MapCheck: New page: Map Check
+[2022.08.16-06.52.40:074][661]LightingResults: New page: Lighting Build
+[2022.08.16-06.52.40:092][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-06.52.40:098][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.16-06.52.40:114][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.16-06.52.40:126][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.08.16-06.52.40:126][661]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shift5'.
+[2022.08.16-06.52.40:147][661]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-06.52.40:147][661]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-06.52.40:167][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.08.16-06.52.40:174][661]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-06.52.40:175][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2022.08.16-06.52.40:175][661]LogFileHelpers: Loading map 'Shift5' took 0.139
+[2022.08.16-06.52.40:190][661]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-06.52.40:190][661]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-06.52.43:834][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.08.16-06.52.43:900][958]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Shift4.Shift4
+[2022.08.16-06.52.43:901][958]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-06.52.43:901][958]LightingResults: New page: Lighting Build
+[2022.08.16-06.52.43:901][958]LoadErrors: New page: Loading map: Shift4.umap
+[2022.08.16-06.52.43:904][958]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-06.52.43:905][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.52.43:905][958]MapCheck: New page: Map Check
+[2022.08.16-06.52.43:905][958]LightingResults: New page: Lighting Build
+[2022.08.16-06.52.43:916][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-06.52.43:923][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.16-06.52.43:924][958]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shift4'.
+[2022.08.16-06.52.43:945][958]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-06.52.43:945][958]LogAIModule: Creating AISystem for world Shift4
+[2022.08.16-06.52.43:963][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.16-06.52.43:971][958]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-06.52.43:971][958]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2022.08.16-06.52.43:971][958]LogFileHelpers: Loading map 'Shift4' took 0.070
+[2022.08.16-06.52.46:111][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.16-06.52.46:182][131]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-06.52.46:182][131]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-06.52.46:182][131]LightingResults: New page: Lighting Build
+[2022.08.16-06.52.46:182][131]LoadErrors: New page: Loading map: Shift5.umap
+[2022.08.16-06.52.46:224][131]LogWorld: UWorld::CleanupWorld for Shift4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-06.52.46:224][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.52.46:225][131]MapCheck: New page: Map Check
+[2022.08.16-06.52.46:225][131]LightingResults: New page: Lighting Build
+[2022.08.16-06.52.46:245][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-06.52.46:253][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.16-06.52.46:253][131]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shift5'.
+[2022.08.16-06.52.46:274][131]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-06.52.46:274][131]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-06.52.46:293][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.08.16-06.52.46:301][131]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-06.52.46:301][131]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2022.08.16-06.52.46:301][131]LogFileHelpers: Loading map 'Shift5' took 0.119
+[2022.08.16-06.53.01:473][425]LogContentBrowser: Deferred new asset file creation: Shift4WRDoor1
+[2022.08.16-06.53.01:517][425]LogContentBrowser: Creating deferred item: Shift4WRDoor1
+[2022.08.16-06.53.05:354][813]LogContentBrowser: Attempting asset rename: Shift4WRDoor1 -> Shift5WRDoor
+[2022.08.16-06.53.05:355][813]LogContentBrowser: End creating deferred item Shift4WRDoor1
+[2022.08.16-06.53.07:029][943]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Triage/Blueprints/Shift4BEDDoor.Shift4BEDDoor
+[2022.08.16-06.53.08:305][ 37]LogSlate: Window 'Sequencer' being destroyed
+[2022.08.16-06.53.08:306][ 37]LogSlate: Window 'Sequencer' being destroyed
+[2022.08.16-06.53.10:538][280]LogContentBrowser: Deferred new asset file creation: Shift4BEDDoor1
+[2022.08.16-06.53.10:550][280]LogContentBrowser: Creating deferred item: Shift4BEDDoor1
+[2022.08.16-06.53.17:414][959]LogContentBrowser: Attempting asset rename: Shift4BEDDoor1 -> Shift5BEDDoor
+[2022.08.16-06.53.17:415][959]LogContentBrowser: End creating deferred item Shift4BEDDoor1
+[2022.08.16-06.53.20:271][178]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Triage/Blueprints/Shift5BEDDoor.Shift5BEDDoor
+[2022.08.16-06.53.25:597][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/Shift5BEDDoor" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/Shift5BEDDoor.uasset" SILENT=true
+[2022.08.16-06.53.25:603][730]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5BEDDoorA09F508E44A046A82D86D3A0F4031494.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/Shift5BEDDoor.uasset'
+[2022.08.16-06.53.25:613][730]AssetCheck: New page: Asset Save: Shift5BEDDoor
+[2022.08.16-06.53.25:613][730]LogContentValidation: Display: Validating LevelSequence /Game/Triage/Blueprints/Shift5BEDDoor.Shift5BEDDoor
+[2022.08.16-06.53.26:519][807]LogSlate: Window 'Sequencer' being destroyed
+[2022.08.16-06.53.27:192][856]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Triage/Blueprints/Shift5WRDoor.Shift5WRDoor
+[2022.08.16-06.53.32:349][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/Shift5WRDoor" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/Shift5WRDoor.uasset" SILENT=true
+[2022.08.16-06.53.32:355][380]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5WRDoor4362FD5D4CDD1F90C9872D96B8C485B7.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/Shift5WRDoor.uasset'
+[2022.08.16-06.53.32:361][380]AssetCheck: New page: Asset Save: Shift5WRDoor
+[2022.08.16-06.53.32:361][380]LogContentValidation: Display: Validating LevelSequence /Game/Triage/Blueprints/Shift5WRDoor.Shift5WRDoor
+[2022.08.16-06.53.33:081][439]LogSlate: Window 'Sequencer' being destroyed
+[2022.08.16-06.53.37:686][822]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-06.53.37:692][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-06.53.37:692][822]PIE: New page: PIE session: Shift5 (17 Aug 2022, 2:53:37 am)
+[2022.08.16-06.53.37:692][822]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-06.53.37:724][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031879s)
+[2022.08.16-06.53.37:725][822]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-06.53.37:725][822]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.08.16-06.53.37:725][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift5.Shift5 to /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 (0.032946s)
+[2022.08.16-06.53.37:738][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.16-06.53.37:743][822]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-06.53.37:743][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-06.53.37:743][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-06.53.37:743][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-06.53.37:743][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-06.53.37:743][822]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-06.53.37:745][822]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-06.53.37:745][822]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-06.53.37:752][822]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-06.53.37:752][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-06.53.37:752][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-06.53.37:752][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-06.53.37:752][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-06.53.37:752][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-06.53.37:752][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-06.53.37:753][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-06.53.37:753][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-06.53.37:753][822]LogInit: FAudioDevice initialized.
+[2022.08.16-06.53.37:753][822]LogAudio: Display: Audio Device (ID: 11) registered with world 'Shift5'.
+[2022.08.16-06.53.37:762][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-06.53.37:763][822]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-06.53.37:771][822]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 up for play (max tick rate 0) at 2022.08.16-16.53.37
+[2022.08.16-06.53.37:772][822]LogWorld: Bringing up level for play took: 0.009290
+[2022.08.16-06.53.37:772][822]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.08.16-06.53.37:776][822]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-06.53.37:778][822]PIE: Server logged in
+[2022.08.16-06.53.37:778][822]PIE: Play in editor total start time 0.087 seconds.
+[2022.08.16-06.53.42:829][236]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-06.53.42:829][236]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-06.53.43:559][297]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-06.53.43:559][297]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-06.53.44:692][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-06.53.44:692][390]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-06.53.44:693][390]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-06.53.44:696][390]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-06.53.44:698][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.53.44:708][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-06.53.44:711][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.53.44:722][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-06.53.44:722][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-06.53.44:723][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-06.53.44:730][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.08.16-06.53.44:775][393]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.08.16-06.53.49:761][777]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (DoorSEQ)
+[2022.08.16-06.53.55:339][256]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Door2SEQ)
+[2022.08.16-06.53.59:533][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-06.53.59:544][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.08.16-06.53.59:663][668]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5AD4E21804F92A8A4FE12D982C28010FE.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-06.53.59:680][668]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-06.53.59:680][668]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-06.54.00:031][698]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-06.54.00:037][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-06.54.00:037][698]PIE: New page: PIE session: Shift5 (17 Aug 2022, 2:54:00 am)
+[2022.08.16-06.54.00:038][698]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-06.54.00:066][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028021s)
+[2022.08.16-06.54.00:066][698]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-06.54.00:066][698]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2022.08.16-06.54.00:067][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift5.Shift5 to /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 (0.028917s)
+[2022.08.16-06.54.00:080][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.16-06.54.00:080][698]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.08.16-06.54.00:080][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-06.54.00:080][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-06.54.00:080][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-06.54.00:080][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-06.54.00:080][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-06.54.00:080][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-06.54.00:081][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-06.54.00:081][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-06.54.00:081][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-06.54.00:081][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-06.54.00:081][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-06.54.00:081][698]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-06.54.00:082][698]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-06.54.00:082][698]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-06.54.00:089][698]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-06.54.00:089][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-06.54.00:089][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-06.54.00:089][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-06.54.00:089][698]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-06.54.00:089][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-06.54.00:089][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-06.54.00:090][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-06.54.00:090][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-06.54.00:090][698]LogInit: FAudioDevice initialized.
+[2022.08.16-06.54.00:090][698]LogAudio: Display: Audio Device (ID: 12) registered with world 'Shift5'.
+[2022.08.16-06.54.00:101][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-06.54.00:101][698]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-06.54.00:109][698]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 up for play (max tick rate 0) at 2022.08.16-16.54.00
+[2022.08.16-06.54.00:111][698]LogWorld: Bringing up level for play took: 0.009388
+[2022.08.16-06.54.00:111][698]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.08.16-06.54.00:114][698]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-06.54.00:116][698]PIE: Server logged in
+[2022.08.16-06.54.00:116][698]PIE: Play in editor total start time 0.08 seconds.
+[2022.08.16-06.54.06:303][198]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-06.54.06:303][198]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-06.54.06:861][245]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-06.54.06:861][245]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-06.54.08:943][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-06.54.08:943][420]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-06.54.08:943][420]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-06.54.08:948][420]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-06.54.08:950][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.54.08:960][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-06.54.08:969][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-06.54.08:981][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-06.54.08:982][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-06.54.08:987][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.16-06.54.09:013][422]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.08.16-06.54.13:794][785]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.16-06.55.16:172][661]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP13)
+[2022.08.16-06.55.40:773][500]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP)
+[2022.08.16-06.56.06:693][635]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP2)
+[2022.08.16-06.56.36:221][ 77]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP3)
+[2022.08.16-06.56.43:414][638]LogTexture: Display: Building textures: VanessaCaldwell_39-Female_ (BGRA8, 2006X3006)
+[2022.08.16-06.56.45:073][791]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP4)
+[2022.08.16-06.57.05:883][587]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP5)
+[2022.08.16-06.57.15:034][258]LogTexture: Display: Building textures: StewartReema_29-Male_ (BGRA8, 2006X3006)
+[2022.08.16-06.57.53:939][675]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP6)
+[2022.08.16-06.59.10:234][577]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP20)
+[2022.08.16-06.59.11:415][663]Cmd: DELETE
+[2022.08.16-06.59.11:415][663]Cmd: ACTOR DELETE
+[2022.08.16-06.59.11:431][663]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.16-06.59.11:450][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.08.16-06.59.11:459][663]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.08.16-06.59.14:492][902]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP6)
+[2022.08.16-06.59.37:347][687]Cmd: TRANSACTION UNDO
+[2022.08.16-06.59.37:347][687]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.16-06.59.39:370][841]Cmd: TRANSACTION UNDO
+[2022.08.16-06.59.39:370][841]LogEditorTransaction: Undo Delete Actors
+[2022.08.16-07.04.08:749][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.16-07.04.08:873][882]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5_Auto1A91845394BAB16A03AA39191A8FD1059.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Autosaves/Game/Triage/Levels/Shift5_Auto1.umap'
+[2022.08.16-07.04.08:876][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Triage/Levels/Shift5' took 0.142
+[2022.08.16-07.04.08:876][882]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.142
+[2022.08.16-07.04.59:924][175]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP20)
+[2022.08.16-07.05.00:632][219]Cmd: DELETE
+[2022.08.16-07.05.00:632][219]Cmd: ACTOR DELETE
+[2022.08.16-07.05.00:642][219]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.16-07.05.00:660][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.08.16-07.05.00:662][219]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.16-07.05.01:082][246]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP19)
+[2022.08.16-07.05.01:395][264]Cmd: DELETE
+[2022.08.16-07.05.01:395][264]Cmd: ACTOR DELETE
+[2022.08.16-07.05.01:405][264]LogEditorActor: Deleted Actor: PatientBP_C
+[2022.08.16-07.05.01:421][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.16-07.05.01:422][264]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.08.16-07.05.09:824][795]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP6)
+[2022.08.16-07.05.11:775][902]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP5)
+[2022.08.16-07.05.15:895][146]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP6)
+[2022.08.16-07.05.25:108][682]LogTexture: Display: Building textures: EllieAdams_85-Female_ (BGRA8, 2006X3006)
+[2022.08.16-07.05.28:885][947]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2022.08.16-07.05.55:199][  3]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP7)
+[2022.08.16-07.06.15:546][428]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP8)
+[2022.08.16-07.06.23:278][920]LogTexture: Display: Building textures: BenWoodward_32-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.06.42:047][422]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP9)
+[2022.08.16-07.06.51:627][996]LogTexture: Display: Building textures: LacieAmos_37-Female_ (BGRA8, 2006X3006)
+[2022.08.16-07.08.57:028][285]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP10)
+[2022.08.16-07.09.05:956][826]LogTexture: Display: Building textures: AwaisAyala_35-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.09.34:012][ 94]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP11)
+[2022.08.16-07.09.47:787][958]LogTexture: Display: Building textures: IsabellaGrey_26-Female_ (BGRA8, 2006X3006)
+[2022.08.16-07.10.09:171][595]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP12)
+[2022.08.16-07.10.34:092][307]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP10)
+[2022.08.16-07.10.34:585][336]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP13)
+[2022.08.16-07.10.38:743][580]LogTexture: Display: Building textures: AaronSmith_44-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.10.48:646][348]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP14)
+[2022.08.16-07.10.55:604][750]LogTexture: Display: Building textures: AdamWhite_73-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.10.59:161][ 12]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP15)
+[2022.08.16-07.11.00:273][ 70]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP14)
+[2022.08.16-07.11.09:516][799]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP15)
+[2022.08.16-07.11.17:639][275]LogTexture: Display: Building textures: JaydenCollins_39-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.11.37:507][ 79]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP16)
+[2022.08.16-07.11.41:976][344]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP15)
+[2022.08.16-07.12.20:618][141]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP16)
+[2022.08.16-07.12.35:951][170]LogTexture: Display: Building textures: DavidAllen_45-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.12.38:373][344]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP17)
+[2022.08.16-07.12.41:675][534]LogTexture: Display: Building textures: DillionFord_65-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.13.03:668][129]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP18)
+[2022.08.16-07.13.10:243][516]LogTexture: Display: Building textures: CormacRamirez_15-Male_ (BGRA8, 2006X3006)
+[2022.08.16-07.13.41:475][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.13.41:493][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.16-07.13.41:614][ 50]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5E6C1497A4A4DCD3E0FFBFC99089EFFF9.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.13.41:638][ 50]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.13.41:638][ 50]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.13.46:516][344]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.16-07.14.08:696][862]LogEditorViewport: Clicking on Actor (LMB): PatientBP_C (PatientBP18)
+[2022.08.16-07.14.15:743][293]LogEditorViewport: Clicking on Actor (LMB): MangementComputerBP_C (MangementComputerBP)
+[2022.08.16-07.14.19:625][574]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/Levels/Shift5.Shift5:PersistentLevel.Shift5
+[2022.08.16-07.14.25:156][882]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.14.25:198][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.16-07.14.25:600][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.14.25:614][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.16-07.14.25:727][907]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5799704854B3DDB16B71FA392A6A3DB79.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.14.25:738][907]LogFileHelpers: Saving map 'Shift5' took 0.139
+[2022.08.16-07.14.25:747][907]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.14.25:747][907]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.14.34:466][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.16-07.15.21:354][181]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.16-07.15.21:425][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.16-07.15.21:631][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/MangementComputerBP" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset" SILENT=true
+[2022.08.16-07.15.21:655][193]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/MangementComputerBPC5F77AD14881092F718E42812D1DC13E.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.16-07.15.21:664][193]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.16-07.15.21:664][193]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.16-07.15.59:020][668]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.16-07.15.59:093][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.16-07.16.27:140][339]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.16-07.16.27:212][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.16-07.16.27:581][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/MangementComputerBP" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset" SILENT=true
+[2022.08.16-07.16.27:605][359]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/MangementComputerBP92E1D25641EB159F9156DF8BE6289C2A.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.16-07.16.27:615][359]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.16-07.16.27:615][359]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.16-07.17.12:382][890]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.16-07.17.12:460][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.08.16-07.17.12:836][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/MangementComputerBP" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset" SILENT=true
+[2022.08.16-07.17.12:864][910]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/MangementComputerBPC8F2CE814CAA4AC7F349C3924F601B3D.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.16-07.17.12:875][910]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.16-07.17.12:875][910]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.16-07.18.12:979][734]BlueprintLog: New page: Compile MangementComputerBP
+[2022.08.16-07.18.13:052][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.08.16-07.18.13:328][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Blueprints/MangementComputerBP" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset" SILENT=true
+[2022.08.16-07.18.13:355][750]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/MangementComputerBPCCD090C645F044771C8CADAC86FF0475.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Blueprints/MangementComputerBP.uasset'
+[2022.08.16-07.18.13:365][750]AssetCheck: New page: Asset Save: MangementComputerBP
+[2022.08.16-07.18.13:365][750]LogContentValidation: Display: Validating Blueprint /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP
+[2022.08.16-07.19.10:509][556]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.19.10:560][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.08.16-07.19.10:954][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.19.10:970][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.08.16-07.19.11:079][582]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift568696D08457FB2855FE25DB97C8FEEAA.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.19.11:093][582]LogFileHelpers: Saving map 'Shift5' took 0.140
+[2022.08.16-07.19.11:102][582]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.19.11:102][582]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.19.36:929][748]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.19.36:968][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.08.16-07.19.37:384][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.19.37:401][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.16-07.19.37:510][773]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift55FFAA8434CF7C31B85B0D38DFAC15DE1.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.19.37:521][773]LogFileHelpers: Saving map 'Shift5' took 0.138
+[2022.08.16-07.19.37:530][773]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.19.37:530][773]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.20.20:156][372]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.20.20:197][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.16-07.20.20:508][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.20.20:524][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.08.16-07.20.20:644][391]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift55FF1B8884B8905158BD92588577CDA31.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.20.20:656][391]LogFileHelpers: Saving map 'Shift5' took 0.148
+[2022.08.16-07.20.20:667][391]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.20.20:667][391]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.20.33:514][321]LogContentBrowser: Deferred new asset file creation: Emergency_L4_4
+[2022.08.16-07.20.33:531][321]LogContentBrowser: Creating deferred item: Emergency_L4_4
+[2022.08.16-07.20.34:828][398]LogContentBrowser: Attempting asset rename: Emergency_L4_4 -> Emergency_L4_4
+[2022.08.16-07.20.34:854][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.08.16-07.20.34:861][398]LogContentBrowser: End creating deferred item Emergency_L4_4
+[2022.08.16-07.20.44:727][130]LogContentBrowser: Attempting asset rename: Emergency_L4_4 -> Emergency_L5_1
+[2022.08.16-07.20.44:747][130]LogMetaData: Removing '/Game/Triage/Widgets/Emergency_L5_1.SKEL_Emergency_L5_1_C' ref from Metadata '/Game/Triage/Widgets/Emergency_L4_4.PackageMetaData'
+[2022.08.16-07.20.44:747][130]LogMetaData: Removing '/Game/Triage/Widgets/Emergency_L5_1.Emergency_L5_1_C' ref from Metadata '/Game/Triage/Widgets/Emergency_L4_4.PackageMetaData'
+[2022.08.16-07.20.44:747][130]LogMetaData: Removing '/Game/Triage/Widgets/Emergency_L5_1.SKEL_Emergency_L5_1_C:Construct' ref from Metadata '/Game/Triage/Widgets/Emergency_L4_4.PackageMetaData'
+[2022.08.16-07.20.44:747][130]LogMetaData: Removing '/Game/Triage/Widgets/Emergency_L5_1.SKEL_Emergency_L5_1_C:EventFadeIn' ref from Metadata '/Game/Triage/Widgets/Emergency_L4_4.PackageMetaData'
+[2022.08.16-07.20.44:747][130]LogMetaData: Removing '/Game/Triage/Widgets/Emergency_L5_1.SKEL_Emergency_L5_1_C:EventFadeOut' ref from Metadata '/Game/Triage/Widgets/Emergency_L4_4.PackageMetaData'
+[2022.08.16-07.20.44:747][130]LogMetaData: Removing '/Game/Triage/Widgets/Emergency_L5_1.Emergency_L5_1_C:Construct' ref from Metadata '/Game/Triage/Widgets/Emergency_L4_4.PackageMetaData'
+[2022.08.16-07.20.44:755][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_1" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_1.uasset" SILENT=true
+[2022.08.16-07.20.44:765][130]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_1D4AB557A4BCEAEB2C4F02E97310266CD.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_1.uasset'
+[2022.08.16-07.20.44:813][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.08.16-07.20.44:836][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.08.16-07.20.44:852][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.16-07.20.44:891][130]AssetCheck: New page: Asset Save: Emergency_L5_1
+[2022.08.16-07.20.44:891][130]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_1.Emergency_L5_1
+[2022.08.16-07.20.46:045][205]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_1.Emergency_L5_1
+[2022.08.16-07.20.47:365][265]LogSlate: Took 0.012384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.16-07.21.45:607][657]BlueprintLog: New page: Compile Emergency_L5_1
+[2022.08.16-07.21.45:648][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.16-07.21.45:944][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_1" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_1.uasset" SILENT=true
+[2022.08.16-07.21.45:954][676]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_156BBB46B492DBD0C971B0A8974A5DFAC.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_1.uasset'
+[2022.08.16-07.21.45:963][676]AssetCheck: New page: Asset Save: Emergency_L5_1
+[2022.08.16-07.21.45:963][676]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_1.Emergency_L5_1
+[2022.08.16-07.22.01:665][624]BlueprintLog: New page: Compile Emergency_L5_1
+[2022.08.16-07.22.01:695][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.16-07.22.02:002][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_1" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_1.uasset" SILENT=true
+[2022.08.16-07.22.02:013][643]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_15C2807E14D41BFE3B9740BA54DB023FD.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_1.uasset'
+[2022.08.16-07.22.02:021][643]AssetCheck: New page: Asset Save: Emergency_L5_1
+[2022.08.16-07.22.02:022][643]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_1.Emergency_L5_1
+[2022.08.16-07.22.06:899][913]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-07.22.24:814][412]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.22.24:865][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.16-07.22.25:086][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.22.25:104][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.08.16-07.22.25:218][427]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5E3470EB042E0378D9490CF9F7E767FAE.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.22.25:230][427]LogFileHelpers: Saving map 'Shift5' took 0.143
+[2022.08.16-07.22.25:240][427]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.22.25:240][427]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.22.26:876][522]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.22.26:876][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.22.26:883][522]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.22.26:883][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.22.30:201][788]LogContentBrowser: Deferred new asset file creation: Emergency_L5_2
+[2022.08.16-07.22.30:219][788]LogContentBrowser: Creating deferred item: Emergency_L5_2
+[2022.08.16-07.22.30:924][831]LogContentBrowser: Attempting asset rename: Emergency_L5_2 -> Emergency_L5_2
+[2022.08.16-07.22.30:955][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.16-07.22.30:962][831]LogContentBrowser: End creating deferred item Emergency_L5_2
+[2022.08.16-07.22.31:487][869]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_2.Emergency_L5_2
+[2022.08.16-07.23.04:601][760]BlueprintLog: New page: Compile Emergency_L5_2
+[2022.08.16-07.23.04:624][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.16-07.23.04:966][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_2" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_2.uasset" SILENT=true
+[2022.08.16-07.23.04:976][783]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_23E33CDF84DF24739E23CAC88C98F32A6.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_2.uasset'
+[2022.08.16-07.23.04:985][783]AssetCheck: New page: Asset Save: Emergency_L5_2
+[2022.08.16-07.23.04:985][783]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_2.Emergency_L5_2
+[2022.08.16-07.23.12:748][238]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.16-07.23.12:762][238]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-07.23.26:555][456]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.23.26:599][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.08.16-07.23.26:848][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.23.26:867][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.16-07.23.26:980][472]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift56B16183947B094E54569988607D8E197.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.23.26:991][472]LogFileHelpers: Saving map 'Shift5' took 0.144
+[2022.08.16-07.23.27:002][472]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.23.27:002][472]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.23.29:263][631]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.23.29:263][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.23.29:270][631]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.23.29:270][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.23.32:409][866]LogContentBrowser: Deferred new asset file creation: Emergency_L5_3
+[2022.08.16-07.23.32:423][866]LogContentBrowser: Creating deferred item: Emergency_L5_3
+[2022.08.16-07.23.32:855][892]LogContentBrowser: Attempting asset rename: Emergency_L5_3 -> Emergency_L5_3
+[2022.08.16-07.23.32:885][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.16-07.23.32:892][892]LogContentBrowser: End creating deferred item Emergency_L5_3
+[2022.08.16-07.23.33:446][929]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.24.10:155][ 67]BlueprintLog: New page: Compile Emergency_L5_3
+[2022.08.16-07.24.10:177][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.16-07.24.10:571][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset" SILENT=true
+[2022.08.16-07.24.10:581][ 92]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_38D00E40B46988CD062F98B9A34D33554.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset'
+[2022.08.16-07.24.10:590][ 92]AssetCheck: New page: Asset Save: Emergency_L5_3
+[2022.08.16-07.24.10:590][ 92]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.24.35:780][556]BlueprintLog: New page: Compile Emergency_L5_3
+[2022.08.16-07.24.35:815][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.16-07.24.36:257][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset" SILENT=true
+[2022.08.16-07.24.36:268][587]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_3F8709AFE4273A9E303EAF3AFAFFCEF2C.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset'
+[2022.08.16-07.24.36:277][587]AssetCheck: New page: Asset Save: Emergency_L5_3
+[2022.08.16-07.24.36:277][587]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.24.39:855][786]LogEditorTransaction: Undo Edit Text
+[2022.08.16-07.24.57:183][819]BlueprintLog: New page: Compile Emergency_L5_3
+[2022.08.16-07.24.57:215][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.16-07.24.57:654][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset" SILENT=true
+[2022.08.16-07.24.57:664][846]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_39F63F4ED4F4B5A4FE7C13C9BE6A8291D.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset'
+[2022.08.16-07.24.57:673][846]AssetCheck: New page: Asset Save: Emergency_L5_3
+[2022.08.16-07.24.57:673][846]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.25.04:616][230]BlueprintLog: New page: Compile Emergency_L5_3
+[2022.08.16-07.25.04:657][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.16-07.25.04:940][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset" SILENT=true
+[2022.08.16-07.25.04:950][247]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_384C2DDDC4EB5FEE0C2A2FBB89658D1DD.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset'
+[2022.08.16-07.25.04:959][247]AssetCheck: New page: Asset Save: Emergency_L5_3
+[2022.08.16-07.25.04:959][247]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.25.25:264][569]BlueprintLog: New page: Compile Emergency_L5_3
+[2022.08.16-07.25.25:297][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.16-07.25.25:679][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset" SILENT=true
+[2022.08.16-07.25.25:690][593]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_3C3CBCDFD47AEC067375F18AC352CA9A2.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset'
+[2022.08.16-07.25.25:698][593]AssetCheck: New page: Asset Save: Emergency_L5_3
+[2022.08.16-07.25.25:698][593]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.25.42:623][609]BlueprintLog: New page: Compile Emergency_L5_3
+[2022.08.16-07.25.42:657][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.08.16-07.25.42:933][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_3" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset" SILENT=true
+[2022.08.16-07.25.42:944][627]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_3BAB504504197FE8DBD998789D423E43B.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_3.uasset'
+[2022.08.16-07.25.42:953][627]AssetCheck: New page: Asset Save: Emergency_L5_3
+[2022.08.16-07.25.42:953][627]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_3.Emergency_L5_3
+[2022.08.16-07.25.44:593][718]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.16-07.25.44:608][718]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-07.26.00:273][ 28]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.26.00:318][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.08.16-07.26.00:777][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.26.00:795][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.16-07.26.00:914][ 56]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift588B52E69431A582D23409794F433FC08.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.26.00:925][ 56]LogFileHelpers: Saving map 'Shift5' took 0.149
+[2022.08.16-07.26.00:936][ 56]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.26.00:936][ 56]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.26.02:584][151]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.26.02:584][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.26.02:591][151]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.26.02:591][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.26.06:984][462]LogContentBrowser: Deferred new asset file creation: Emergency_L5_4
+[2022.08.16-07.26.07:001][462]LogContentBrowser: Creating deferred item: Emergency_L5_4
+[2022.08.16-07.26.07:538][496]LogContentBrowser: Attempting asset rename: Emergency_L5_4 -> Emergency_L5_4
+[2022.08.16-07.26.07:569][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.08.16-07.26.07:576][496]LogContentBrowser: End creating deferred item Emergency_L5_4
+[2022.08.16-07.26.07:991][525]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_4.Emergency_L5_4
+[2022.08.16-07.26.38:110][313]BlueprintLog: New page: Compile Emergency_L5_4
+[2022.08.16-07.26.38:132][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.16-07.26.38:534][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_4" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_4.uasset" SILENT=true
+[2022.08.16-07.26.38:545][339]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_4BA2ECF614FD427CCB7FB6DB567579B96.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_4.uasset'
+[2022.08.16-07.26.38:555][339]AssetCheck: New page: Asset Save: Emergency_L5_4
+[2022.08.16-07.26.38:555][339]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_4.Emergency_L5_4
+[2022.08.16-07.27.01:830][682]BlueprintLog: New page: Compile Emergency_L5_4
+[2022.08.16-07.27.01:864][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.16-07.27.02:239][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Emergency_L5_4" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_4.uasset" SILENT=true
+[2022.08.16-07.27.02:249][707]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Emergency_L5_4F62E7B814D0E4AC9DD0B5F8DA6DDCCE6.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Emergency_L5_4.uasset'
+[2022.08.16-07.27.02:258][707]AssetCheck: New page: Asset Save: Emergency_L5_4
+[2022.08.16-07.27.02:258][707]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Emergency_L5_4.Emergency_L5_4
+[2022.08.16-07.27.11:222][213]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.16-07.27.11:237][213]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-07.27.28:329][662]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.27.28:376][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.16-07.27.28:711][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.27.28:730][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.08.16-07.27.28:844][685]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5F2550FA14887F5122F11E1816984DB38.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.27.28:854][685]LogFileHelpers: Saving map 'Shift5' took 0.144
+[2022.08.16-07.27.28:863][685]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.27.28:863][685]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.27.29:272][712]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.27.29:272][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.27.29:279][712]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.27.29:279][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.27.29:954][753]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.27.29:954][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.27.30:585][791]LogSlate: Window 'Shift5' being destroyed
+[2022.08.16-07.27.30:592][791]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.27.30:592][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.27.33:647][981]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-07.27.33:653][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-07.27.33:653][981]PIE: New page: PIE session: Shift5 (17 Aug 2022, 3:27:33 am)
+[2022.08.16-07.27.33:654][981]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.27.33:684][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030799s)
+[2022.08.16-07.27.33:685][981]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-07.27.33:686][981]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2022.08.16-07.27.33:686][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift5.Shift5 to /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 (0.031931s)
+[2022.08.16-07.27.33:708][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.16-07.27.33:711][981]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-07.27.33:711][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-07.27.33:711][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-07.27.33:711][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-07.27.33:711][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-07.27.33:711][981]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-07.27.33:713][981]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-07.27.33:713][981]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-07.27.33:720][981]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-07.27.33:720][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-07.27.33:720][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-07.27.33:720][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-07.27.33:720][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-07.27.33:720][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-07.27.33:720][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-07.27.33:721][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-07.27.33:721][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-07.27.33:721][981]LogInit: FAudioDevice initialized.
+[2022.08.16-07.27.33:721][981]LogAudio: Display: Audio Device (ID: 13) registered with world 'Shift5'.
+[2022.08.16-07.27.33:732][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.27.33:732][981]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-07.27.33:742][981]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 up for play (max tick rate 0) at 2022.08.16-17.27.33
+[2022.08.16-07.27.33:744][981]LogWorld: Bringing up level for play took: 0.011230
+[2022.08.16-07.27.33:744][981]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.08.16-07.27.33:749][981]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-07.27.33:751][981]PIE: Server logged in
+[2022.08.16-07.27.33:752][981]PIE: Play in editor total start time 0.099 seconds.
+[2022.08.16-07.27.41:792][501]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.27.41:792][501]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.27.42:563][551]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.27.42:563][551]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.27.47:596][877]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.27.47:596][877]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.27.48:699][950]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.27.48:699][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.27.54:651][330]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.27.54:651][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.27.57:704][531]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.27.57:704][531]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.02:612][846]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.02:612][846]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.04:255][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.04:255][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.04:604][973]PIE: Warning: MangementComputerBP_2.ComputerMesh SM_Prop_Computer_Monitor_05 has to have 'Simulate Physics' enabled if you'd like to GetMass. 
+[2022.08.16-07.28.09:183][267]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.09:183][267]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.10:154][330]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.10:154][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.10:658][363]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.10:658][363]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.12:512][484]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.12:512][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.12:865][506]PIE: Warning: MangementComputerBP_2.ComputerMesh SM_Prop_Computer_Monitor_05 has to have 'Simulate Physics' enabled if you'd like to GetMass. 
+[2022.08.16-07.28.18:121][842]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.18:121][842]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.19:285][916]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.19:285][916]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.24:399][245]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.24:399][245]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.25:688][329]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.25:688][329]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.30:875][657]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.30:875][657]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.32:589][768]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.32:589][768]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.37:341][ 69]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.37:341][ 69]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.38:415][137]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.38:415][137]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.43:171][437]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.43:171][437]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.43:999][489]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.43:999][489]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.49:202][819]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.49:202][819]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.51:621][974]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.51:621][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.28.56:646][294]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.28.56:646][294]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.28.57:775][364]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.28.57:775][364]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.02:681][672]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.02:681][672]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.29.03:260][708]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.29.03:260][708]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.08:088][ 16]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.08:088][ 16]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.29.09:344][ 96]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.29.09:345][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.14:866][449]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.14:866][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.29.15:808][509]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.29.15:808][509]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.16:302][540]PIE: Warning: MangementComputerBP_2.ComputerMesh SM_Prop_Computer_Monitor_05 has to have 'Simulate Physics' enabled if you'd like to GetMass. 
+[2022.08.16-07.29.21:506][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.21:506][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.29.23:038][967]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.29.23:038][967]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.32:153][541]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.32:153][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.29.33:239][609]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.29.33:239][609]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.38:204][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.38:204][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.29.38:999][972]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.29.38:999][972]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.29.39:510][  3]PIE: Warning: MangementComputerBP_2.ComputerMesh SM_Prop_Computer_Monitor_05 has to have 'Simulate Physics' enabled if you'd like to GetMass. 
+[2022.08.16-07.29.40:927][ 90]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatientArray' of length 0 in '/Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP_C'!
+[2022.08.16-07.29.40:927][ 90]LogScript: Warning: Accessed None trying to read property CurrentPatient
+	MangementComputerBP_C /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5:PersistentLevel.MangementComputerBP_2
+	Function /Game/Triage/Blueprints/MangementComputerBP.MangementComputerBP_C:ExecuteUbergraph_MangementComputerBP:00AA
+[2022.08.16-07.29.40:927][ 90]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentPatient". Blueprint:  MangementComputerBP Function:  Execute Ubergraph Mangement Computer BP Graph:  EventGraph Node:  Go to Desk
+[2022.08.16-07.29.40:989][ 94]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.08.16-07.29.40:990][ 94]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.29.40:990][ 94]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.08.16-07.29.40:991][ 94]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.16-07.29.46:505][754]LogNet: Browse: /Game/Triage/Levels/MainMenu
+[2022.08.16-07.29.46:505][754]LogLoad: LoadMap: /Game/Triage/Levels/MainMenu
+[2022.08.16-07.29.46:505][754]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.29.46:506][754]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.29.46:509][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.29.46:555][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-07.29.46:562][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.08.16-07.29.46:602][754]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2022.08.16-07.29.46:603][754]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.16-07.29.46:603][754]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.16-07.29.46:618][754]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.08.16-17.29.46
+[2022.08.16-07.29.46:618][754]LogWorld: Bringing up level for play took: 0.014119
+[2022.08.16-07.29.46:621][754]LogLoad: Took 0.115061 seconds to LoadMap(/Game/Triage/Levels/MainMenu)
+[2022.08.16-07.29.46:649][754]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.16-07.29.48:499][869]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.08.16-07.29.49:394][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.29.49:394][924]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_MainMenu
+[2022.08.16-07.29.49:394][924]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-07.29.49:398][924]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.29.49:400][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.29.49:407][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-07.29.49:414][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.29.49:427][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.29.49:428][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.29.49:433][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.16-07.29.49:491][925]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.08.16-07.29.51:082][ 19]LogSlate: Window 'Message Log' being destroyed
+[2022.08.16-07.29.51:084][ 19]LogSlate: Window 'Message Log' being destroyed
+[2022.08.16-07.29.58:615][573]LogContentBrowser: Deferred new asset file creation: Shift4Complete1
+[2022.08.16-07.29.58:664][573]LogContentBrowser: Creating deferred item: Shift4Complete1
+[2022.08.16-07.30.03:693][ 21]LogContentBrowser: Attempting asset rename: Shift4Complete1 -> Shift5Complete
+[2022.08.16-07.30.03:712][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.16-07.30.03:724][ 21]LogContentBrowser: End creating deferred item Shift4Complete1
+[2022.08.16-07.30.04:660][ 84]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.16-07.30.17:351][795]BlueprintLog: New page: Compile Shift5Complete
+[2022.08.16-07.30.17:372][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.08.16-07.30.17:812][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Shift5Complete" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset" SILENT=true
+[2022.08.16-07.30.17:831][824]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5Complete6BD650F1488AEFC5F4DDA686E80B0AA4.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset'
+[2022.08.16-07.30.17:843][824]AssetCheck: New page: Asset Save: Shift5Complete
+[2022.08.16-07.30.17:843][824]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.16-07.31.14:585][115]BlueprintLog: New page: Compile Shift5Complete
+[2022.08.16-07.31.14:620][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.16-07.31.14:999][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Shift5Complete" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset" SILENT=true
+[2022.08.16-07.31.15:016][137]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5Complete471389D3457C8ED34EF5B0BB4C074655.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset'
+[2022.08.16-07.31.15:025][137]AssetCheck: New page: Asset Save: Shift5Complete
+[2022.08.16-07.31.15:025][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.16-07.31.20:322][486]BlueprintLog: New page: Compile Shift5Complete
+[2022.08.16-07.31.20:352][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.16-07.31.31:769][193]BlueprintLog: New page: Compile Shift5Complete
+[2022.08.16-07.31.31:794][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.16-07.31.32:116][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Shift5Complete" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset" SILENT=true
+[2022.08.16-07.31.32:133][214]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5Complete01259D3A4E1E4F666FD337AD803B799A.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset'
+[2022.08.16-07.31.32:142][214]AssetCheck: New page: Asset Save: Shift5Complete
+[2022.08.16-07.31.32:143][214]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.16-07.31.35:244][390]LogSlate: Window 'Shift5Complete' being destroyed
+[2022.08.16-07.31.35:252][390]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.31.35:252][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.31.35:260][390]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.31.35:260][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.31.36:726][513]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/Levels/Shift5.Shift5:PersistentLevel.Shift5
+[2022.08.16-07.31.42:577][948]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.16-07.31.42:592][948]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-07.31.45:706][256]BlueprintLog: New page: Compile Shift5
+[2022.08.16-07.31.45:751][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.08.16-07.31.46:004][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.31.46:019][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.16-07.31.46:132][273]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift585AD077744F807B393FD95B8A97241F4.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.31.46:143][273]LogFileHelpers: Saving map 'Shift5' took 0.139
+[2022.08.16-07.31.46:151][273]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.31.46:152][273]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.31.48:073][398]LogSlate: Window 'Shift5' being destroyed
+[2022.08.16-07.31.48:082][398]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.31.48:082][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.31.49:232][464]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Shift4Complete.Shift4Complete
+[2022.08.16-07.31.55:017][789]BlueprintLog: New page: Compile Shift4Complete
+[2022.08.16-07.31.55:044][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.16-07.31.55:321][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Shift4Complete" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift4Complete.uasset" SILENT=true
+[2022.08.16-07.31.55:338][807]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift4Complete6F48DD18467C983DE509C0B2757B430F.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift4Complete.uasset'
+[2022.08.16-07.31.55:347][807]AssetCheck: New page: Asset Save: Shift4Complete
+[2022.08.16-07.31.55:347][807]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Shift4Complete.Shift4Complete
+[2022.08.16-07.31.58:722][ 36]LogSlate: Window 'Shift4Complete' being destroyed
+[2022.08.16-07.31.58:728][ 36]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.31.58:728][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.31.58:735][ 36]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.31.58:735][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.32.01:397][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/MainMenuWidget.MainMenuWidget
+[2022.08.16-07.32.20:092][480]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.16-07.32.20:106][480]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.16-07.32.30:040][ 93]BlueprintLog: New page: Compile MainMenuWidget
+[2022.08.16-07.32.30:074][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.08.16-07.32.30:397][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/MainMenuWidget" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/MainMenuWidget.uasset" SILENT=true
+[2022.08.16-07.32.30:444][111]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/MainMenuWidget0992CEE945ED631FDF1CB28AAF25BFF4.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/MainMenuWidget.uasset'
+[2022.08.16-07.32.30:455][111]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.08.16-07.32.30:455][111]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/MainMenuWidget.MainMenuWidget
+[2022.08.16-07.32.41:658][779]BlueprintLog: New page: Compile MainMenuWidget
+[2022.08.16-07.32.41:695][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.16-07.32.41:983][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/MainMenuWidget" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/MainMenuWidget.uasset" SILENT=true
+[2022.08.16-07.32.42:031][796]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/MainMenuWidget4533BFE445DFD780BCB75984FE2541FD.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/MainMenuWidget.uasset'
+[2022.08.16-07.32.42:040][796]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.08.16-07.32.42:040][796]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/MainMenuWidget.MainMenuWidget
+[2022.08.16-07.32.47:164][ 93]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.08.16-07.32.47:168][ 93]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.08.16-07.32.47:171][ 93]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.32.47:171][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.32.47:179][ 93]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.32.47:179][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.32.54:852][564]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (cubiclePost)
+[2022.08.16-07.33.08:770][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.33.08:787][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.16-07.33.08:914][452]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5A2E549174B5098B4933AD8AD6A12B5F8.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.33.08:937][452]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.33.08:937][452]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.16-07.33.09:499][490]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-07.33.09:506][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-07.33.09:506][490]PIE: New page: PIE session: Shift5 (17 Aug 2022, 3:33:09 am)
+[2022.08.16-07.33.09:506][490]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.33.09:537][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030654s)
+[2022.08.16-07.33.09:538][490]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-07.33.09:538][490]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2022.08.16-07.33.09:538][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift5.Shift5 to /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 (0.031704s)
+[2022.08.16-07.33.09:554][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.16-07.33.09:555][490]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-07.33.09:555][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-07.33.09:555][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-07.33.09:556][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-07.33.09:556][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-07.33.09:556][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-07.33.09:556][490]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-07.33.09:558][490]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-07.33.09:558][490]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-07.33.09:565][490]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-07.33.09:565][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-07.33.09:565][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-07.33.09:565][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-07.33.09:566][490]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-07.33.09:566][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-07.33.09:566][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-07.33.09:567][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-07.33.09:567][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-07.33.09:567][490]LogInit: FAudioDevice initialized.
+[2022.08.16-07.33.09:567][490]LogAudio: Display: Audio Device (ID: 14) registered with world 'Shift5'.
+[2022.08.16-07.33.09:584][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.33.09:585][490]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-07.33.09:594][490]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 up for play (max tick rate 0) at 2022.08.16-17.33.09
+[2022.08.16-07.33.09:596][490]LogWorld: Bringing up level for play took: 0.011062
+[2022.08.16-07.33.09:596][490]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.08.16-07.33.09:601][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-07.33.09:603][490]PIE: Server logged in
+[2022.08.16-07.33.09:604][490]PIE: Play in editor total start time 0.099 seconds.
+[2022.08.16-07.33.17:253][982]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.33.17:253][982]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.33.18:223][ 46]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.33.18:223][ 46]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.33.24:283][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.33.24:283][439]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.33.24:283][439]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-07.33.24:288][439]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.33.24:290][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.33.24:297][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-07.33.24:330][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.33.24:344][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.33.24:345][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.33.24:351][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.08.16-07.33.24:385][440]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.08.16-07.33.29:174][736]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-07.33.29:180][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-07.33.29:181][736]PIE: New page: PIE session: Shift5 (17 Aug 2022, 3:33:29 am)
+[2022.08.16-07.33.29:181][736]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.33.29:212][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031315s)
+[2022.08.16-07.33.29:213][736]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-07.33.29:213][736]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2022.08.16-07.33.29:213][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift5.Shift5 to /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 (0.032376s)
+[2022.08.16-07.33.29:228][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.16-07.33.29:231][736]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-07.33.29:231][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-07.33.29:231][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-07.33.29:232][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-07.33.29:232][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-07.33.29:232][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-07.33.29:232][736]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-07.33.29:233][736]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-07.33.29:233][736]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-07.33.29:239][736]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-07.33.29:240][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-07.33.29:240][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-07.33.29:240][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-07.33.29:240][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-07.33.29:240][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-07.33.29:240][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-07.33.29:241][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-07.33.29:241][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-07.33.29:241][736]LogInit: FAudioDevice initialized.
+[2022.08.16-07.33.29:241][736]LogAudio: Display: Audio Device (ID: 15) registered with world 'Shift5'.
+[2022.08.16-07.33.29:257][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.33.29:258][736]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-07.33.29:267][736]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 up for play (max tick rate 0) at 2022.08.16-17.33.29
+[2022.08.16-07.33.29:269][736]LogWorld: Bringing up level for play took: 0.010538
+[2022.08.16-07.33.29:269][736]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.08.16-07.33.29:273][736]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-07.33.29:275][736]PIE: Server logged in
+[2022.08.16-07.33.29:276][736]PIE: Play in editor total start time 0.096 seconds.
+[2022.08.16-07.33.33:073][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.33.33:073][972]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.33.33:074][972]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-07.33.33:079][972]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.33.33:081][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.33.33:087][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-07.33.33:111][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.33.33:124][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.33.33:125][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.33.33:130][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.08.16-07.33.33:163][973]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.08.16-07.33.35:291][104]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.16-07.33.35:297][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.16-07.33.35:297][104]PIE: New page: PIE session: Shift5 (17 Aug 2022, 3:33:35 am)
+[2022.08.16-07.33.35:297][104]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.33.35:328][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030658s)
+[2022.08.16-07.33.35:329][104]LogAIModule: Creating AISystem for world Shift5
+[2022.08.16-07.33.35:329][104]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2022.08.16-07.33.35:329][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Shift5.Shift5 to /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 (0.031711s)
+[2022.08.16-07.33.35:344][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.08.16-07.33.35:346][104]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-07.33.35:346][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-07.33.35:346][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-07.33.35:346][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-07.33.35:346][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-07.33.35:346][104]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.16-07.33.35:347][104]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.16-07.33.35:348][104]LogAudioMixer: Display: 1: FrontRight
+[2022.08.16-07.33.35:353][104]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.16-07.33.35:353][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-07.33.35:353][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-07.33.35:353][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-07.33.35:353][104]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.16-07.33.35:353][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.16-07.33.35:353][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.16-07.33.35:354][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.16-07.33.35:354][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.16-07.33.35:354][104]LogInit: FAudioDevice initialized.
+[2022.08.16-07.33.35:354][104]LogAudio: Display: Audio Device (ID: 16) registered with world 'Shift5'.
+[2022.08.16-07.33.35:374][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.33.35:374][104]LogLoad: Game class is 'TriageGM_C'
+[2022.08.16-07.33.35:382][104]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Shift5.Shift5 up for play (max tick rate 0) at 2022.08.16-17.33.35
+[2022.08.16-07.33.35:384][104]LogWorld: Bringing up level for play took: 0.009672
+[2022.08.16-07.33.35:384][104]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.08.16-07.33.35:389][104]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.16-07.33.35:391][104]PIE: Server logged in
+[2022.08.16-07.33.35:392][104]PIE: Play in editor total start time 0.096 seconds.
+[2022.08.16-07.33.43:605][631]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.33.43:605][631]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.33.44:720][704]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.33.44:720][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.33.46:340][810]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.16-07.33.46:340][810]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.16-07.33.47:078][859]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.08.16-07.33.47:078][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.16-07.33.50:443][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-07.33.50:443][ 79]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Shift5
+[2022.08.16-07.33.50:444][ 79]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.16-07.33.50:448][ 79]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-07.33.50:451][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.33.50:456][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.16-07.33.50:479][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-07.33.50:493][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.33.50:494][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.16-07.33.50:500][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.08.16-07.33.50:527][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.08.16-07.33.53:102][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.16-07.33.53:113][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Shift5" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.16-07.33.53:125][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.16-07.33.53:237][299]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5147EA0294D1CDAB614D5B0963914F0B7.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap'
+[2022.08.16-07.33.53:248][299]LogFileHelpers: Saving map 'Shift5' took 0.136
+[2022.08.16-07.33.53:256][299]AssetCheck: New page: Asset Save: Shift5
+[2022.08.16-07.33.53:257][299]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
