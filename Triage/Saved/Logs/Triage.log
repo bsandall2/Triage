@@ -1673,3 +1673,1162 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.17-23.39.46:108][607]LogFileHelpers: Saving map 'Shift5' took 0.120
 [2022.08.17-23.39.46:114][607]AssetCheck: New page: Asset Save: Shift5
 [2022.08.17-23.39.46:114][607]LogContentValidation: Display: Validating World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.17-23.40.33:606][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.17-23.40.34:114][481]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/PhoneScene/Phone1.Phone1
+[2022.08.17-23.40.34:114][481]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-23.40.34:114][481]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.34:114][481]LoadErrors: New page: Loading map: Phone1.umap
+[2022.08.17-23.40.34:157][481]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.40.34:158][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.40.34:158][481]MapCheck: New page: Map Check
+[2022.08.17-23.40.34:158][481]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.34:169][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.40.34:175][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.08.17-23.40.34:176][481]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phone1'.
+[2022.08.17-23.40.34:201][481]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-23.40.34:201][481]LogAIModule: Creating AISystem for world Phone1
+[2022.08.17-23.40.34:209][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.17-23.40.34:217][481]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-23.40.34:217][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2022.08.17-23.40.34:217][481]LogFileHelpers: Loading map 'Phone1' took 0.104
+[2022.08.17-23.40.34:897][561]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.08.17-23.40.41:062][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.08.17-23.40.41:964][292]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/PhoneScene/Phone2.Phone2
+[2022.08.17-23.40.41:964][292]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-23.40.41:964][292]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.41:964][292]LoadErrors: New page: Loading map: Phone2.umap
+[2022.08.17-23.40.42:005][292]LogWorld: UWorld::CleanupWorld for Phone1, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.40.42:005][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.40.42:005][292]MapCheck: New page: Map Check
+[2022.08.17-23.40.42:005][292]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.42:015][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.40.42:018][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.08.17-23.40.42:018][292]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phone2'.
+[2022.08.17-23.40.42:048][292]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-23.40.42:048][292]LogAIModule: Creating AISystem for world Phone2
+[2022.08.17-23.40.42:056][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.17-23.40.42:063][292]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-23.40.42:063][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2022.08.17-23.40.42:063][292]LogFileHelpers: Loading map 'Phone2' took 0.099
+[2022.08.17-23.40.43:499][461]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.08.17-23.40.47:056][881]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.40.47:062][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.40.47:062][881]PIE: New page: PIE session: Phone2 (18 Aug 2022, 7:40:47 pm)
+[2022.08.17-23.40.47:062][881]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone2
+[2022.08.17-23.40.47:073][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010759s)
+[2022.08.17-23.40.47:074][881]LogAIModule: Creating AISystem for world Phone2
+[2022.08.17-23.40.47:074][881]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2022.08.17-23.40.47:074][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone2.Phone2 to /Game/Triage/PhoneScene/UEDPIE_0_Phone2.Phone2 (0.011558s)
+[2022.08.17-23.40.47:079][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.17-23.40.47:081][881]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.40.47:081][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.40.47:081][881]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.40.47:081][881]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.40.47:081][881]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.40.47:081][881]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.40.47:083][881]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.40.47:083][881]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.40.47:090][881]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.40.47:090][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.40.47:090][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.40.47:090][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.40.47:090][881]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.40.47:090][881]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.40.47:090][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.40.47:091][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.40.47:091][881]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.40.47:091][881]LogInit: FAudioDevice initialized.
+[2022.08.17-23.40.47:091][881]LogAudio: Display: Audio Device (ID: 8) registered with world 'Phone2'.
+[2022.08.17-23.40.47:098][881]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.40.47:099][881]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone2.Phone2 up for play (max tick rate 0) at 2022.08.18-09.40.47
+[2022.08.17-23.40.47:100][881]LogWorld: Bringing up level for play took: 0.001682
+[2022.08.17-23.40.47:100][881]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.08.17-23.40.47:101][881]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.40.47:105][881]PIE: Server logged in
+[2022.08.17-23.40.47:105][881]PIE: Play in editor total start time 0.044 seconds.
+[2022.08.17-23.40.49:898][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.40.49:898][207]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone2
+[2022.08.17-23.40.49:899][207]LogWorld: UWorld::CleanupWorld for Phone2, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.40.49:899][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.40.49:907][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.40.49:928][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.40.49:932][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.40.49:932][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.40.49:933][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.40.49:936][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.17-23.40.49:961][208]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.08.17-23.40.52:584][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.17-23.40.53:568][521]LogSlate: Window 'Save Content' being destroyed
+[2022.08.17-23.40.53:585][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.08.17-23.40.53:606][521]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Phone2CD423CC84273D9BBD07F08B4C8457471.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone2.umap'
+[2022.08.17-23.40.53:615][521]LogFileHelpers: Saving map 'Phone2' took 0.035
+[2022.08.17-23.40.54:831][521]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/PhoneScene/Phone3.Phone3
+[2022.08.17-23.40.54:831][521]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-23.40.54:831][521]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.54:831][521]LoadErrors: New page: Loading map: Phone3.umap
+[2022.08.17-23.40.54:875][521]LogWorld: UWorld::CleanupWorld for Phone2, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.40.54:875][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.40.54:875][521]MapCheck: New page: Map Check
+[2022.08.17-23.40.54:876][521]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.54:884][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.40.54:885][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.08.17-23.40.54:886][521]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phone3'.
+[2022.08.17-23.40.54:898][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-23.40.54:898][521]LogAIModule: Creating AISystem for world Phone3
+[2022.08.17-23.40.54:904][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.17-23.40.54:912][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-23.40.54:912][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2022.08.17-23.40.54:912][521]LogFileHelpers: Loading map 'Phone3' took 0.081
+[2022.08.17-23.40.54:923][521]AssetCheck: New page: Asset Save: Phone2
+[2022.08.17-23.40.54:923][521]LogContentValidation: Display: Validating World /Game/Triage/PhoneScene/Phone2.Phone2
+[2022.08.17-23.40.56:145][664]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.08.17-23.40.58:104][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.17-23.40.58:914][893]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/PhoneScene/Phone4.Phone4
+[2022.08.17-23.40.58:914][893]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-23.40.58:914][893]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.58:914][893]LoadErrors: New page: Loading map: Phone4.umap
+[2022.08.17-23.40.58:925][893]LogWorld: UWorld::CleanupWorld for Phone3, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.40.58:925][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.40.58:925][893]MapCheck: New page: Map Check
+[2022.08.17-23.40.58:925][893]LightingResults: New page: Lighting Build
+[2022.08.17-23.40.58:936][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.40.58:938][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.17-23.40.58:947][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.17-23.40.58:952][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.17-23.40.58:952][893]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phone4'.
+[2022.08.17-23.40.58:971][893]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-23.40.58:971][893]LogAIModule: Creating AISystem for world Phone4
+[2022.08.17-23.40.58:977][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.17-23.40.58:984][893]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-23.40.58:985][893]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2022.08.17-23.40.58:985][893]LogFileHelpers: Loading map 'Phone4' took 0.070
+[2022.08.17-23.41.01:621][206]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.08.17-23.41.03:855][468]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.41.03:862][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.41.03:862][468]PIE: New page: PIE session: Phone4 (18 Aug 2022, 7:41:03 pm)
+[2022.08.17-23.41.03:862][468]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone4
+[2022.08.17-23.41.03:879][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017152s)
+[2022.08.17-23.41.03:882][468]LogAIModule: Creating AISystem for world Phone4
+[2022.08.17-23.41.03:882][468]LogPlayLevel: PIE: World Init took: (0.002286s)
+[2022.08.17-23.41.03:882][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone4.Phone4 to /Game/Triage/PhoneScene/UEDPIE_0_Phone4.Phone4 (0.019745s)
+[2022.08.17-23.41.03:887][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.17-23.41.03:888][468]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.41.03:888][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.41.03:888][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.41.03:888][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.41.03:888][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.41.03:889][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.41.03:889][468]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.41.03:890][468]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.41.03:890][468]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.41.03:897][468]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.41.03:897][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.41.03:897][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.41.03:897][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.41.03:898][468]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.41.03:898][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.41.03:898][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.41.03:898][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.41.03:898][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.41.03:898][468]LogInit: FAudioDevice initialized.
+[2022.08.17-23.41.03:898][468]LogAudio: Display: Audio Device (ID: 9) registered with world 'Phone4'.
+[2022.08.17-23.41.03:904][468]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.41.03:905][468]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone4.Phone4 up for play (max tick rate 0) at 2022.08.18-09.41.03
+[2022.08.17-23.41.03:906][468]LogWorld: Bringing up level for play took: 0.001662
+[2022.08.17-23.41.03:906][468]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.08.17-23.41.03:907][468]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.41.03:909][468]PIE: Server logged in
+[2022.08.17-23.41.03:909][468]PIE: Play in editor total start time 0.048 seconds.
+[2022.08.17-23.41.08:860][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.41.08:860][ 52]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone4
+[2022.08.17-23.41.08:860][ 52]LogWorld: UWorld::CleanupWorld for Phone4, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.41.08:860][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.41.08:866][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.41.08:888][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.41.08:892][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.41.08:892][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.41.08:893][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.41.08:896][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.17-23.41.08:920][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.08.17-23.41.11:339][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.17-23.41.11:369][339]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Phone468816C7E4E00685BB6918182AF4FF5D2.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone4.umap'
+[2022.08.17-23.41.11:384][339]AssetCheck: New page: Asset Save: Phone4
+[2022.08.17-23.41.11:384][339]LogContentValidation: Display: Validating World /Game/Triage/PhoneScene/Phone4.Phone4
+[2022.08.17-23.41.12:119][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.17-23.41.12:665][427]LogSkeletalMesh: Display: [AssetLog] C:\Users\bgsan\Documents\UnrealProjects\Triage\Triage\Content\PolygonCity\Meshes\Vehicles_Rigged\SK_Veh_Car_Van_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.08.17-23.41.12:906][427]LogSkeletalMesh: Display: [AssetLog] C:\Users\bgsan\Documents\UnrealProjects\Triage\Triage\Content\PolygonCity\Meshes\Vehicles_Rigged\SK_Veh_Car_Police_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.08.17-23.41.13:373][427]LogSkeletalMesh: Display: [AssetLog] C:\Users\bgsan\Documents\UnrealProjects\Triage\Triage\Content\PolygonCity\Meshes\Vehicles_Rigged\SK_Veh_Car_Taxi_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.08.17-23.41.13:397][427]LogSkeletalMesh: Display: [AssetLog] C:\Users\bgsan\Documents\UnrealProjects\Triage\Triage\Content\PolygonCity\Meshes\Vehicles_Rigged\SK_Veh_Car_Sedan_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.08.17-23.41.13:420][427]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/PhoneScene/Phone5.Phone5
+[2022.08.17-23.41.13:420][427]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-23.41.13:420][427]LightingResults: New page: Lighting Build
+[2022.08.17-23.41.13:420][427]LoadErrors: New page: Loading map: Phone5.umap
+[2022.08.17-23.41.13:422][427]LogWorld: UWorld::CleanupWorld for Phone4, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.41.13:422][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.41.13:422][427]MapCheck: New page: Map Check
+[2022.08.17-23.41.13:422][427]LightingResults: New page: Lighting Build
+[2022.08.17-23.41.13:431][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.41.13:433][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.08.17-23.41.13:434][427]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phone5'.
+[2022.08.17-23.41.13:460][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-23.41.13:460][427]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.41.13:469][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.17-23.41.13:477][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-23.41.13:477][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2022.08.17-23.41.13:477][427]LogFileHelpers: Loading map 'Phone5' took 0.056
+[2022.08.17-23.41.15:897][714]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.08.17-23.41.35:156][ 19]LogEditorViewport: Clicking on Actor (LMB): Car_BP_C (Car_BP)
+[2022.08.17-23.41.36:375][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_Preset_10)
+[2022.08.17-23.41.56:563][416]LogStaticMesh: Building static mesh SM_Env_Fence_White_Post_01...
+[2022.08.17-23.41.56:581][416]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_White_Post_01.SM_Env_Fence_White_Post_01
+[2022.08.17-23.41.56:650][423]LogActorFactory: Actor Factory created SM_Env_Fence_White_Post_01
+[2022.08.17-23.41.57:351][505]LogActorFactory: Actor Factory created SM_Env_Fence_White_Post_01
+[2022.08.17-23.42.10:819][106]LogStaticMesh: Building static mesh SM_Env_Fence_White_Straight_01...
+[2022.08.17-23.42.10:828][106]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_White_Straight_01.SM_Env_Fence_White_Straight_01
+[2022.08.17-23.42.10:937][118]LogActorFactory: Actor Factory created SM_Env_Fence_White_Straight_01
+[2022.08.17-23.42.11:865][228]LogActorFactory: Actor Factory created SM_Env_Fence_White_Straight_01
+[2022.08.17-23.42.16:468][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.17-23.42.51:953][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.42.51:960][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.42.51:960][ 23]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:42:51 pm)
+[2022.08.17-23.42.51:960][ 23]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.42.51:969][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008545s)
+[2022.08.17-23.42.51:969][ 23]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.42.51:970][ 23]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2022.08.17-23.42.51:970][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009490s)
+[2022.08.17-23.42.51:986][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.17-23.42.51:989][ 23]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.42.51:989][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.42.51:989][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.42.51:989][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.42.51:989][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.42.51:989][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.42.51:991][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.42.51:991][ 23]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.42.51:997][ 23]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.42.51:997][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.42.51:997][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.42.51:997][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.42.51:998][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.42.51:998][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.42.51:998][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.42.51:999][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.42.51:999][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.42.51:999][ 23]LogInit: FAudioDevice initialized.
+[2022.08.17-23.42.51:999][ 23]LogAudio: Display: Audio Device (ID: 10) registered with world 'Phone5'.
+[2022.08.17-23.42.52:004][ 23]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.42.52:005][ 23]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.42.52
+[2022.08.17-23.42.52:006][ 23]LogWorld: Bringing up level for play took: 0.002189
+[2022.08.17-23.42.52:006][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.08.17-23.42.52:007][ 23]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.42.52:007][ 23]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.42.52:008][ 23]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.42.52:009][ 23]PIE: Server logged in
+[2022.08.17-23.42.52:009][ 23]PIE: Play in editor total start time 0.05 seconds.
+[2022.08.17-23.42.55:390][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.42.55:390][421]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.42.55:391][421]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.42.55:391][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.42.55:403][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.42.55:413][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.42.55:417][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.42.55:417][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.42.55:418][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.42.55:420][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.42.55:421][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.17-23.42.55:439][422]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.08.17-23.42.57:657][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Post_01)
+[2022.08.17-23.42.57:809][703]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.17-23.43.02:935][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Straight_01)
+[2022.08.17-23.43.08:105][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Post_6)
+[2022.08.17-23.43.32:003][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Post_8)
+[2022.08.17-23.43.38:381][540]LogStaticMesh: Building static mesh SM_Env_Fence_White_Gate_01_Door...
+[2022.08.17-23.43.38:392][540]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_White_Gate_01_Door.SM_Env_Fence_White_Gate_01_Door
+[2022.08.17-23.43.38:489][550]LogActorFactory: Actor Factory created SM_Env_Fence_White_Gate_01_Door
+[2022.08.17-23.43.38:891][597]LogActorFactory: Actor Factory created SM_Env_Fence_White_Gate_01_Door
+[2022.08.17-23.43.45:570][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Gate_01_Door)
+[2022.08.17-23.43.56:176][665]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.43.56:183][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.43.56:183][665]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:43:56 pm)
+[2022.08.17-23.43.56:183][665]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.43.56:192][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008998s)
+[2022.08.17-23.43.56:193][665]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.43.56:193][665]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2022.08.17-23.43.56:193][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009987s)
+[2022.08.17-23.43.56:208][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.08.17-23.43.56:211][665]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.43.56:211][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.43.56:211][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.43.56:211][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.43.56:211][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.43.56:211][665]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.43.56:212][665]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.43.56:212][665]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.43.56:218][665]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.43.56:219][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.43.56:219][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.43.56:219][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.43.56:219][665]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.43.56:219][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.43.56:219][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.43.56:220][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.43.56:220][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.43.56:220][665]LogInit: FAudioDevice initialized.
+[2022.08.17-23.43.56:220][665]LogAudio: Display: Audio Device (ID: 11) registered with world 'Phone5'.
+[2022.08.17-23.43.56:225][665]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.43.56:226][665]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.43.56
+[2022.08.17-23.43.56:226][665]LogWorld: Bringing up level for play took: 0.001218
+[2022.08.17-23.43.56:226][665]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.08.17-23.43.56:227][665]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.43.56:227][665]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.43.56:227][665]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.43.56:228][665]PIE: Server logged in
+[2022.08.17-23.43.56:229][665]PIE: Play in editor total start time 0.047 seconds.
+[2022.08.17-23.44.03:660][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.44.03:660][548]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.44.03:660][548]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.44.03:661][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.44.03:675][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.44.03:684][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.44.03:689][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.44.03:689][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.44.03:690][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.44.03:691][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.44.03:692][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.17-23.44.03:710][549]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.08.17-23.44.17:116][120]LogStaticMesh: Building static mesh SM_Env_Hedge_02...
+[2022.08.17-23.44.17:127][120]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Hedge_02.SM_Env_Hedge_02
+[2022.08.17-23.44.17:190][126]LogActorFactory: Actor Factory created SM_Env_Hedge_02
+[2022.08.17-23.44.17:937][212]LogActorFactory: Actor Factory created SM_Env_Hedge_02
+[2022.08.17-23.44.18:890][324]Cmd: TRANSACTION UNDO
+[2022.08.17-23.44.18:890][324]LogEditorTransaction: Undo Create Actors
+[2022.08.17-23.44.19:960][431]LogStaticMesh: Building static mesh SM_Env_Hedge_03...
+[2022.08.17-23.44.19:973][431]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Hedge_03.SM_Env_Hedge_03
+[2022.08.17-23.44.20:030][436]LogActorFactory: Actor Factory created SM_Env_Hedge_03
+[2022.08.17-23.44.20:490][485]LogActorFactory: Actor Factory created SM_Env_Hedge_03
+[2022.08.17-23.44.56:552][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Hedge_4)
+[2022.08.17-23.45.00:474][262]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.45.00:481][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.45.00:481][262]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:45:00 pm)
+[2022.08.17-23.45.00:481][262]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.45.00:490][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008778s)
+[2022.08.17-23.45.00:491][262]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.45.00:491][262]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2022.08.17-23.45.00:491][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009833s)
+[2022.08.17-23.45.00:506][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.08.17-23.45.00:508][262]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.45.00:508][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.45.00:508][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.45.00:509][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.45.00:509][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.45.00:509][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.45.00:509][262]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.45.00:510][262]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.45.00:510][262]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.45.00:516][262]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.45.00:516][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.45.00:516][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.45.00:516][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.45.00:517][262]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.45.00:517][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.45.00:517][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.45.00:518][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.45.00:518][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.45.00:518][262]LogInit: FAudioDevice initialized.
+[2022.08.17-23.45.00:518][262]LogAudio: Display: Audio Device (ID: 12) registered with world 'Phone5'.
+[2022.08.17-23.45.00:527][262]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.45.00:528][262]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.45.00
+[2022.08.17-23.45.00:529][262]LogWorld: Bringing up level for play took: 0.001345
+[2022.08.17-23.45.00:529][262]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.08.17-23.45.00:529][262]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.45.00:530][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.45.00:530][262]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.45.00:531][262]PIE: Server logged in
+[2022.08.17-23.45.00:532][262]PIE: Play in editor total start time 0.051 seconds.
+[2022.08.17-23.45.02:969][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.45.02:969][543]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.45.02:969][543]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.45.02:969][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.45.02:973][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.45.02:982][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.45.02:987][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.45.02:987][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.45.02:988][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.45.02:989][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.45.02:991][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.17-23.45.03:015][544]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.08.17-23.45.17:293][244]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.45.17:300][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.45.17:300][244]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:45:17 pm)
+[2022.08.17-23.45.17:300][244]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.45.17:307][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008472s)
+[2022.08.17-23.45.17:308][244]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.45.17:308][244]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2022.08.17-23.45.17:308][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009231s)
+[2022.08.17-23.45.17:314][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.17-23.45.17:316][244]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.45.17:316][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.45.17:316][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.45.17:316][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.45.17:316][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.45.17:316][244]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.45.17:318][244]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.45.17:318][244]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.45.17:325][244]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.45.17:325][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.45.17:325][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.45.17:325][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.45.17:326][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.45.17:326][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.45.17:326][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.45.17:327][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.45.17:327][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.45.17:327][244]LogInit: FAudioDevice initialized.
+[2022.08.17-23.45.17:327][244]LogAudio: Display: Audio Device (ID: 13) registered with world 'Phone5'.
+[2022.08.17-23.45.17:335][244]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.45.17:337][244]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.45.17
+[2022.08.17-23.45.17:337][244]LogWorld: Bringing up level for play took: 0.001275
+[2022.08.17-23.45.17:337][244]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.08.17-23.45.17:338][244]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.45.17:338][244]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.45.17:338][244]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.45.17:339][244]PIE: Server logged in
+[2022.08.17-23.45.17:340][244]PIE: Play in editor total start time 0.042 seconds.
+[2022.08.17-23.45.20:179][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.45.20:179][576]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.45.20:179][576]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.45.20:180][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.45.20:189][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.45.20:198][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.45.20:203][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.45.20:203][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.45.20:204][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.45.20:205][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.45.20:206][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.17-23.45.20:230][577]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.17-23.45.31:831][957]LogStaticMesh: Building static mesh SM_Env_Tree_Tall_01...
+[2022.08.17-23.45.31:841][957]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01
+[2022.08.17-23.45.31:925][966]LogActorFactory: Actor Factory created SM_Env_Tree_Tall_01
+[2022.08.17-23.45.32:661][ 51]LogActorFactory: Actor Factory created SM_Env_Tree_Tall_01
+[2022.08.17-23.45.51:546][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_Tall_2)
+[2022.08.17-23.45.54:578][666]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.45.54:584][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.45.54:584][666]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:45:54 pm)
+[2022.08.17-23.45.54:584][666]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.45.54:593][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008831s)
+[2022.08.17-23.45.54:594][666]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.45.54:594][666]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2022.08.17-23.45.54:594][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009601s)
+[2022.08.17-23.45.54:609][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.17-23.45.54:611][666]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.08.17-23.45.54:611][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.45.54:612][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.45.54:612][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.45.54:612][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.45.54:612][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.45.54:612][666]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.45.54:613][666]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.45.54:613][666]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.45.54:619][666]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.45.54:619][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.45.54:619][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.45.54:619][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.45.54:620][666]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.45.54:620][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.45.54:620][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.45.54:620][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.45.54:620][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.45.54:620][666]LogInit: FAudioDevice initialized.
+[2022.08.17-23.45.54:620][666]LogAudio: Display: Audio Device (ID: 14) registered with world 'Phone5'.
+[2022.08.17-23.45.54:627][666]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.45.54:629][666]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.45.54
+[2022.08.17-23.45.54:629][666]LogWorld: Bringing up level for play took: 0.001275
+[2022.08.17-23.45.54:629][666]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.08.17-23.45.54:630][666]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.45.54:630][666]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.45.54:630][666]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.45.54:631][666]PIE: Server logged in
+[2022.08.17-23.45.54:632][666]PIE: Play in editor total start time 0.048 seconds.
+[2022.08.17-23.45.57:530][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.45.57:530][  3]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.45.57:531][  3]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.45.57:531][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.45.57:539][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.45.57:548][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.45.57:552][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.45.57:552][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.45.57:553][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.45.57:554][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.45.57:555][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.17-23.45.57:573][  4]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.08.17-23.46.12:136][744]LogStaticMesh: Building static mesh SM_Env_Tree_02_Framed...
+[2022.08.17-23.46.12:145][744]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_02_Framed.SM_Env_Tree_02_Framed
+[2022.08.17-23.46.12:216][751]LogActorFactory: Actor Factory created SM_Env_Tree_02_Framed
+[2022.08.17-23.46.12:804][820]LogActorFactory: Actor Factory created SM_Env_Tree_02_Framed
+[2022.08.17-23.46.37:668][783]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.46.37:675][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.46.37:675][783]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:46:37 pm)
+[2022.08.17-23.46.37:675][783]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.46.37:684][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008759s)
+[2022.08.17-23.46.37:685][783]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.46.37:685][783]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2022.08.17-23.46.37:685][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009706s)
+[2022.08.17-23.46.37:702][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.17-23.46.37:704][783]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.46.37:704][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.46.37:704][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.46.37:704][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.46.37:705][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.46.37:705][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.46.37:705][783]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.46.37:706][783]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.46.37:706][783]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.46.37:712][783]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.46.37:712][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.46.37:712][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.46.37:712][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.46.37:712][783]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.46.37:712][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.46.37:712][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.46.37:713][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.46.37:713][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.46.37:714][783]LogInit: FAudioDevice initialized.
+[2022.08.17-23.46.37:714][783]LogAudio: Display: Audio Device (ID: 15) registered with world 'Phone5'.
+[2022.08.17-23.46.37:722][783]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.46.37:724][783]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.46.37
+[2022.08.17-23.46.37:724][783]LogWorld: Bringing up level for play took: 0.001535
+[2022.08.17-23.46.37:725][783]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.08.17-23.46.37:725][783]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.46.37:726][783]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.46.37:726][783]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.46.37:727][783]PIE: Server logged in
+[2022.08.17-23.46.37:728][783]PIE: Play in editor total start time 0.053 seconds.
+[2022.08.17-23.46.45:479][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.46.45:479][703]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.46.45:480][703]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.46.45:480][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.46.45:484][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.46.45:494][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.46.45:498][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.46.45:498][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.46.45:499][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.46.45:501][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.46.45:503][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.08.17-23.46.45:524][704]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.08.17-23.46.50:609][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Straight_5)
+[2022.08.17-23.46.56:342][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Post_3)
+[2022.08.17-23.47.12:070][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fence_White_Straight_9)
+[2022.08.17-23.47.26:749][586]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.47.26:756][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.47.26:756][586]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:47:26 pm)
+[2022.08.17-23.47.26:756][586]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.47.26:764][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009449s)
+[2022.08.17-23.47.26:765][586]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.47.26:765][586]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2022.08.17-23.47.26:765][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.010186s)
+[2022.08.17-23.47.26:771][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.17-23.47.26:773][586]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.47.26:773][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.47.26:773][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.47.26:773][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.47.26:773][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.47.26:773][586]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.47.26:775][586]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.47.26:775][586]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.47.26:782][586]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.47.26:782][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.47.26:782][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.47.26:782][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.47.26:782][586]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.47.26:782][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.47.26:782][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.47.26:783][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.47.26:783][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.47.26:783][586]LogInit: FAudioDevice initialized.
+[2022.08.17-23.47.26:783][586]LogAudio: Display: Audio Device (ID: 16) registered with world 'Phone5'.
+[2022.08.17-23.47.26:787][586]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.47.26:788][586]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.47.26
+[2022.08.17-23.47.26:788][586]LogWorld: Bringing up level for play took: 0.001478
+[2022.08.17-23.47.26:788][586]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.08.17-23.47.26:789][586]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.47.26:790][586]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.47.26:790][586]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.47.26:791][586]PIE: Server logged in
+[2022.08.17-23.47.26:791][586]PIE: Play in editor total start time 0.038 seconds.
+[2022.08.17-23.47.39:939][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.47.39:939][155]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.47.39:939][155]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.47.39:940][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.47.39:949][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.47.39:958][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.47.39:963][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.47.39:963][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.47.39:964][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.47.39:966][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.47.39:967][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.17-23.47.39:986][156]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.08.17-23.47.45:392][801]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.08.17-23.47.58:395][342]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.47.58:402][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.47.58:402][342]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:47:58 pm)
+[2022.08.17-23.47.58:402][342]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.47.58:411][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008953s)
+[2022.08.17-23.47.58:411][342]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.47.58:412][342]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2022.08.17-23.47.58:412][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009800s)
+[2022.08.17-23.47.58:431][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.17-23.47.58:432][342]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.47.58:432][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.47.58:432][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.47.58:433][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.47.58:433][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.47.58:433][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.47.58:433][342]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.47.58:434][342]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.47.58:434][342]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.47.58:440][342]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.47.58:440][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.47.58:440][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.47.58:440][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.47.58:441][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.47.58:441][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.47.58:441][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.47.58:441][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.47.58:441][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.47.58:441][342]LogInit: FAudioDevice initialized.
+[2022.08.17-23.47.58:441][342]LogAudio: Display: Audio Device (ID: 17) registered with world 'Phone5'.
+[2022.08.17-23.47.58:445][342]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.47.58:447][342]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.47.58
+[2022.08.17-23.47.58:447][342]LogWorld: Bringing up level for play took: 0.001633
+[2022.08.17-23.47.58:447][342]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.08.17-23.47.58:448][342]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.47.58:449][342]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.47.58:449][342]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.47.58:450][342]PIE: Server logged in
+[2022.08.17-23.47.58:450][342]PIE: Play in editor total start time 0.051 seconds.
+[2022.08.17-23.48.08:828][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.48.08:828][579]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.48.08:829][579]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.48.08:829][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.08:836][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.48.08:863][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.08:868][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.48.08:868][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.48.08:869][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.48.08:872][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.17-23.48.08:892][580]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.08.17-23.48.20:247][928]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.20:248][928]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2EBFBA1377231C2E8309FFB92A544CEB4D37F25D), compiling. 
+[2022.08.17-23.48.20:279][928]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.20:282][928]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.08.17-23.48.20:349][928]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.08.17-23.48.20:468][928]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0EDFDACD2E3D13AB2B42597B50391189EC240A36), compiling. 
+[2022.08.17-23.48.20:470][928]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6A3983918247CC340802644BD523FAE34D7A8F), compiling. 
+[2022.08.17-23.48.20:471][928]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C6948AF2467A471866450D4E9AB86A5F57C0F784), compiling. 
+[2022.08.17-23.48.20:483][928]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.17-23.48.20:483][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.20:483][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.20:489][928]LogSlate: Took 0.002572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.17-23.48.20:511][928]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 21
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 19
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 17
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 15
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 13
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 11
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 9
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 7
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 5
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 3
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 1
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Started 21 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.20:537][928]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.17-23.48.20:637][935]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.17-23.48.20:637][935]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 2
+[2022.08.17-23.48.20:637][935]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 1
+[2022.08.17-23.48.20:637][935]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.17-23.48.21:282][951]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.17-23.48.21:282][951]LogShaderCompilers: Display: Total job queries 48, among them cache hits 0 (0.00%)
+[2022.08.17-23.48.21:282][951]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.08.17-23.48.21:282][951]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.17-23.48.21:282][951]LogShaderCompilers: Display: ================================================
+[2022.08.17-23.48.21:616][964]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.17-23.48.21:616][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.21:616][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.21:703][969]MaterialEditorStats: Texture samplers: 4/16
+[2022.08.17-23.48.21:703][969]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.21:703][969]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.21:887][989]MaterialEditorStats: Base pass shader: 83 instructions
+[2022.08.17-23.48.21:887][989]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 110 instructions
+[2022.08.17-23.48.21:887][989]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.08.17-23.48.21:887][989]MaterialEditorStats: Texture samplers: 4/16
+[2022.08.17-23.48.21:887][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.21:887][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.24:615][312]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 44FC79DE01535E9D426297EBEB9E3A56E8A0E946), compiling. 
+[2022.08.17-23.48.24:617][312]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.17-23.48.24:618][312]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.24:618][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 21
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 19
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 17
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 15
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 13
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 11
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 9
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 7
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 5
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 3
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 1
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Started 21 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.24:630][312]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.17-23.48.25:608][347]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C7D562FE5460F5D55B8B701E873EEE7E3AA6C725), compiling. 
+[2022.08.17-23.48.25:621][347]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A69792F3E2BE9181DE8C1C415EEE2AAE79C59468), compiling. 
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 23
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 21
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 19
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 17
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 15
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 13
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 11
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 9
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 7
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 5
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 3
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 1
+[2022.08.17-23.48.25:635][347]LogShaderCompilers: Display: Started 23 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.26:323][368]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.17-23.48.26:323][368]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.26:323][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.26:454][371]LogMaterialEditor: Applying material Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.26:682][371]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1731EDC0A01114CA066242C17BFE5E8AEEBDFBC4), compiling. 
+[2022.08.17-23.48.26:695][371]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B9CE74633845EF4CA11FD43DA6A3877A8A23F24B), compiling. 
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 3
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 8
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 7
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 6
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 5
+[2022.08.17-23.48.26:738][371]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 4
+[2022.08.17-23.48.26:739][371]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 3
+[2022.08.17-23.48.26:739][371]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2022.08.17-23.48.26:739][371]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2022.08.17-23.48.26:739][371]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.48.26:749][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.08.17-23.48.26:980][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.08.17-23.48.26:992][371]MaterialEditorStats: Texture samplers: 4/16
+[2022.08.17-23.48.26:992][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.26:992][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.27:157][386]LogMaterialEditor: Saving and Compiling material Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.27:213][386]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Cutscene5_MP_Video_Mat3758462B4EFC85CE98DCDC9E8EAF9754.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.uasset'
+[2022.08.17-23.48.27:221][386]AssetCheck: New page: Asset Save: Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.27:221][386]LogContentValidation: Display: Validating Material /Game/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.27:222][386]MaterialEditorStats: Base pass shader: 83 instructions
+[2022.08.17-23.48.27:222][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 110 instructions
+[2022.08.17-23.48.27:222][386]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.08.17-23.48.27:222][386]MaterialEditorStats: Texture samplers: 4/16
+[2022.08.17-23.48.27:222][386]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.08.17-23.48.27:222][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.08.17-23.48.28:530][537]LogMaterialEditor: Saving and Compiling material Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.28:539][537]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Cutscene5_MP_Video_MatD05FA92B44588D4EB2BBF285AF578E0A.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.uasset'
+[2022.08.17-23.48.28:545][537]AssetCheck: New page: Asset Save: Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.28:545][537]LogContentValidation: Display: Validating Material /Game/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.Cutscene5_MP_Video_Mat
+[2022.08.17-23.48.28:951][583]LogSlate: Window 'Cutscene5_MP_Video_Mat' being destroyed
+[2022.08.17-23.48.28:962][583]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.48.28:962][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.29:822][684]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.48.29:828][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.48.29:828][684]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:48:29 pm)
+[2022.08.17-23.48.29:828][684]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.48.29:837][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008973s)
+[2022.08.17-23.48.29:838][684]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.48.29:838][684]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2022.08.17-23.48.29:838][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.009824s)
+[2022.08.17-23.48.29:848][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.17-23.48.29:849][684]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.48.29:849][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.48.29:849][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.48.29:850][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.48.29:850][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.48.29:850][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.48.29:850][684]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.48.29:851][684]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.48.29:851][684]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.48.29:857][684]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.48.29:857][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.48.29:857][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.48.29:857][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.48.29:857][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.48.29:857][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.48.29:857][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.48.29:858][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.48.29:858][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.48.29:858][684]LogInit: FAudioDevice initialized.
+[2022.08.17-23.48.29:858][684]LogAudio: Display: Audio Device (ID: 18) registered with world 'Phone5'.
+[2022.08.17-23.48.29:861][684]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.48.29:863][684]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.48.29
+[2022.08.17-23.48.29:863][684]LogWorld: Bringing up level for play took: 0.001573
+[2022.08.17-23.48.29:863][684]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.08.17-23.48.29:864][684]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.48.29:864][684]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.48.29:864][684]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.48.29:866][684]PIE: Server logged in
+[2022.08.17-23.48.29:866][684]PIE: Play in editor total start time 0.039 seconds.
+[2022.08.17-23.48.42:499][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.48.42:499][191]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.48.42:500][191]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.48.42:500][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.42:505][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.48.42:526][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.42:531][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-23.48.42:532][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.48.42:533][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.48.42:534][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.48.42:536][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.17-23.48.42:559][192]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.08.17-23.48.47:188][747]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.17-23.48.47:195][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-23.48.47:195][747]PIE: New page: PIE session: Phone5 (18 Aug 2022, 7:48:47 pm)
+[2022.08.17-23.48.47:195][747]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.48.47:204][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009322s)
+[2022.08.17-23.48.47:205][747]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-23.48.47:205][747]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2022.08.17-23.48.47:205][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.010066s)
+[2022.08.17-23.48.47:210][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.17-23.48.47:211][747]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-23.48.47:211][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-23.48.47:211][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-23.48.47:211][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-23.48.47:211][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-23.48.47:211][747]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-23.48.47:213][747]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-23.48.47:213][747]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-23.48.47:219][747]LogAudioMixer: Display: Using Audio Device Speakers (Realtek USB Audio)
+[2022.08.17-23.48.47:219][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-23.48.47:219][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-23.48.47:219][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-23.48.47:220][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-23.48.47:220][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-23.48.47:220][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-23.48.47:220][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-23.48.47:220][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-23.48.47:220][747]LogInit: FAudioDevice initialized.
+[2022.08.17-23.48.47:220][747]LogAudio: Display: Audio Device (ID: 19) registered with world 'Phone5'.
+[2022.08.17-23.48.47:224][747]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-23.48.47:226][747]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.18-09.48.47
+[2022.08.17-23.48.47:226][747]LogWorld: Bringing up level for play took: 0.001527
+[2022.08.17-23.48.47:226][747]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.08.17-23.48.47:227][747]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.17-23.48.47:227][747]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-23.48.47:228][747]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-23.48.47:229][747]PIE: Server logged in
+[2022.08.17-23.48.47:229][747]PIE: Play in editor total start time 0.036 seconds.
+[2022.08.17-23.48.51:589][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.48.51:589][258]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-23.48.51:590][258]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-23.48.51:590][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.51:599][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-23.48.51:619][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-23.48.51:624][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-23.48.51:624][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.48.51:625][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-23.48.51:628][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.17-23.48.51:651][259]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.08.17-23.48.55:491][714]MapCheck: New page: Map Check
+[2022.08.17-23.48.55:496][714]LightingResults: New page: Lighting Build - 18 Aug 2022, 7:48:55 pm
+[2022.08.17-23.48.55:595][714]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.17-23.48.55:624][714]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.17-23.48.55:631][714]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.17-23.48.57:668][714]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.17-23.48.57:668][714]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9676
+[2022.08.17-23.49.08:796][714]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.17-23.49.08:797][714]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.17-23.49.08:797][714]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.17-23.49.08:797][714]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.17-23.49.08:797][714]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.17-23.49.08:993][714]LogEditorBuildUtils: Build time 0:13
+[2022.08.17-23.49.09:051][715]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Body_base in PCD3D_SM5, Default, SM5 (DDC key hash: 410A086D9FBC441A7F6681487E057646ABC56713), compiling. 
+[2022.08.17-23.49.09:053][715]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:054][715]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2022.08.17-23.49.09:054][715]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2022.08.17-23.49.09:054][715]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:054][715]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Body_base in PCD3D_SM5, Default, SM5 (DDC key hash: AA6491563EF9B210ED4ABA0214408333FE98E5A6), compiling. 
+[2022.08.17-23.49.09:056][715]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:056][715]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E8CA54A025CBF3649D2F297B8445650F67F1879D), compiling. 
+[2022.08.17-23.49.09:058][715]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:059][715]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B57528DD5DDC199D115AAFC0DCE3EEEFB0AF0E4E), compiling. 
+[2022.08.17-23.49.09:060][715]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonTown_WindowGlass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: F61DA68CDE9AE1777D81E4AF304A503BF0546F23), compiling. 
+[2022.08.17-23.49.09:062][715]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 6
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 5
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 4
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 3
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 2
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 1
+[2022.08.17-23.49.09:073][715]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:073][715]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonTown_WindowGlass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E7DC759BD49D72219B4013B3047AF7ED6B5EA2F), compiling. 
+[2022.08.17-23.49.09:075][715]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:091][715]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2022.08.17-23.49.09:091][715]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2022.08.17-23.49.09:091][715]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:095][716]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonTown_OpaqueGlass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D8B9A4E3D4705F18620FA8FFDB980B5927E067E6), compiling. 
+[2022.08.17-23.49.09:099][716]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:100][716]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonTown_OpaqueGlass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 29CD9DAD96ED29CC0B6140C7C1896873BA619CE9), compiling. 
+[2022.08.17-23.49.09:103][716]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 2
+[2022.08.17-23.49.09:103][716]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 1
+[2022.08.17-23.49.09:103][716]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:103][716]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:104][716]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonCity_Texture_Road_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 86C5E8A3FFEAF956708B79ACF83B0FC077C50284), compiling. 
+[2022.08.17-23.49.09:107][716]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:108][716]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonCity_Texture_Road_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A45752420B5B96C41D09D3D1303DC6071E89EDF), compiling. 
+[2022.08.17-23.49.09:110][716]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 6
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 5
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 4
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 3
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 2
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 1
+[2022.08.17-23.49.09:126][716]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.09:988][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.17-23.49.12:769][921]Job is a success!
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:          1: 80.0% covering 6.2% of volume
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.17-23.49.12:890][922]LogVolumetricLightmapImport:          Phone5 			 5 bricks 	 100.0% (Persistent Level)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 512X512)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 512X512)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 256X256)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 256X256)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 256X256)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 256X256)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 256X256)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 256X256)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 128X128)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 512X512)
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2022.08.17-23.49.13:154][922]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.17-23.49.13:154][922]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 128X128)
+[2022.08.17-23.49.13:382][922]Lightmass on THANOS: 2.44 sec total, 86 ms importing, 27 ms setup, 453 ms photons, 1.84 sec processing, 0 ms extra exporting [106/106 mappings]. Threads: 42.5 sec total, 16.3 sec processing.
+[2022.08.17-23.49.13:392][922]LogStaticLightingSystem: Phone5_BuiltData storing lightmap data for 106 meshes in 21 LightmapResourceClusters (5.0 Meshes per cluster).
+[2022.08.17-23.49.13:393][922]LogMaterial: Display: Material /Game/Triage/Assets/Phone/Body_base.Body_base needed to have new flag set bUsedWithStaticLighting !
+[2022.08.17-23.49.13:401][922]LogMaterial: Display: Missing cached shadermap for Body_base in PCD3D_SM5, Default, SM5 (DDC key hash: 34C804C57D39384EF3340F24B32FF8EB7833B918), compiling. 
+[2022.08.17-23.49.13:423][922]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.13:423][922]LogMaterial: Display: Material /Game/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.Cutscene5_MP_Video_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.08.17-23.49.13:424][922]LogMaterial: Display: Missing cached shadermap for Cutscene5_MP_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5AA01CCE4EF664A75527DCBF8EAA629055000A17), compiling. 
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 25
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 23
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 21
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 19
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 17
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 15
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 13
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 11
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 9
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 7
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 5
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 3
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 1
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 3
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 11
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 10
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 9
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 8
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 7
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 6
+[2022.08.17-23.49.13:444][922]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.08.17-23.49.13:453][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.08.17-23.49.13:473][922]LogStaticLightingSystem: Illumination: 17.9 sec (212 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.08.17-23.49.13:473][922]LogStaticLightingSystem: Lightmap texture memory:  17.0 MB (17.0 MB streaming, 0.0 MB non-streaming), 40 textures
+[2022.08.17-23.49.13:473][922]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.08.17-23.49.13:812][922]DumpUnbuiltLightIteractions
+[2022.08.17-23.49.13:813][922]Lights with unbuilt interactions: 0
+[2022.08.17-23.49.13:813][922]
+[2022.08.17-23.49.13:813][922]Primitives with unbuilt interactions: 0
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 5
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 4
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 3
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 2
+[2022.08.17-23.49.14:477][922]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.49.14:687][922]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 1
+[2022.08.17-23.49.14:687][922]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.17-23.49.15:331][922]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.08.17-23.49.15:359][923]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.17-23.49.15:360][923]MapCheck: New page: Phone5 - 18 Aug 2022, 7:49:15 pm
+[2022.08.17-23.49.15:360][923]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.576ms to complete.
+[2022.08.17-23.49.21:378][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.17-23.49.21:392][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.17-23.49.21:420][640]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Phone5DCED9A214A259BABE1C1BC925296F4D7.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone5.umap'
+[2022.08.17-23.49.21:429][640]LogFileHelpers: Saving map 'Phone5' took 0.042
+[2022.08.17-23.49.21:429][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/PhoneScene/Phone5_BuiltData" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone5_BuiltData.uasset" SILENT=true
+[2022.08.17-23.49.21:480][640]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Phone5_BuiltData8A1EBE8F470A1769640F5BA1CC62FBE7.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone5_BuiltData.uasset'
+[2022.08.17-23.49.21:491][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Assets/Phone/Body_base" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Assets/Phone/Body_base.uasset" SILENT=true
+[2022.08.17-23.49.21:497][640]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Body_baseE3541A6B416C2EB5A85E9997C6380DD6.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Assets/Phone/Body_base.uasset'
+[2022.08.17-23.49.21:500][640]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Cutscene5_MP_Video_Mat2103E0274C3BC8DDDF2B379FDFF195FB.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.uasset'
+[2022.08.17-23.49.21:506][640]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.17-23.49.21:506][640]LogContentValidation: Display: Validating Material /Game/Triage/Assets/Phone/Body_base.Body_base
+[2022.08.17-23.49.21:506][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Triage/PhoneScene/Phone5_BuiltData.Phone5_BuiltData
+[2022.08.17-23.49.21:506][640]LogContentValidation: Display: Validating World /Game/Triage/PhoneScene/Phone5.Phone5
+[2022.08.17-23.49.21:506][640]LogContentValidation: Display: Validating Material /Game/Triage/Assets/Cutscenes/Cutscene5_MP_Video_Mat.Cutscene5_MP_Video_Mat
