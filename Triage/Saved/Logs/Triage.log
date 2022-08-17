@@ -7845,3 +7845,744 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.08.17-02.36.03:092][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2022.08.17-02.36.03:112][187]LogPlayLevel: Display: Destroying online subsystem :Context_143
 [2022.08.17-02.36.05:675][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.17-02.36.46:490][144]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.17-02.36.46:707][144]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.08.17-02.36.48:550][254]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.36.48:553][254]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.36.55:952][783]BlueprintLog: New page: Compile Shift5Complete
+[2022.08.17-02.36.55:982][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.17-02.36.56:910][838]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.36.56:910][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.36.56:918][838]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.36.56:918][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.36.57:683][883]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.36.57:683][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.36.57:691][883]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.36.57:691][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.00:291][ 37]LogSlate: Window 'Shift5Complete' being destroyed
+[2022.08.17-02.37.00:298][ 37]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.00:299][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.00:308][ 37]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.00:308][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.03:721][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.17-02.37.03:732][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Shift5Complete" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset" SILENT=true
+[2022.08.17-02.37.03:750][301]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5Complete98001955483B19F85CA7E19719D65EEF.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset'
+[2022.08.17-02.37.03:759][301]AssetCheck: New page: Asset Save: Shift5Complete
+[2022.08.17-02.37.03:759][301]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.17-02.37.07:466][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.08.17-02.37.07:545][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Shift5.Shift5
+[2022.08.17-02.37.07:545][553]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Shift5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-02.37.07:545][553]LightingResults: New page: Lighting Build
+[2022.08.17-02.37.07:545][553]LoadErrors: New page: Loading map: Shift5.umap
+[2022.08.17-02.37.07:549][553]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.07:549][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.07:549][553]MapCheck: New page: Map Check
+[2022.08.17-02.37.07:549][553]LightingResults: New page: Lighting Build
+[2022.08.17-02.37.07:565][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.37.07:573][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.17-02.37.07:575][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shift5'.
+[2022.08.17-02.37.07:879][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-02.37.07:879][553]LogAIModule: Creating AISystem for world Shift5
+[2022.08.17-02.37.07:907][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.08.17-02.37.07:917][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-02.37.07:917][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2022.08.17-02.37.07:917][553]LogFileHelpers: Loading map 'Shift5' took 0.372
+[2022.08.17-02.37.10:826][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.17-02.37.10:873][753]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/PhoneScene/Phone5.Phone5
+[2022.08.17-02.37.10:873][753]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-02.37.10:873][753]LightingResults: New page: Lighting Build
+[2022.08.17-02.37.10:873][753]LoadErrors: New page: Loading map: Phone5.umap
+[2022.08.17-02.37.10:878][753]LogWorld: UWorld::CleanupWorld for Shift5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.10:878][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.10:878][753]MapCheck: New page: Map Check
+[2022.08.17-02.37.10:878][753]LightingResults: New page: Lighting Build
+[2022.08.17-02.37.10:892][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.37.10:899][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.08.17-02.37.10:900][753]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phone5'.
+[2022.08.17-02.37.10:915][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-02.37.10:915][753]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-02.37.10:930][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.17-02.37.10:939][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-02.37.10:939][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2022.08.17-02.37.10:939][753]LogFileHelpers: Loading map 'Phone5' took 0.066
+[2022.08.17-02.37.11:754][848]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.37.11:761][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.37.11:761][848]PIE: New page: PIE session: Phone5 (17 Aug 2022, 10:37:11 pm)
+[2022.08.17-02.37.11:761][848]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-02.37.11:772][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012252s)
+[2022.08.17-02.37.11:773][848]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-02.37.11:773][848]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2022.08.17-02.37.11:773][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.013145s)
+[2022.08.17-02.37.11:788][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.17-02.37.11:789][848]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.37.11:789][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.37.11:789][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.37.11:789][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.37.11:789][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.37.11:789][848]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.37.11:791][848]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.37.11:791][848]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.37.11:796][848]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.37.11:796][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.37.11:796][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.37.11:796][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.37.11:797][848]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.37.11:797][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.37.11:797][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.37.11:797][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.37.11:797][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.37.11:797][848]LogInit: FAudioDevice initialized.
+[2022.08.17-02.37.11:797][848]LogAudio: Display: Audio Device (ID: 76) registered with world 'Phone5'.
+[2022.08.17-02.37.11:814][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.37.11:814][848]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-02.37.11:816][848]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.17-12.37.11
+[2022.08.17-02.37.11:817][848]LogWorld: Bringing up level for play took: 0.001832
+[2022.08.17-02.37.11:817][848]LogOnline: OSS: Creating online subsystem instance for: :Context_146
+[2022.08.17-02.37.11:819][848]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-02.37.11:819][848]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-02.37.11:823][848]PIE: Server logged in
+[2022.08.17-02.37.11:825][848]PIE: Play in editor total start time 0.066 seconds.
+[2022.08.17-02.37.15:969][339]LogNet: Browse: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.37.15:969][339]LogLoad: LoadMap: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.37.15:969][339]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-02.37.15:970][339]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.15:970][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.16:024][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.37.16:028][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.17-02.37.16:066][339]LogAudio: Display: Audio Device (ID: 76) registered with world 'MainMenu'.
+[2022.08.17-02.37.16:066][339]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.17-02.37.16:067][339]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.17-02.37.16:079][339]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.08.17-12.37.16
+[2022.08.17-02.37.16:079][339]LogWorld: Bringing up level for play took: 0.012295
+[2022.08.17-02.37.16:082][339]LogLoad: Took 0.112686 seconds to LoadMap(/Game/Triage/Levels/MainMenu)
+[2022.08.17-02.37.16:106][339]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.17-02.37.17:540][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.37.17:540][425]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_MainMenu
+[2022.08.17-02.37.17:540][425]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.37.17:544][425]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.17:546][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.17:551][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.37.17:556][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.17:568][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.37.17:570][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.37.17:571][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.37.17:577][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.08.17-02.37.17:595][426]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2022.08.17-02.37.24:551][252]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/PhoneScene/Phone5.Phone5:PersistentLevel.Phone5
+[2022.08.17-02.37.38:453][273]BlueprintLog: New page: Compile Phone5
+[2022.08.17-02.37.38:484][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.08.17-02.37.38:858][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.17-02.37.38:884][310]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Phone53896D4EE47BE39E105DCFE91BF49F3CA.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/PhoneScene/Phone5.umap'
+[2022.08.17-02.37.38:895][310]LogFileHelpers: Saving map 'Phone5' took 0.053
+[2022.08.17-02.37.38:904][310]AssetCheck: New page: Asset Save: Phone5
+[2022.08.17-02.37.38:904][310]LogContentValidation: Display: Validating World /Game/Triage/PhoneScene/Phone5.Phone5
+[2022.08.17-02.37.51:544][971]LogSlate: Window 'Phone5' being destroyed
+[2022.08.17-02.37.51:553][971]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.37.51:553][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.37.53:259][170]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.17-02.37.53:484][170]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.08.17-02.37.54:649][302]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.37.54:651][302]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.38.09:193][954]BlueprintLog: New page: Compile Shift5Complete
+[2022.08.17-02.38.09:222][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.17-02.38.09:562][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Widgets/Shift5Complete" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset" SILENT=true
+[2022.08.17-02.38.09:579][987]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Shift5Complete49152D694B5ECC0C9079908D19B8DD6B.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Widgets/Shift5Complete.uasset'
+[2022.08.17-02.38.09:590][987]AssetCheck: New page: Asset Save: Shift5Complete
+[2022.08.17-02.38.09:590][987]LogContentValidation: Display: Validating WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.17-02.38.10:236][ 57]LogSlate: Window 'Shift5Complete' being destroyed
+[2022.08.17-02.38.10:242][ 57]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.38.10:242][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.38.10:251][ 57]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.38.10:251][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.38.16:738][825]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/PhoneScene/Phone5.Phone5:PersistentLevel.Phone5
+[2022.08.17-02.38.18:692][ 24]LogSlate: Window 'Phone5' being destroyed
+[2022.08.17-02.38.18:701][ 24]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.38.18:701][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.38.42:588][879]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/PhoneScene/Phone5.Phone5:PersistentLevel.Phone5
+[2022.08.17-02.38.58:743][776]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/Shift5Complete.Shift5Complete
+[2022.08.17-02.38.58:960][776]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.08.17-02.38.59:925][886]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.38.59:927][886]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.42.36:701][922]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.42.36:710][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.42.36:710][922]PIE: New page: PIE session: Phone5 (17 Aug 2022, 10:42:36 pm)
+[2022.08.17-02.42.36:710][922]LogPlayLevel: Creating play world package: /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-02.42.36:721][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010831s)
+[2022.08.17-02.42.36:722][922]LogAIModule: Creating AISystem for world Phone5
+[2022.08.17-02.42.36:722][922]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.08.17-02.42.36:722][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/PhoneScene/Phone5.Phone5 to /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 (0.012038s)
+[2022.08.17-02.42.36:757][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.08.17-02.42.36:759][922]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.42.36:759][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.42.36:759][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.42.36:759][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.42.36:759][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.42.36:759][922]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.42.36:761][922]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.42.36:761][922]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.42.36:766][922]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.42.36:767][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.42.36:767][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.42.36:767][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.42.36:767][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.42.36:767][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.42.36:767][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.42.36:768][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.42.36:768][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.42.36:768][922]LogInit: FAudioDevice initialized.
+[2022.08.17-02.42.36:768][922]LogAudio: Display: Audio Device (ID: 77) registered with world 'Phone5'.
+[2022.08.17-02.42.36:785][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.42.36:785][922]LogLoad: Game class is 'TriageGM_C'
+[2022.08.17-02.42.36:788][922]LogWorld: Bringing World /Game/Triage/PhoneScene/UEDPIE_0_Phone5.Phone5 up for play (max tick rate 0) at 2022.08.17-12.42.36
+[2022.08.17-02.42.36:788][922]LogWorld: Bringing up level for play took: 0.002173
+[2022.08.17-02.42.36:788][922]LogOnline: OSS: Creating online subsystem instance for: :Context_154
+[2022.08.17-02.42.36:791][922]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=326.243 Y=3.557 Z=232.001] for [PlayerControllerBP_C]
+[2022.08.17-02.42.36:791][922]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type PlayerControllerBP_C at Rotation: Pitch 0.000000 Yaw -179.999893 Roll 0.000000
+Translation: 326.243225 3.556587 232.000671
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.08.17-02.42.36:796][922]PIE: Server logged in
+[2022.08.17-02.42.36:798][922]PIE: Play in editor total start time 0.09 seconds.
+[2022.08.17-02.42.40:098][312]LogNet: Browse: /Game/Triage/Levels/Credits
+[2022.08.17-02.42.40:098][312]LogLoad: LoadMap: /Game/Triage/Levels/Credits
+[2022.08.17-02.42.40:098][312]LogWorld: BeginTearingDown for /Game/Triage/PhoneScene/UEDPIE_0_Phone5
+[2022.08.17-02.42.40:098][312]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.42.40:098][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.42.40:169][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.42.40:172][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.17-02.42.40:209][312]LogAudio: Display: Audio Device (ID: 77) registered with world 'Credits'.
+[2022.08.17-02.42.40:210][312]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.42.40:210][312]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.42.40:225][312]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.42.40
+[2022.08.17-02.42.40:226][312]LogWorld: Bringing up level for play took: 0.015352
+[2022.08.17-02.42.40:228][312]LogLoad: Took 0.129860 seconds to LoadMap(/Game/Triage/Levels/Credits)
+[2022.08.17-02.42.45:371][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.42.45:371][652]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.42.45:371][652]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.42.45:375][652]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.42.45:378][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.42.45:383][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.42.45:388][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.42.45:407][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.42.45:407][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.42.45:408][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.42.45:414][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.17-02.42.45:432][653]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2022.08.17-02.42.50:615][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.17-02.42.50:675][268]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.42.50:675][268]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-02.42.50:675][268]LightingResults: New page: Lighting Build
+[2022.08.17-02.42.50:675][268]LoadErrors: New page: Loading map: Credits.umap
+[2022.08.17-02.42.50:689][268]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.42.50:689][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.42.50:723][268]LogWorld: UWorld::CleanupWorld for Phone5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.42.50:723][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.42.50:723][268]MapCheck: New page: Map Check
+[2022.08.17-02.42.50:723][268]LightingResults: New page: Lighting Build
+[2022.08.17-02.42.50:740][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.42.50:745][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.08.17-02.42.50:746][268]LogAudio: Display: Audio Device (ID: 1) registered with world 'Credits'.
+[2022.08.17-02.42.50:780][268]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-02.42.50:780][268]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.42.50:805][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.08.17-02.42.50:815][268]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-02.42.50:816][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2022.08.17-02.42.50:816][268]LogFileHelpers: Loading map 'Credits' took 0.141
+[2022.08.17-02.45.35:790][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.08.17-02.45.35:861][ 70]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/MainMenu.MainMenu
+[2022.08.17-02.45.35:862][ 70]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-02.45.35:862][ 70]LightingResults: New page: Lighting Build
+[2022.08.17-02.45.35:862][ 70]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.08.17-02.45.35:867][ 70]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.45.35:867][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.45.35:868][ 70]MapCheck: New page: Map Check
+[2022.08.17-02.45.35:868][ 70]LightingResults: New page: Lighting Build
+[2022.08.17-02.45.35:884][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.45.35:892][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.17-02.45.35:893][ 70]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.08.17-02.45.35:931][ 70]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-02.45.35:931][ 70]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.17-02.45.35:954][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.17-02.45.35:964][ 70]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-02.45.35:964][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2022.08.17-02.45.35:964][ 70]LogFileHelpers: Loading map 'MainMenu' took 0.102
+[2022.08.17-02.45.39:969][314]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Triage/Widgets/MainMenuWidget.MainMenuWidget
+[2022.08.17-02.45.40:192][314]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.08.17-02.45.44:773][583]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.08.17-02.45.52:106][117]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.45.52:106][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.45.52:118][117]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.45.52:118][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.45.52:983][168]LogSlate: Window 'Shift5Complete' being destroyed
+[2022.08.17-02.45.52:989][168]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.45.52:989][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.45.52:998][168]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.45.52:998][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.45.54:737][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.17-02.45.54:795][275]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.45.54:795][275]Cmd: MAP LOAD FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.17-02.45.54:795][275]LightingResults: New page: Lighting Build
+[2022.08.17-02.45.54:795][275]LoadErrors: New page: Loading map: Credits.umap
+[2022.08.17-02.45.54:798][275]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.45.54:798][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.45.54:799][275]MapCheck: New page: Map Check
+[2022.08.17-02.45.54:799][275]LightingResults: New page: Lighting Build
+[2022.08.17-02.45.54:814][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.45.54:821][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.17-02.45.54:822][275]LogAudio: Display: Audio Device (ID: 1) registered with world 'Credits'.
+[2022.08.17-02.45.54:856][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.17-02.45.54:856][275]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.45.54:879][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.08.17-02.45.54:889][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.17-02.45.54:889][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2022.08.17-02.45.54:889][275]LogFileHelpers: Loading map 'Credits' took 0.094
+[2022.08.17-02.45.59:266][605]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Triage/Levels/Credits.Credits:PersistentLevel.Credits
+[2022.08.17-02.46.19:145][483]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.17-02.46.19:161][483]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.17-02.47.38:960][922]BlueprintLog: New page: Compile Credits
+[2022.08.17-02.47.39:001][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.08.17-02.47.39:265][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Credits" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-02.47.39:282][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.17-02.47.39:381][943]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/CreditsEC63A23344CDF1584C9E038D1BDBF2E3.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap'
+[2022.08.17-02.47.39:394][943]LogFileHelpers: Saving map 'Credits' took 0.130
+[2022.08.17-02.47.39:406][943]AssetCheck: New page: Asset Save: Credits
+[2022.08.17-02.47.39:406][943]LogContentValidation: Display: Validating World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.47.41:936][113]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.47.41:943][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.47.41:943][113]PIE: New page: PIE session: Credits (17 Aug 2022, 10:47:41 pm)
+[2022.08.17-02.47.41:943][113]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.47.41:973][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029615s)
+[2022.08.17-02.47.41:974][113]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.47.41:974][113]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2022.08.17-02.47.41:974][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Credits.Credits to /Game/Triage/Levels/UEDPIE_0_Credits.Credits (0.030775s)
+[2022.08.17-02.47.41:992][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.17-02.47.41:993][113]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.47.41:994][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.47.41:994][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.47.41:994][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.47.41:994][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.47.41:994][113]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.47.41:996][113]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.47.41:996][113]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.47.42:001][113]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.47.42:001][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.47.42:001][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.47.42:001][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.47.42:002][113]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.47.42:002][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.47.42:002][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.47.42:003][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.47.42:003][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.47.42:003][113]LogInit: FAudioDevice initialized.
+[2022.08.17-02.47.42:003][113]LogAudio: Display: Audio Device (ID: 78) registered with world 'Credits'.
+[2022.08.17-02.47.42:016][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.47.42:016][113]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.47.42:026][113]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.47.42
+[2022.08.17-02.47.42:028][113]LogWorld: Bringing up level for play took: 0.011121
+[2022.08.17-02.47.42:028][113]LogOnline: OSS: Creating online subsystem instance for: :Context_158
+[2022.08.17-02.47.42:035][113]PIE: Server logged in
+[2022.08.17-02.47.42:036][113]PIE: Play in editor total start time 0.095 seconds.
+[2022.08.17-02.47.47:358][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.47.47:358][474]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.47.47:359][474]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.47.47:363][474]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.47.47:366][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.47.47:377][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.47.47:382][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.47.47:400][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.47.47:401][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.47.47:406][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.17-02.47.47:426][475]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2022.08.17-02.48.12:002][465]BlueprintLog: New page: Compile Credits
+[2022.08.17-02.48.12:037][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.17-02.48.12:767][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Credits" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-02.48.12:784][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.17-02.48.12:885][517]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Credits865EB85F4257FF18D1E2C797C7AC4B94.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap'
+[2022.08.17-02.48.12:897][517]LogFileHelpers: Saving map 'Credits' took 0.131
+[2022.08.17-02.48.12:907][517]AssetCheck: New page: Asset Save: Credits
+[2022.08.17-02.48.12:907][517]LogContentValidation: Display: Validating World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.48.14:056][595]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.48.14:064][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.48.14:064][595]PIE: New page: PIE session: Credits (17 Aug 2022, 10:48:14 pm)
+[2022.08.17-02.48.14:064][595]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.48.14:095][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030915s)
+[2022.08.17-02.48.14:096][595]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.48.14:096][595]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2022.08.17-02.48.14:096][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Credits.Credits to /Game/Triage/Levels/UEDPIE_0_Credits.Credits (0.032033s)
+[2022.08.17-02.48.14:116][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.17-02.48.14:117][595]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.48.14:117][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.48.14:117][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.48.14:118][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.48.14:118][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.48.14:118][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.48.14:118][595]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.48.14:119][595]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.48.14:119][595]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.48.14:124][595]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.48.14:124][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.48.14:124][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.48.14:124][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.48.14:125][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.48.14:125][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.48.14:125][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.48.14:126][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.48.14:126][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.48.14:126][595]LogInit: FAudioDevice initialized.
+[2022.08.17-02.48.14:126][595]LogAudio: Display: Audio Device (ID: 79) registered with world 'Credits'.
+[2022.08.17-02.48.14:139][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.48.14:139][595]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.48.14:150][595]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.48.14
+[2022.08.17-02.48.14:151][595]LogWorld: Bringing up level for play took: 0.011033
+[2022.08.17-02.48.14:152][595]LogOnline: OSS: Creating online subsystem instance for: :Context_159
+[2022.08.17-02.48.14:158][595]PIE: Server logged in
+[2022.08.17-02.48.14:159][595]PIE: Play in editor total start time 0.096 seconds.
+[2022.08.17-02.48.20:247][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.48.20:247][ 15]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.48.20:248][ 15]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.48.20:253][ 15]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.48.20:255][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.48.20:266][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.48.20:272][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.48.20:290][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.48.20:291][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.48.20:297][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.17-02.48.20:324][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2022.08.17-02.48.52:841][909]BlueprintLog: New page: Compile Credits
+[2022.08.17-02.48.52:875][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.08.17-02.48.53:094][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Credits" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-02.48.53:111][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.17-02.48.53:211][926]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Credits776B44C240ED487215CDDF968538DCB4.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap'
+[2022.08.17-02.48.53:224][926]LogFileHelpers: Saving map 'Credits' took 0.131
+[2022.08.17-02.48.53:235][926]AssetCheck: New page: Asset Save: Credits
+[2022.08.17-02.48.53:235][926]LogContentValidation: Display: Validating World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.48.54:333][  3]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.48.54:340][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.48.54:340][  3]PIE: New page: PIE session: Credits (17 Aug 2022, 10:48:54 pm)
+[2022.08.17-02.48.54:340][  3]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.48.54:371][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031065s)
+[2022.08.17-02.48.54:372][  3]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.48.54:372][  3]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2022.08.17-02.48.54:372][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Credits.Credits to /Game/Triage/Levels/UEDPIE_0_Credits.Credits (0.032170s)
+[2022.08.17-02.48.54:392][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.17-02.48.54:392][  3]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.48.54:393][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.48.54:393][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.48.54:393][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.48.54:393][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.48.54:393][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.48.54:394][  3]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.48.54:394][  3]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.48.54:399][  3]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.48.54:400][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.48.54:400][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.48.54:400][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.48.54:400][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.48.54:400][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.48.54:400][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.48.54:401][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.48.54:401][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.48.54:401][  3]LogInit: FAudioDevice initialized.
+[2022.08.17-02.48.54:401][  3]LogAudio: Display: Audio Device (ID: 80) registered with world 'Credits'.
+[2022.08.17-02.48.54:415][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.48.54:415][  3]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.48.54:424][  3]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.48.54
+[2022.08.17-02.48.54:425][  3]LogWorld: Bringing up level for play took: 0.009536
+[2022.08.17-02.48.54:425][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_160
+[2022.08.17-02.48.54:432][  3]PIE: Server logged in
+[2022.08.17-02.48.54:433][  3]PIE: Play in editor total start time 0.094 seconds.
+[2022.08.17-02.49.01:474][499]LogNet: Browse: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.49.01:474][499]LogLoad: LoadMap: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.49.01:474][499]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.49.01:475][499]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.49.01:476][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.49.01:525][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.49.01:529][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.17-02.49.01:566][499]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMenu'.
+[2022.08.17-02.49.01:567][499]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.17-02.49.01:567][499]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.17-02.49.01:579][499]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.08.17-12.49.01
+[2022.08.17-02.49.01:579][499]LogWorld: Bringing up level for play took: 0.011245
+[2022.08.17-02.49.01:582][499]LogLoad: Took 0.107748 seconds to LoadMap(/Game/Triage/Levels/MainMenu)
+[2022.08.17-02.49.01:611][499]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.17-02.49.02:868][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.49.02:868][580]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_MainMenu
+[2022.08.17-02.49.02:868][580]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.49.02:872][580]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.49.02:874][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.49.02:884][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.49.02:888][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.49.02:905][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.49.02:905][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.49.02:906][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.49.02:913][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.17-02.49.02:936][581]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2022.08.17-02.49.35:968][235]LogEditorTransaction: Undo Move Node
+[2022.08.17-02.49.56:954][120]BlueprintLog: New page: Compile Credits
+[2022.08.17-02.49.56:989][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.08.17-02.49.57:251][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Credits" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-02.49.57:269][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.08.17-02.49.58:214][140]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/CreditsA307DF08419094CFFAB8BA89E1BF454D.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap'
+[2022.08.17-02.49.58:227][140]LogFileHelpers: Saving map 'Credits' took 0.976
+[2022.08.17-02.49.58:240][140]AssetCheck: New page: Asset Save: Credits
+[2022.08.17-02.49.58:241][140]LogContentValidation: Display: Validating World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.50.00:009][260]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.50.00:018][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.50.00:018][260]PIE: New page: PIE session: Credits (17 Aug 2022, 10:50:00 pm)
+[2022.08.17-02.50.00:018][260]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.50.00:048][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030875s)
+[2022.08.17-02.50.00:049][260]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.50.00:049][260]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2022.08.17-02.50.00:049][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Credits.Credits to /Game/Triage/Levels/UEDPIE_0_Credits.Credits (0.032061s)
+[2022.08.17-02.50.00:069][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.17-02.50.00:070][260]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.50.00:070][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.50.00:070][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.50.00:071][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.50.00:071][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.50.00:071][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.50.00:071][260]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.50.00:072][260]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.50.00:072][260]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.50.00:077][260]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.50.00:077][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.50.00:077][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.50.00:078][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.50.00:078][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.50.00:078][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.50.00:078][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.50.00:079][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.50.00:079][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.50.00:079][260]LogInit: FAudioDevice initialized.
+[2022.08.17-02.50.00:079][260]LogAudio: Display: Audio Device (ID: 81) registered with world 'Credits'.
+[2022.08.17-02.50.00:095][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.50.00:095][260]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.50.00:104][260]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.50.00
+[2022.08.17-02.50.00:105][260]LogWorld: Bringing up level for play took: 0.009426
+[2022.08.17-02.50.00:105][260]LogOnline: OSS: Creating online subsystem instance for: :Context_161
+[2022.08.17-02.50.00:111][260]PIE: Server logged in
+[2022.08.17-02.50.00:113][260]PIE: Play in editor total start time 0.097 seconds.
+[2022.08.17-02.50.05:919][658]LogNet: Browse: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.50.05:919][658]LogLoad: LoadMap: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.50.05:919][658]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.50.05:920][658]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.50.05:922][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.50.05:963][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.50.05:968][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.17-02.50.06:002][658]LogAudio: Display: Audio Device (ID: 81) registered with world 'MainMenu'.
+[2022.08.17-02.50.06:002][658]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.17-02.50.06:003][658]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.17-02.50.06:015][658]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.08.17-12.50.06
+[2022.08.17-02.50.06:015][658]LogWorld: Bringing up level for play took: 0.011973
+[2022.08.17-02.50.06:018][658]LogLoad: Took 0.098674 seconds to LoadMap(/Game/Triage/Levels/MainMenu)
+[2022.08.17-02.50.06:043][658]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.17-02.50.06:948][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.50.06:948][715]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_MainMenu
+[2022.08.17-02.50.06:948][715]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.50.06:955][715]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.50.06:956][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.50.06:964][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.50.06:968][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.50.06:985][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.50.06:986][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.50.06:994][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.17-02.50.07:040][718]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2022.08.17-02.50.35:616][ 74]BlueprintLog: New page: Compile Credits
+[2022.08.17-02.50.35:652][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.08.17-02.50.35:884][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Credits" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-02.50.35:900][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.17-02.50.36:001][ 93]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Credits64EBEE174BDBEAB3C08D08B0FF7C7B8C.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap'
+[2022.08.17-02.50.36:014][ 93]LogFileHelpers: Saving map 'Credits' took 0.131
+[2022.08.17-02.50.36:024][ 93]AssetCheck: New page: Asset Save: Credits
+[2022.08.17-02.50.36:024][ 93]LogContentValidation: Display: Validating World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.50.47:892][114]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.50.47:900][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.50.47:900][114]PIE: New page: PIE session: Credits (17 Aug 2022, 10:50:47 pm)
+[2022.08.17-02.50.47:900][114]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.50.47:931][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030617s)
+[2022.08.17-02.50.47:932][114]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.50.47:932][114]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2022.08.17-02.50.47:932][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Credits.Credits to /Game/Triage/Levels/UEDPIE_0_Credits.Credits (0.031669s)
+[2022.08.17-02.50.47:950][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.17-02.50.47:952][114]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.50.47:952][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.50.47:952][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.50.47:953][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.50.47:953][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.50.47:953][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.50.47:953][114]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.50.47:954][114]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.50.47:954][114]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.50.47:959][114]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.50.47:959][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.50.47:959][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.50.47:959][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.50.47:960][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.50.47:960][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.50.47:960][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.50.47:961][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.50.47:961][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.50.47:961][114]LogInit: FAudioDevice initialized.
+[2022.08.17-02.50.47:961][114]LogAudio: Display: Audio Device (ID: 82) registered with world 'Credits'.
+[2022.08.17-02.50.47:974][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.50.47:974][114]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.50.47:983][114]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.50.47
+[2022.08.17-02.50.47:984][114]LogWorld: Bringing up level for play took: 0.009817
+[2022.08.17-02.50.47:985][114]LogOnline: OSS: Creating online subsystem instance for: :Context_162
+[2022.08.17-02.50.47:991][114]PIE: Server logged in
+[2022.08.17-02.50.47:993][114]PIE: Play in editor total start time 0.094 seconds.
+[2022.08.17-02.50.53:878][521]LogNet: Browse: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.50.53:878][521]LogLoad: LoadMap: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.50.53:878][521]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.50.53:880][521]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.50.53:881][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.50.53:936][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.50.53:942][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.08.17-02.50.53:976][521]LogAudio: Display: Audio Device (ID: 82) registered with world 'MainMenu'.
+[2022.08.17-02.50.53:976][521]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.17-02.50.53:976][521]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.17-02.50.53:988][521]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.08.17-12.50.53
+[2022.08.17-02.50.53:988][521]LogWorld: Bringing up level for play took: 0.011414
+[2022.08.17-02.50.53:991][521]LogLoad: Took 0.112734 seconds to LoadMap(/Game/Triage/Levels/MainMenu)
+[2022.08.17-02.50.54:019][521]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.17-02.50.54:708][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.50.54:708][563]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_MainMenu
+[2022.08.17-02.50.54:709][563]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.50.54:713][563]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.50.54:714][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.50.54:720][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.50.54:725][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.50.54:742][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.50.54:743][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.50.54:748][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.08.17-02.50.54:767][564]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2022.08.17-02.51.07:861][646]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.17-02.51.07:877][646]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.17-02.51.33:590][907]BlueprintLog: New page: Compile Credits
+[2022.08.17-02.51.33:624][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.08.17-02.51.33:844][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triage/Levels/Credits" FILE="C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-02.51.33:860][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.17-02.51.33:960][925]LogSavePackage: Moving 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Saved/Credits794504594E50BCCD3631B69F0A526447.tmp' to 'C:/Users/bgsan/Documents/UnrealProjects/Triage/Triage/Content/Triage/Levels/Credits.umap'
+[2022.08.17-02.51.33:972][925]LogFileHelpers: Saving map 'Credits' took 0.129
+[2022.08.17-02.51.33:983][925]AssetCheck: New page: Asset Save: Credits
+[2022.08.17-02.51.33:983][925]LogContentValidation: Display: Validating World /Game/Triage/Levels/Credits.Credits
+[2022.08.17-02.51.37:612][165]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.17-02.51.37:620][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-02.51.37:620][165]PIE: New page: PIE session: Credits (17 Aug 2022, 10:51:37 pm)
+[2022.08.17-02.51.37:620][165]LogPlayLevel: Creating play world package: /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.51.37:650][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029478s)
+[2022.08.17-02.51.37:650][165]LogAIModule: Creating AISystem for world Credits
+[2022.08.17-02.51.37:650][165]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2022.08.17-02.51.37:650][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Triage/Levels/Credits.Credits to /Game/Triage/Levels/UEDPIE_0_Credits.Credits (0.030805s)
+[2022.08.17-02.51.37:668][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.08.17-02.51.37:670][165]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-02.51.37:670][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-02.51.37:670][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-02.51.37:670][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-02.51.37:670][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-02.51.37:670][165]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.17-02.51.37:672][165]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.17-02.51.37:672][165]LogAudioMixer: Display: 1: FrontRight
+[2022.08.17-02.51.37:676][165]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2022.08.17-02.51.37:677][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-02.51.37:677][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-02.51.37:677][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-02.51.37:677][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.17-02.51.37:677][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.17-02.51.37:677][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.17-02.51.37:679][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.17-02.51.37:679][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.17-02.51.37:679][165]LogInit: FAudioDevice initialized.
+[2022.08.17-02.51.37:679][165]LogAudio: Display: Audio Device (ID: 83) registered with world 'Credits'.
+[2022.08.17-02.51.37:693][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.51.37:693][165]LogLoad: Game class is 'CreditsGameMode_C'
+[2022.08.17-02.51.37:702][165]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_Credits.Credits up for play (max tick rate 0) at 2022.08.17-12.51.37
+[2022.08.17-02.51.37:704][165]LogWorld: Bringing up level for play took: 0.009978
+[2022.08.17-02.51.37:704][165]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2022.08.17-02.51.37:709][165]PIE: Server logged in
+[2022.08.17-02.51.37:711][165]PIE: Play in editor total start time 0.093 seconds.
+[2022.08.17-02.51.43:455][590]LogNet: Browse: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.51.43:455][590]LogLoad: LoadMap: /Game/Triage/Levels/MainMenu
+[2022.08.17-02.51.43:455][590]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_Credits
+[2022.08.17-02.51.43:456][590]LogWorld: UWorld::CleanupWorld for Credits, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.51.43:458][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.51.43:505][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-02.51.43:509][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.08.17-02.51.43:542][590]LogAudio: Display: Audio Device (ID: 83) registered with world 'MainMenu'.
+[2022.08.17-02.51.43:543][590]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.17-02.51.43:543][590]LogLoad: Game class is 'MenuGAME_C'
+[2022.08.17-02.51.43:554][590]LogWorld: Bringing World /Game/Triage/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.08.17-12.51.43
+[2022.08.17-02.51.43:555][590]LogWorld: Bringing up level for play took: 0.011376
+[2022.08.17-02.51.43:557][590]LogLoad: Took 0.102330 seconds to LoadMap(/Game/Triage/Levels/MainMenu)
+[2022.08.17-02.51.43:585][590]LogAudio: Warning: Detected orphaned looping sound 'Menu_Loop'.
+[2022.08.17-02.51.45:448][717]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.08.17-02.51.45:448][717]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.17-02.51.45:448][717]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.08.17-02.51.45:488][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-02.51.45:488][718]LogWorld: BeginTearingDown for /Game/Triage/Levels/UEDPIE_0_MainMenu
+[2022.08.17-02.51.45:489][718]LogSlate: Window 'Triage Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.17-02.51.45:494][718]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-02.51.45:495][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.51.45:505][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-02.51.45:510][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-02.51.45:526][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.51.45:527][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.17-02.51.45:532][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.08.17-02.51.45:591][720]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2022.08.17-02.51.47:937][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
